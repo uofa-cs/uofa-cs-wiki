@@ -19,44 +19,44 @@ This wiki is **community-maintained**. It reflects the lived experiences of UofA
 ## Table of Contents
 
 ### Getting Started
-- [Program Overview](#) — BSc CS General, Specialization, and Honors: what the differences actually mean and which to pick
-- [Degree Planning](#) — Semester-by-semester planning, how to use BearTracks, common pitfalls to avoid
-- [First Year Guide](#) — Survival guide for CMPUT 174/175/274/275 and the math courses that trip everyone up
+- [Program Overview](docs/getting-started/program-overview.md) — BSc CS General, Specialization, and Honors: what the differences actually mean and which to pick
+- [Degree Planning](docs/getting-started/degree-planning.md) — Semester-by-semester planning, how to use BearTracks, common pitfalls to avoid
+- [First Year Guide](docs/getting-started/first-year-guide.md) — Survival guide for CMPUT 174/175/274/275 and the math courses that trip everyone up
 
 ### Courses
-- [Course Guide](#) — An opinionated walkthrough of every major CMPUT course: what you'll learn, how hard it is, and whether it's worth it
-- [Elective Strategy](#) — How to pick technical and non-technical electives strategically for your goals
-- [Hidden Gems](#) — Underrated courses that more students should know about
+- [Course Guide](docs/courses/course-guide.md) — An opinionated walkthrough of every major CMPUT course: what you'll learn, how hard it is, and whether it's worth it
+- [Elective Strategy](docs/courses/elective-strategy.md) — How to pick technical and non-technical electives strategically for your goals
+- [Hidden Gems](docs/courses/hidden-gems.md) — Underrated courses that more students should know about
 
 ### Skills
-- [What to Learn](#) — The gap between what UofA teaches and what industry expects (Docker, CI/CD, cloud, testing, and more)
-- [Programming Languages](#) — What UofA teaches vs. what industry uses, and what to pick up on your own
-- [Tools and Setup](#) — Git, Linux, VS Code, terminal setup, dotfiles, and how to build good habits early
-- [System Design](#) — An intro to distributed systems concepts that will come up in interviews and on the job
-- [Side Projects](#) — What to build, how to scope projects for your skill level, and how to make them stand out to recruiters
+- [What to Learn](docs/skills/what-to-learn.md) — The gap between what UofA teaches and what industry expects (Docker, CI/CD, cloud, testing, and more)
+- [Programming Languages](docs/skills/programming-languages.md) — What UofA teaches vs. what industry uses, and what to pick up on your own
+- [Tools and Setup](docs/skills/tools-and-setup.md) — Git, Linux, VS Code, terminal setup, dotfiles, and how to build good habits early
+- [System Design](docs/skills/system-design.md) — An intro to distributed systems concepts that will come up in interviews and on the job
+- [Side Projects](docs/skills/side-projects.md) — What to build, how to scope projects for your skill level, and how to make them stand out to recruiters
 
 ### Career
-- [Internships](#) — When and how to apply, which Edmonton companies hire students, remote options, and what to expect
-- [Resume Guide](#) — CS-specific resume advice: what to include, what to cut, and how to pass the recruiter screen
-- [Interview Prep](#) — LeetCode strategy, behavioral interview frameworks, and how system design interviews actually work
-- [New Grad](#) — Landing your first full-time role, understanding your offer, and negotiating salary
-- [Career Paths](#) — Backend, ML/AI, DevOps, security, game dev, and more: what each path looks like and how to get there
-- [Edmonton Tech Scene](#) — Companies, realistic salary ranges, why Edmonton is more underrated than you think
+- [Internships](docs/career/internships.md) — When and how to apply, which Edmonton companies hire students, remote options, and what to expect
+- [Resume Guide](docs/career/resume-guide.md) — CS-specific resume advice: what to include, what to cut, and how to pass the recruiter screen
+- [Interview Prep](docs/career/interview-prep.md) — LeetCode strategy, behavioral interview frameworks, and how system design interviews actually work
+- [New Grad](docs/career/new-grad.md) — Landing your first full-time role, understanding your offer, and negotiating salary
+- [Career Paths](docs/career/career-paths.md) — Backend, ML/AI, DevOps, security, game dev, and more: what each path looks like and how to get there
+- [Edmonton Tech Scene](docs/career/edmonton-tech-scene.md) — Companies, realistic salary ranges, why Edmonton is more underrated than you think
 
 ### Research
-- [Getting into Research](#) — NSERC USRA, how to approach professors, what research actually looks like day-to-day
-- [Grad School](#) — MSc vs. PhD, whether it's worth it, and how to decide
-- [UAlberta Labs](#) — RLAI, Amii, the database group, systems group, and other research groups worth knowing about
+- [Getting into Research](docs/research/getting-into-research.md) — NSERC USRA, how to approach professors, what research actually looks like day-to-day
+- [Grad School](docs/research/grad-school.md) — MSc vs. PhD, whether it's worth it, and how to decide
+- [UAlberta Labs](docs/research/ualberta-labs.md) — RLAI, Amii, the database group, systems group, and other research groups worth knowing about
 
 ### Community
-- [Clubs and Organizations](#) — The Computing Science Club, competitive programming, the AI club, hackathons, and how to get involved
-- [Networking](#) — LinkedIn, Edmonton meetups, cold outreach that doesn't feel gross, and why it matters more than you think
-- [Online Presence](#) — GitHub, LinkedIn, personal websites, blogging, and building a presence that gets you noticed
+- [Clubs and Organizations](docs/community/clubs-and-orgs.md) — The Computing Science Club, competitive programming, the AI club, hackathons, and how to get involved
+- [Networking](docs/community/networking.md) — LinkedIn, Edmonton meetups, cold outreach that doesn't feel gross, and why it matters more than you think
+- [Online Presence](docs/community/online-presence.md) — GitHub, LinkedIn, personal websites, blogging, and building a presence that gets you noticed
 
 ### Resources
-- [Learning Resources](#) — Books, online courses, YouTube channels, and practice platforms worth your time
-- [Scholarships](#) — Jason Lang, Louise McKinney, NSERC USRA, and other funding opportunities UofA CS students can access
-- [FAQ](#) — Honest answers to the questions students ask most often
+- [Learning Resources](docs/resources/learning-resources.md) — Books, online courses, YouTube channels, and practice platforms worth your time
+- [Scholarships](docs/resources/scholarships.md) — Jason Lang, Louise McKinney, NSERC USRA, and other funding opportunities UofA CS students can access
+- [FAQ](docs/resources/faq.md) — Honest answers to the questions students ask most often
 
 ---
 
@@ -64,12 +64,12 @@ This wiki is **community-maintained**. It reflects the lived experiences of UofA
 
 Not sure where to begin? Start here based on where you are right now:
 
-- **If you're a first-year student:** Start with [First Year Guide](#), then read [Program Overview](#) when you're ready to think about specializations.
-- **If you're figuring out your degree plan:** Read [Program Overview](#) and [Degree Planning](#) together, then look at the [Course Guide](#) for courses coming up in your next semester.
-- **If you're looking for your first internship:** Go straight to [Internships](#) and [Resume Guide](#). Then come back to [Interview Prep](#) once you have applications out.
-- **If you want to build skills beyond coursework:** Start with [What to Learn](#) to understand the gap, then read [Side Projects](#) for what to actually build.
-- **If you're considering research:** Read [Getting into Research](#) for a realistic picture, and [UAlberta Labs](#) to understand what groups exist.
-- **If you're thinking about grad school:** Read [Grad School](#) first. It will help you figure out whether it's the right move before you commit.
+- **If you're a first-year student:** Start with [First Year Guide](docs/getting-started/first-year-guide.md), then read [Program Overview](docs/getting-started/program-overview.md) when you're ready to think about specializations.
+- **If you're figuring out your degree plan:** Read [Program Overview](docs/getting-started/program-overview.md) and [Degree Planning](docs/getting-started/degree-planning.md) together, then look at the [Course Guide](docs/courses/course-guide.md) for courses coming up in your next semester.
+- **If you're looking for your first internship:** Go straight to [Internships](docs/career/internships.md) and [Resume Guide](docs/career/resume-guide.md). Then come back to [Interview Prep](docs/career/interview-prep.md) once you have applications out.
+- **If you want to build skills beyond coursework:** Start with [What to Learn](docs/skills/what-to-learn.md) to understand the gap, then read [Side Projects](docs/skills/side-projects.md) for what to actually build.
+- **If you're considering research:** Read [Getting into Research](docs/research/getting-into-research.md) for a realistic picture, and [UAlberta Labs](docs/research/ualberta-labs.md) to understand what groups exist.
+- **If you're thinking about grad school:** Read [Grad School](docs/research/grad-school.md) first. It will help you figure out whether it's the right move before you commit.
 
 ---
 
