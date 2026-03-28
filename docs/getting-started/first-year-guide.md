@@ -16,15 +16,21 @@ This is the default entry point. Both courses use Python, which is the right lan
 
 These are manageable courses if you engage consistently. The students who fail 174/175 are almost always students who skipped lectures, fell behind on assignments, and then tried to cram before exams. Programming doesn't work like that. You can't memorize your way through debugging a recursive function at 11pm the night before a deadline.
 
+**Best professors for 174/175:** If **Osmar Zaiane** is teaching, register immediately — he is consistently called one of the best professors in the department, with 95%+ would-take-again on RMP. He uses physical props in lectures, calls on students (with prizes, not shame), and makes the material genuinely engaging. His workload is heavy (3–4 assessments per week), so don't take his section if you're overloaded — but if you can, his section is significantly better than alternatives. **Joerg Sander (4.0/5)** and **Jonathan Schaeffer (4.7/5)** also have strong reviews for these courses.
+
 ### CMPUT 274 and 275 (Tangible Computing Stream)
 
 The Tangible Computing stream is an alternative intro sequence taught using Raspberry Pi — actual physical hardware. You'll write code that interacts with sensors, motors, and displays. It's hands-on in a way that 174/175 is not, and frankly it's more exciting. You build things you can show people.
 
-The tradeoff: it's harder. The setup is more involved, the projects are more complex, and the learning curve is steeper. But it leads to the same upper-year courses as 174/175, and the students who come through 274/275 often have a stronger foundation in systems thinking and hardware intuition.
+The tradeoff: it's harder. Student opinion on r/uAlberta is genuinely divided. A student with prior experience said: "274/275 wasn't hard, I got an A in both. The content is much more important than 174/175." But a student without prior experience said: "274/275 are the worst designed classes I've ever taken. You put in 20 hours per week in just one class. Everything is insanely crammed in."
 
-If you're interested in embedded systems, robotics, or hardware at all — do 274/275. If you want the path of least resistance to get through first year with a solid GPA while you figure out what you care about — 174/175 is fine.
+**The honest community consensus:** 274/275 works well for students with solid prior programming experience. For students entering with limited background, the pace is brutal and the GPA damage is real. One practical note: some upper-year professors recommend taking 204 later even if you complete 275, since 275 covers algorithms less thoroughly than a dedicated algorithms course.
 
-Both paths work. Choose based on your interests and honest self-assessment of how much additional difficulty you want to take on in first semester.
+Also notable: professor matters a lot in 274/275. **Michael Bowling (4.6/5)** and **Omid Ardakanian (4.5/5)** have strong reviews for this sequence. **Paul Lu (2.2/5)** for 274 has poor reviews with consistent complaints about unclear explanations and confusing exams.
+
+If you're interested in embedded systems, robotics, or hardware — 274/275. If you want to protect your GPA in first year and have no strong background — 174/175, and use the extra time to build side projects.
+
+Both paths work. Choose based on your honest self-assessment.
 
 ---
 
@@ -86,7 +92,7 @@ You don't need to master Git immediately. Learn `git init`, `git add`, `git comm
 
 **eClass is the official LMS** — your assignments, grades, announcements, and course materials will be posted there. Check it regularly. Some instructors also maintain separate course websites with readings or supplementary material; check the syllabus for links.
 
-**RateMyProfessors has limited and unreliable coverage for UofA CS.** The sample sizes are too small, the reviews are often outdated, and the ratings skew toward students who had particularly strong or particularly negative experiences. Don't make course registration decisions based primarily on RateMyProfessors for CS courses.
+**RateMyProfessors is useful but requires context.** Sample sizes vary enormously by professor — some have 200+ reviews (Guohui Lin), others have 5. A low rating sometimes reflects a genuinely poor teaching experience; sometimes it reflects a hard course. Check the [Professor Guide](../courses/professor-guide.md) for synthesized RMP data alongside Reddit student perspectives before you register.
 
 **Ask upperclassmen.** This is consistently more useful than any website. If you're in the CSC lounge or the Discord, ask which sections of a course are better, which TAs are most helpful, which profs are clearest. Students who went through the courses recently have better signal than a 4-year-old anonymous review.
 
@@ -113,6 +119,27 @@ First year is not too early to start building the things that matter for your ca
 **CS Clubs and Student Organizations** — The CS student community at UofA has clubs focused on competitive programming, AI/ML, game development, and more. Getting involved in clubs is a natural way to meet people with similar interests and get exposure to areas of CS outside the curriculum.
 
 **Research Curiosity** — If you find yourself genuinely interested in a research area after a course, don't wait until third year to do something about it. Professors post about research opportunities; some are open to taking motivated undergrads early. Even just reading papers in an area you find interesting puts you ahead of your peers. UofA has strong research groups in AI, HCI, systems, and theory — these are legitimate research opportunities that can lead to grad school, publications, or just a much deeper understanding of CS than coursework alone provides.
+
+---
+
+## Real Student Perspectives on First Year
+
+These are the patterns students on r/uAlberta consistently report:
+
+**"First year midterms hit differently"**
+Many first-year posts each semester follow the same arc: "I did fine in high school, I understood 174, but my first midterms were lower than expected." University grading is harder, the curve isn't as forgiving, and the speed is faster. This doesn't mean you're failing — it means calibrate early. One Reddit user advised incoming students: "Frosh get pretty damn surprised by that first bunch of midterms. If 174 turns out to be easy-peasy, take the win and enjoy the GPA boost. I guarantee you will want that boost when reality sets in."
+
+**On skipping ahead**
+If you have prior experience and consider skipping 174 to go straight to 175: it's technically possible in some cases but the advice is mixed. Students with strong backgrounds who took 174 say: "Use the extra time to build side projects. That's what gets you far." Students who skipped 174 and went to 175 sometimes found the assumed background knowledge more demanding than expected.
+
+**On course load**
+A common first-year question: "Is taking 174, MATH 114, MATH 125, and STAT 151 too much?" The consensus answer: that's manageable if you stay on top of it. The load that kills students is adding a hard CMPUT course (like 201 or 229) to an already full math slate. Don't do 201 in your first semester. MATH 125 (Linear Algebra) is more important to do early than most students realize — it's a prerequisite for 204, 267, and all the ML courses.
+
+**On professors**
+The difference between a good and a bad professor in 174/175 is larger than in many other courses, because these courses require active engagement to build programming intuition. A boring lecture in a history class is recoverable. A boring lecture in a programming course where you needed to see the code-writing thought process modeled is harder to recover from.
+
+**On mental health**
+This comes up in the community more than you'd expect. University transitions are hard regardless of academic preparation. "Look out for your mental health at uni. It can be pretty stressful in this madhouse." This is sincere advice, not filler. Connecting with people in your cohort, getting outside the apartment, and not treating every grade as an identity crisis are skills that matter as much as anything in the syllabus.
 
 ---
 

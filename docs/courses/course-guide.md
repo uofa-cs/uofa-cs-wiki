@@ -4,6 +4,8 @@ This is an opinionated guide, not the official calendar. It's written from the p
 
 > **Take CMPUT 204 seriously. It is the single most important course for software engineering interviews.**
 
+For detailed course-by-course reviews including difficulty ratings, workload estimates, and best/worst professor recommendations backed by RMP data and student Reddit discussions, see the [Course Reviews](./course-reviews.md) page. For a full professor guide with tier list, see [Professor Guide](./professor-guide.md).
+
 ---
 
 ## Foundation Courses — Everyone Needs These
@@ -62,6 +64,8 @@ These are your first two years. Don't try to optimize them — just pass them we
 **What it is:** Assembly language, digital circuits, ALU design, memory hierarchy (registers, cache, RAM, disk), pipelining.
 
 **Why it matters:** This is where you find out how computers actually work. After this course, "the computer does X" becomes "the CPU fetches the instruction, decodes it, executes it, and writes back to a register, and if it's a cache miss, here's what happens." That mental model pays dividends. Systems roles at any level require this understanding. Even web devs benefit — knowing why cache locality matters makes you a better programmer.
+
+**Student reality:** Consistently cited as one of the hardest courses in the program. One student described the semester memorably: *"One time a friend asked me, 'How's life besides 229?' I quickly answered, 'There is no life besides 229.'"* Workload-wise, it's heavy regardless of instructor. Professor matters enormously here — see [Course Reviews](./course-reviews.md#cmput-229--computer-organization-and-architecture) for specific professor guidance.
 
 **Industry relevance:** High for systems roles, medium-high for everyone else.
 

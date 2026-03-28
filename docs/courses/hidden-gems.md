@@ -8,6 +8,8 @@ The CS program has a few courses that almost nobody talks about but that are gen
 
 **Why almost nobody takes it:** It sounds intimidating. "Competitive programming" makes people think it's for math olympiad types who live and breathe algorithms. It's not. It's a structured course that teaches exactly the patterns that show up in technical interviews.
 
+**What students actually say:** One Reddit user who took it with Zachary Friggstad called it "Amazing CMPUT 403. Definitely recommend him." Another noted Friggstad will accept solutions that are correct in spirit even if not perfectly coded, and is consistently available on Discord. The format — weekly problem sets on Kattis — is uncomfortable at first and then deeply satisfying for students who stick with it.
+
 **Why you should take it:** This is the best interview prep course at UofA, and most people don't know it exists. The curriculum covers:
 
 - **Segment trees and Fenwick trees** — range query data structures that show up in medium-hard LeetCode problems
@@ -28,6 +30,8 @@ If you're applying to Google, Meta, Microsoft, Shopify, or any company that does
 ## CMPUT 382 — GPU Programming and Architecture
 
 **Why almost nobody takes it:** It has "GPU" in the name and people assume it's only for game devs or researchers. It's listed as an advanced elective that many students don't even look at.
+
+**What students actually say:** The few Reddit discussions that mention 382 describe it as "not harder than any other 300-level CMPUT." Labs take the full 3 hours. The course has had disorganized offerings in the past (one student described the first lab as "take this old demo and make it run with a newer version of Visual Studio and CUDA libraries"), but nothing unusually brutal. The content itself is consistently described as straightforward once you get past the setup friction.
 
 **Why you should take it:** The ability to write GPU code is rare. Genuinely rare. Most CS graduates, including people from much better-ranked universities, cannot write CUDA. This course teaches:
 
@@ -52,6 +56,12 @@ The job market for people who can write efficient GPU code is strong and getting
 
 **Why almost nobody takes it:** It sounds academic. "Nobody writes compilers in industry," people say. They're wrong, but more importantly, they're missing why this course matters.
 
+**What students actually say:** This is one of the most universally respected "hard" courses in the program. One Reddit review: *"Without a doubt the most work I've had to do for a CMPUT course. Also the course that I learned the most in — in retrospect, I would still take it again."*
+
+The project is a full LLVM-based compiler for a defunct IBM language with a 40-page spec. The spec glosses over features. Most groups don't fully implement everything. The workload "never lets up — as soon as an assignment is done, start the next one immediately."
+
+Before taking it: know Java well (implementation language), look up ANTLR (parser generator) and LLVM basics. Don't take 415 in the same semester as another heavy course like 229 or 466.
+
 **Why you should take it:** Understanding how a compiler works changes how you think about code. By the end of this course, you understand:
 
 - **Lexing and parsing** — how source code text becomes an abstract syntax tree (AST). This is directly relevant to any tool that processes code: linters, formatters, transpilers, IDEs
@@ -72,6 +82,10 @@ Beyond career utility, this course makes you a better programmer across the boar
 ## CMPUT 313 — Communication Networks
 
 **Why almost nobody takes it:** It's perceived as boring. Networking? Layers? Who cares?
+
+**What students actually say:** The content itself gets positive retrospective reviews from students who went on to backend or infrastructure work. One Reddit comment captured the dual nature well: "313 is drier than the desert. Not much relevancy to modern hands-on networking that you'd see for most CS work unless you want to get deep into network protocols." But another counter-perspective: the student who took it and later debugged production network issues reported wishing they'd paid more attention.
+
+**The professor factor is significant here.** Ioanis Nikolaidis makes the course genuinely interesting through tangents and enthusiasm, but goes off on many tangents and requires the textbook to fill gaps. Ehab Elmallah, who also teaches 313 and 379, gets poor reviews — described as dry, monotone, and teaching "extremely outdated" networking content. Check who's teaching before registering.
 
 **Why you should take it:** You use HTTP every single day. Every API call your code makes, every web page your browser loads, every database query that goes over a network — all of it runs on the protocols this course covers. After taking it, you know:
 
