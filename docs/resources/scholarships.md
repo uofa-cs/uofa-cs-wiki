@@ -8,10 +8,10 @@ Money for school is money for school. Whether it's covering tuition, rent, or gi
 
 ### Jason Lang Scholarship
 - **Amount**: $1,000
-- **Criteria**: Alberta resident, full-time student, GPA of 3.2+ on most recent 24 credits
+- **Criteria**: Alberta resident, full-time student, GPA of 3.5+ on a 4.0 scale based on at least an 80% full course load in the previous fall and winter terms
 - **Application**: Automatic consideration, no application required
 - **Timeline**: Awarded in fall and winter terms
-- **Reality check**: This is the most common scholarship UofA students receive. If you're maintaining decent grades (B+ average), you'll likely get this.
+- **Reality check**: As of August 1, 2025, this became meaningfully more competitive. The cutoff was previously 3.2, but it is now 3.5, so this is no longer just "decent grades" territory.
 
 ### Louise McKinney Post-Secondary Scholarship
 - **Amount**: $2,500

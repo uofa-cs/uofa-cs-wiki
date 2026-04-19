@@ -70,7 +70,7 @@ University is social in ways that high school wasn't. The people you study with 
 
 **Form study groups early.** Your lab sections are a natural place to find people — you're all working through the same problems. Introduce yourself. Ask someone if they want to compare approaches to an assignment. It's less awkward than it sounds.
 
-**The CS Discord servers** — there are student-run Discord communities for UofA CS. Ask around in your courses or look for them posted in eClass. These are genuinely useful for quick questions, course-specific channels, and finding people to study with.
+**The CS Discord servers** — there are student-run Discord communities for UofA CS. Ask around in your courses or look for them posted on Canvas. These are genuinely useful for quick questions, course-specific channels, and finding people to study with.
 
 **The Computer Science Club (CSC) Lounge** — There is a CS student space in the Computing Science building. Hang out there. Students work there, whiteboard problems, procrastinate together. It's one of the better ways to become a regular part of the CS student community. Upper-year students who hang out there are often willing to give advice, share course tips, or point you toward opportunities.
 
@@ -90,7 +90,7 @@ You don't need to master Git immediately. Learn `git init`, `git add`, `git comm
 
 ## Navigating Course Information
 
-**eClass is the official LMS** — your assignments, grades, announcements, and course materials will be posted there. Check it regularly. Some instructors also maintain separate course websites with readings or supplementary material; check the syllabus for links.
+**Canvas is the official LMS** — your assignments, grades, announcements, and course materials will be posted there. Check it regularly. Some instructors also maintain separate course websites with readings or supplementary material; check the syllabus for links.
 
 **RateMyProfessors is useful but requires context.** Sample sizes vary enormously by professor — some have 200+ reviews (Guohui Lin), others have 5. A low rating sometimes reflects a genuinely poor teaching experience; sometimes it reflects a hard course. Check the [Professor Guide](../courses/professor-guide.md) for synthesized RMP data alongside Reddit student perspectives before you register.
 
@@ -102,7 +102,7 @@ You don't need to master Git immediately. Learn `git init`, `git add`, `git comm
 
 Your first-year grades matter more than you might expect — not because employers will scrutinize your first-year GPA, but because of scholarship eligibility.
 
-**The Jason Lang Scholarship** is a provincial scholarship available to Alberta students continuing post-secondary education. To maintain eligibility, you need approximately a **3.2 GPA or higher**. The exact cutoff varies, so check the current Alberta Student Aid criteria, but this is roughly the threshold. At UofA, 3.2 on a 4-point scale is a B+ average.
+**The Jason Lang Scholarship** is a provincial scholarship available to Alberta students continuing post-secondary education. As of **August 1, 2025**, the required GPA was increased to **3.5 on a 4.0 scale** for eligible students taking at least an 80% course load in the previous fall and winter terms. Previously, the cutoff was **3.2**, so this is meaningfully more competitive now. At UofA, 3.5 is roughly an A- average, so this is no longer a "decent grades" scholarship.
 
 Losing scholarship money because of a bad first semester — especially when the courses are genuinely manageable — is an entirely preventable outcome. Stay on top of your coursework.
 
