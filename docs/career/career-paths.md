@@ -1,6 +1,6 @@
-# Software Engineering Career Paths for UofA CS Students
+# Career Paths for UofA CS Students
 
-UofA CS gives you a solid foundation across fundamentals — algorithms, systems, theory — but it doesn't tell you what to do with that foundation. This guide breaks down the major software engineering career paths: what they actually involve day-to-day, which UofA courses are most relevant, what skills you need to build on your own, and an honest take on demand, salary, and difficulty.
+UofA CS gives you a solid foundation across fundamentals — algorithms, systems, theory — but it doesn't tell you what to do with that foundation. This guide breaks down the major CS and software career paths: what they actually involve day-to-day, which UofA courses are most relevant, what skills you need to build on your own, and an honest take on demand, salary, and difficulty.
 
 No path here is universally better than another. The right one depends on what kind of problems you find interesting, what you're actually good at, and what tradeoffs you're willing to accept.
 
@@ -77,6 +77,39 @@ The most practically useful path for the Edmonton market and for smaller compani
 
 ---
 
+## Software Engineering
+
+### What it is
+Software engineering is broader than full-stack. Full-stack usually means building across frontend and backend for product features. Software engineers are more of an all-arounder: people who make complex systems work together across whatever technologies the problem requires. That can include system architecture, APIs, databases, infrastructure, testing, networking concerns, CI/CD, framework integration, and sometimes ML-enabled systems.
+
+### Day-to-day
+Designing system architecture, breaking ambiguous problems into concrete components, choosing frameworks and tools, integrating services and databases, debugging failures that span multiple layers, setting up testing and deployment workflows, reviewing design and code, and learning new technology quickly when the problem demands it.
+
+### Relevant UofA courses
+- **CMPUT 201** (Practical Programming Methodology) — useful for learning Unix tooling, introductory Git workflows, debugging, and other practical software engineering basics
+- **CMPUT 229** (Computer Organization) — lower-level than most SWE work and mainly useful here because it leads into `CMPUT 379`; most software engineers will not touch this level much unless they want to go into embedded or systems work
+- **CMPUT 267** (Machine Learning I) — mostly theory, but useful if you want to move toward the MLE side of software engineering; `CMPUT 469` is the more practical follow-up
+- **CMPUT 291** (Introduction to File and Database Management) — databases are part of almost every serious software system
+- **CMPUT 301** (Introduction to Software Engineering) — build an Android app in a team while learning requirements, revision control, Git conflicts, software architecture, testing, and basic product/project management
+- **CMPUT 313** (Computer Networks) — useful when systems need to communicate reliably across services and environments
+- **CMPUT 379** (Operating Systems) — important for understanding concurrency, processes, resource management, and runtime behavior
+- **CMPUT 401** (Software Process and Product Management) — software development from a process perspective; useful for understanding how substantial systems are specified and shipped
+- **CMPUT 402** (Software Quality) — testing, reviews, continuous integration, and quality tooling
+- **CMPUT 404** (Web Applications and Architecture) — modern web architecture, web services, frameworks, and integration patterns
+- **CMPUT 469** (Artificial Intelligence Capstone) — practical team-based AI/ML project work; closest thing to a `401`-style product/project course for the MLE side
+- **CMPUT 481** (Parallel and Distributed Systems) — valuable if you want to design systems that scale across machines
+
+### Skills to build independently
+One strong backend language and ecosystem. Enough frontend skill to build and debug interfaces when needed. SQL and database design. System design. Linux fundamentals. Docker and cloud basics. Testing discipline. CI/CD workflows. Ability to read documentation quickly, pick up unfamiliar frameworks, and connect components that were not designed by the same team.
+
+### Market
+This is the broadest title on the page and also one of the most common. Many companies hire "software engineers" when they actually want someone who can move across backend, infrastructure, data, APIs, and product work depending on what the team needs. In practice, these roles often lean backend-heavy, but the expectation is broader engineering judgment rather than a narrow specialty.
+
+### Honest assessment
+Best fit for people who like being the all-arounder. If you enjoy solving messy technical problems, learning new tools quickly, and making different technologies work together, this path makes sense. It is probably the path that benefits from the most overall knowledge, and in practice you may end up taking more courses across different areas than you would for a narrower path. That does not mean you need every course listed here. "Software engineer" is a broad title and many SWE roles still lean toward specific areas like backend, infrastructure, data, or ML. The practical approach is to build broad foundations first, then choose more specialized courses once you know which parts of software engineering you actually like.
+
+---
+
 ## ML / AI Engineering
 
 ### What it is
@@ -120,6 +153,7 @@ Writing Terraform to provision cloud resources, configuring Kubernetes deploymen
 - **CMPUT 379** (Operating Systems) — essential foundation
 - **CMPUT 481** (Distributed Systems) — directly applicable
 - **CMPUT 313** (Computer Networks) — networking fundamentals matter here
+- **CMPUT 402** (Software Quality) — covers testing, reviews, continuous integration, and software quality tools, all of which map well to CI/CD and reliability work
 
 ### Skills to build independently
 Docker and Kubernetes (not optional — these are table stakes now). Terraform or Pulumi for infrastructure as code. AWS, GCP, or Azure — pick one and learn it well. Linux systems administration fundamentals. Bash scripting. Prometheus/Grafana for monitoring. CI/CD tools (GitHub Actions, Jenkins, CircleCI). A programming language for automation (Python or Go).
