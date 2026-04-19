@@ -1,0 +1,21 @@
+name: Notify Build Repo
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger build in wiki-tooling
+        env:
+          GH_TOKEN: ${{ secrets.WIKI_TOOLING_DISPATCH_TOKEN }}
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github+json" \
+            /repos/uofa-cs/wiki-tooling/dispatches \
+            -f event_type=content-updated \
+            -f 'client_payload[sha]=${{ github.sha }}' \
+            -f 'client_payload[ref]=${{ github.ref }}'
