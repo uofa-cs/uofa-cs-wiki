@@ -4,13 +4,17 @@ The CS program has a few courses that almost nobody talks about but that are gen
 
 ---
 
-## CMPUT 403: Algorithmics in Competitive Programming
+## CMPUT 303/403: Algorithmics in Competitive Programming
+
+Note: CMPUT 303 is Algorithms in Practice. The competitive programming course is the CMPUT 403 component.
 
 **Why almost nobody takes it:** It sounds intimidating. "Competitive programming" makes people think it's for math olympiad types who live and breathe algorithms. It's not. It's a structured course that teaches exactly the patterns that show up in technical interviews.
 
 **What students actually say:** One Reddit user who took it with Zachary Friggstad called it "Amazing CMPUT 403. Definitely recommend him." Another noted Friggstad will accept solutions that are correct in spirit even if not perfectly coded, and is consistently available on Discord. The format (weekly problem sets on Kattis) is uncomfortable at first and then deeply satisfying for students who stick with it.
 
 **Why you should take it:** This is the best interview prep course at UofA, and most people don't know it exists. The curriculum covers:
+
+Even though it is heavy on weekly problem sets, many students find it friendlier during exam season because there is no traditional midterm or final exam. CMPUT 403 still includes a project, so the workload is consistent across the term rather than concentrated into finals period.
 
 - **Segment trees and Fenwick trees:** range query data structures that show up in medium-hard LeetCode problems
 - **Binary search tricks:** not just "binary search on sorted array" but binary search on the answer, on the search space, applied to non-obvious problems
@@ -105,6 +109,8 @@ It's also just deeply satisfying to understand infrastructure you've been using 
 ## CMPUT 391: Database Management Systems (Advanced)
 
 **Why almost nobody takes it:** Students take CMPUT 291, learn SQL, and think they're done with databases. They're not.
+
+**Availability note:** CMPUT 391 has not been taught in recent semesters, so plan around limited or uncertain scheduling.
 
 **Why you should take it:** CMPUT 291 teaches you to use databases. CMPUT 391 teaches you how databases actually work. That's a different thing, and it matters enormously:
 
