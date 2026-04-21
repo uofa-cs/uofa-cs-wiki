@@ -8,7 +8,7 @@ These reviews are synthesized from student discussions on r/uAlberta and RateMyP
 
 - **Difficulty:** Easy / Medium / Hard / Brutal
 - **Workload:** Light / Moderate / Heavy / Overwhelming
-- **Best prof / Worst prof:** based on RMP + Reddit data
+- **Best prof / Worst prof:** based on RMP + Reddit data (or current instructors if no other professors have taught recently)
 - **Industry relevance:** Low / Medium / High / Critical
 
 ---
@@ -216,15 +216,13 @@ Android development project + software engineering concepts (design patterns, UM
 
 "If you get a good team who doesn't rely on AI (LLMs are terrible at Android Studio), the class is really light. Exams are basically free if you pay attention and can think critically."
 
-**Best profs:**
-- **Abram Hindle (4.1/5):** actual industry experience, excellent slides, runs in-class worksheets (you need to attend). Regular participation marks. Exams match what's practiced. "In a department that's terrible, this guy shines." Recommended.
-
-**Avoid:**
-- **Ken Wong (2.1/5):** consistently the worst-reviewed choice for 301. The primary complaint: marks are returned extremely late, often weeks after the semester ends. "It has been over a month since we wrote our final exam and still no grades back." Vague grading criteria, incomplete slides. If at all possible, wait for Hindle.
-- **Hazel Campbell (2.0/5):** teaches 301 occasionally. Described as reading off slides, going on random tangents, and giving random criteria additions to assignments without notification.
+**Current instructors:**
+- **Hazel Campbell:** main instructor in recent offerings. Some students find her online participation-mark setup useful, since it can reduce the need for in-person attendance and recordings are typically available on Zoom.
+- **Abram Hindle (4.1/5):** teaches 301 in some terms. Students consistently value his industry experience and structured course delivery.
 
 **Student tips:**
 - Teams are formed by lab section, not lecture section. Coordinate with friends so you're in the same lab.
+- Screen your team early (before formal team formation if possible). Check reliability and prior contribution history to avoid team project issues later.
 - The Firebase database integration is where many groups get stuck. Start early.
 - 301 uses Java + Android Studio. Brush up on Java OOP before the semester starts.
 
@@ -307,15 +305,14 @@ Software development lifecycle, project management, agile, product thinking. Mor
 
 "When I did 401 last fall, the final exam was a take-home written and you had ALL DAY to work on it. The exam itself was not hard at all; mainly some questions asking about terminology and your experience with these terminologies during your project."
 
-**Best profs:**
-- **Abram Hindle (4.1/5):** if he's teaching it, take it.
-
-**Avoid:**
-- **Eleni Stroulia (2.8/5):** "Nice person but terrible teacher. All questions so ambiguous with little clarification." Heavy on readings, difficult to know what she's actually testing. 50/50 would-take-again on RMP.
+**Current instructor:**
+- **Mark Polak:** students describe him as chill, approachable, and easy to talk to. He is also noted for strong industry connections, and some students report these relationships can help with referrals.
 
 **Student tips:**
 - Pairs surprisingly well with 379; they're both manageable in workload terms and cover different enough material that studying doesn't interfere.
 - The exam weight is usually low (many versions are take-home or project-based). Focus energy on the project.
+- Expect a lot of meetings. Manage your time carefully: most teams meet TAs at least twice per week (sometimes three times), and you also need regular stakeholder meetings to keep requirements aligned.
+- The project is directly industry-related. Your experience can vary a lot based on stakeholder type (startups, established companies, charities, or individual clients).
 
 ---
 
@@ -339,13 +336,15 @@ Segment trees, advanced graph algorithms, string algorithms, dynamic programming
 
 **Difficulty:** Medium | **Workload:** Heavy | **Industry relevance:** High
 
-Web protocols, HTTP, REST APIs, front-end and back-end web development. The content is highly practical and directly applicable to most industry roles.
+Web protocols, HTTP, REST APIs, front-end and back-end web development. The material is highly practical and directly applicable to most industry roles, though some students report that specific tooling examples can feel slightly outdated in certain offerings.
 
-**Avoid:**
-- **Hazel Campbell (2.0/5):** the most consistently negative-reviewed professor for this course. Multiple reviews: disorganized Canvas site, reading off slides, strange group project deadlines, adds grading criteria mid-assignment. "If you have read horror stories about toxic bosses and wanted to get a glimpse of how it feels... take a course with this prof." Despite this, a minority of students have positive experiences.
+**Instructor note:**
+- **Hazel Campbell (2.0/5):** ratings are often low, but some students say her classes are not as bad as the rating suggests. A common view is that many low reviews come from students who struggled with grades. The key is staying on top of the course load, since grading is driven mostly by ongoing project work.
 
 **Student tips:**
-- The content itself is excellent for industry regardless of professor quality.
+- If course tooling feels dated, many students successfully use their own modern front-end framework and learn independently, while still meeting project requirements.
+- Form your group early, ideally before the class formally requires team formation. Students who pre-screen teammates (reliability, prior project history, communication) report better outcomes.
+- The group project can make or break your experience. Even with contribution adjustments, weak team participation can still hurt marks; this is a common reason students drop the course.
 - Web development skills built here directly transfer to internship work. Pay attention.
 
 ---
@@ -406,12 +405,12 @@ Supervised learning, neural networks, probabilistic models, optimization. The ca
 | 267 | Hard | Heavy | Buechler (new) | - | High |
 | 272 | Medium | Moderate | Stewart | Goebel | Low-Medium |
 | 291 | Medium | Moderate | Rafiei | Nascimento | High |
-| 301 | Medium | Heavy (team-dep.) | Hindle | Ken Wong | High |
+| 301 | Medium | Heavy (team-dep.) | Hazel (main), Hindle (sometimes) | - | High |
 | 313 | Medium | Moderate | Nikolaidis | Elmallah | Medium-High |
 | 325 | Medium | Moderate | - | - | Medium |
 | 379 | Hard | Heavy | Schaeffer | Elmallah | High |
 | 382 | Medium | Moderate | - | - | High (niche) |
-| 401 | Medium | Moderate | Hindle | Stroulia | Medium |
+| 401 | Medium | Moderate | Mark Polak | - | Medium |
 | 403 | Hard | Heavy | Friggstad | - | Critical |
 | 404 | Medium | Heavy | - | H. Campbell | High |
 | 415 | Brutal | Overwhelming | - | - | Medium-High |
