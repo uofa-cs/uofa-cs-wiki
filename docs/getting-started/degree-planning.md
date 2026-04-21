@@ -38,7 +38,9 @@ CMPUT 272 (Formal Systems and Logic) is a prerequisite for multiple upper-year t
 CMPUT 229 (Computer Organization) introduces assembly, memory, and how computers actually work at a low level. 379 (Operating Systems) builds directly on it. If you care about systems programming, embedded work, or just understanding computers deeply, this chain matters. Take 229 as early as you can once prerequisites are met.
 
 ### Databases: 291 → 391
-CMPUT 291 (Introduction to File and Database Management) should be taken in second or third year. 391 (Advanced Database Systems) follows. The DB chain is underrated; understanding databases is practically mandatory for any full-stack or backend role, and the courses at UofA are solid.
+CMPUT 291 (Introduction to File and Database Management) should be taken in second or third year. 391 (Advanced Database Systems) follows, but it has not been offered in recent terms, so plan accordingly. The DB chain is underrated; understanding databases is practically mandatory for any full-stack or backend role, and the courses at UofA are solid.
+
+If you want more practical database experience, CMPUT 404 can be useful for ORM-based work, and CMPUT 401 may let you choose database technology as part of the project. Those courses won't replace the theory you get from 391, but they do give you more hands-on industry experience.
 
 ### Tangible Computing: 274 → 275 (Optional Stream)
 Instead of 174/175, you can enter through 274/275, which is the Tangible Computing stream using Raspberry Pi, hardware, and physical computing projects. This stream is harder, more hands-on, and more fun. It leads to the same upper-year courses as 174/175. If you're interested in hardware, IoT, or just want a more tactile intro to CS, consider this path. Be warned: it's more demanding in terms of time and setup, especially in first semester when you're also adjusting to university.
@@ -49,13 +51,13 @@ Instead of 174/175, you can enter through 274/275, which is the Tangible Computi
 
 Don't neglect these. They come back in upper-year CS more than students expect.
 
-**MATH 114 (Calculus I):** Take this in your first semester. It's a prereq for 115 and is expected background for several CS courses. Not optional.
+**MATH 114/134/154 (Calculus I):** Take one of these in your first semester depending on your stream. They are all common first-year calculus options and are expected background for several CS courses. Not optional.
 
-**MATH 115 (Calculus II):** Second semester of first year. Introduces series, multivariable concepts. More directly relevant to ML and numerical methods than 114.
+**MATH 115/136/156 (Calculus II):** Usually taken in second semester of first year. These are the follow-up calculus options for the different streams and introduce more advanced calculus concepts. More directly relevant to ML and numerical methods than the first course.
 
-**MATH 125 (Linear Algebra):** This is the most practically useful math course for CS students who want to do anything in machine learning, computer graphics, or scientific computing. Eigenvalues, matrix operations, vector spaces: all of this appears directly in ML coursework. Take it in first or second year.
+**MATH 125 (Linear Algebra):** This is the most practically useful math course for CS students who want to do anything in machine learning, computer graphics, or scientific computing. Eigenvalues, matrix operations, vector spaces: all of this appears directly in ML coursework. Take it early, ideally in first year or the first semester of second year, because many upper-year courses list it as a prerequisite.
 
-**STAT 151 (Introduction to Applied Statistics I)** and **STAT 252 (Introduction to Applied Statistics II):** Take these earlier than you think you need to. Statistics shows up in software development, A/B testing, ML, data science, and systems work. Students who defer stats until fourth year regret it. Third year at the latest.
+**STAT 151 (Introduction to Applied Statistics I)** and **STAT 252 (Introduction to Applied Statistics II):** Take these earlier than you think you need to. Statistics shows up in software development, A/B testing, ML, data science, and systems work. Many upper-year classes use statistics as a prerequisite or assume you already know it, so aim to finish both by second year. Do not wait until third year.
 
 ---
 
@@ -75,7 +77,7 @@ Summer courses are faster-paced: a full semester of content in 6 weeks. They req
 
 **Five courses per semester** is the standard full-time load. This is the pace that a standard 4-year plan assumes. Most students handle 5 courses without too much trouble once they're past first year.
 
-**Six courses** is doable but requires real discipline. The key is not stacking six hard courses together. If you're taking 6, make sure at least one or two are lighter (a breadth elective, a lab course, something you find genuinely easy). Shariq completed the degree in 3 years by running 6 courses in multiple semesters and using summers; it works, but you have to be strategic and willing to put in the hours.
+**Six courses** counts as overload and requires approval from the faculty to grant it. It is doable but requires real discipline. The key is not stacking six hard courses together. If you're taking 6, make sure at least one or two are lighter (a breadth elective, a lab course, something you find genuinely easy). Shariq completed the degree in 3 years by running 6 courses in multiple semesters and using summers; it works, but you have to be strategic and willing to put in the hours.
 
 **Do not take six of the hardest CS courses simultaneously.** Taking 204, 272, 229, and 301 all in the same semester with no breathing room is a recipe for a rough GPA and a miserable few months. Spread the challenging courses out.
 
@@ -85,14 +87,16 @@ Summer courses are faster-paced: a full semester of content in 6 weeks. They req
 
 ## Senior Courses to Save for Later
 
-Some courses have soft prerequisites that aren't captured in BearTracks; they assume a level of CS maturity that you genuinely won't have in first or second year, even if you technically meet the listed prerequisites.
+Some courses have soft prerequisites that aren't captured in BearTracks; they assume a level of CS maturity that you genuinely won't have in first or second year, even if you technically meet the listed prerequisites. That said, once you are ready for them, you should take these as soon as possible because most internships and companies expect this knowledge in practice, not just theory.
 
-Save these for third and fourth year:
+Save these for third and fourth year if you need the extra time, but do not delay them longer than necessary:
 
-- **CMPUT 301 (Software Engineering):** Group project-heavy. More valuable when you've done some real programming. The soft skills required (working in a team on a real system) are things you develop over time.
-- **CMPUT 401 (Introduction to the Business of Software):** Entrepreneurship and product thinking. Makes more sense once you understand the technical landscape.
-- **CMPUT 404 (Web Applications and Architecture):** Useful course, but you'll get more from it once you've built things on your own.
+- **CMPUT 301 (Software Engineering):** Group project-heavy. More valuable when you've done some real programming, but still worth taking as soon as you can because it helps you learn how real team projects work.
+- **CMPUT 401 (Introduction to the Business of Software):** Entrepreneurship and product thinking. Makes more sense once you understand the technical landscape, and it is useful for seeing how software work connects to industry.
+- **CMPUT 404 (Web Applications and Architecture):** Useful course, but you'll get more from it once you've built things on your own. It is especially valuable for learning practical tools and frameworks.
 - **CMPUT 403 (Practical Algorithmics):** Competitive programming and problem-solving. Best taken once 204 and 304 are done and you've got some programming maturity.
+
+Many students reach these courses having only done theory-heavy first- and second-year classes and still do not know how to use common tools like Git, Linux, frameworks, or Python virtual environments. If that sounds like you, these courses and the projects they force you to do become even more important. If you are already building projects outside school, you may be better prepared earlier; if not, take these courses as soon as you can handle the prerequisites.
 
 ---
 
