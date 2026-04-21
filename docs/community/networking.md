@@ -1,6 +1,6 @@
 # Networking for UofA CS Students: A Non-Cringe Guide
 
-Networking gets a bad rap because most people do it wrong. They think it means showing up to events with a stack of business cards and trying to extract value from strangers. That's not networking — that's being a leech.
+Networking gets a bad rap because most people do it wrong. They think it means showing up to events with a stack of business cards and trying to extract value from strangers. That's not networking. That's being a leech.
 
 Real networking is building genuine relationships with people who share your interests and goals. Done right, it's not uncomfortable or manipulative. It's just meeting cool people who happen to work in tech.
 
@@ -101,7 +101,7 @@ Thanks for your time,
 - Set a goal: "I want to have one good conversation with someone working in [area]"
 
 ### During the Event
-- Arrive early or stay late — easier to talk to speakers
+- Arrive early or stay late: it's easier to talk to speakers
 - Ask genuine questions during Q&A
 - Introduce yourself to other students
 - Don't monopolize anyone's time

@@ -20,7 +20,7 @@ The other thing projects do: they give you something to talk about in interviews
 
 ### Year 1: Get Comfortable Coding
 
-You're learning the basics. The goal isn't to build something impressive — it's to build the habit of writing code outside of assignments.
+You're learning the basics. The goal isn't to build something impressive; it's to build the habit of writing code outside of assignments.
 
 **Good first projects:**
 - A Python script that automates something tedious (rename files, scrape a webpage, send yourself a daily email with something useful)
@@ -32,7 +32,7 @@ The bar is low here. Done is better than perfect. The point is getting reps fini
 
 ### Year 2: Full Stack Experience
 
-You've got your fundamentals. Now build something with multiple layers — a backend that talks to a database, a frontend that talks to the backend. This is when things get interesting.
+You've got your fundamentals. Now build something with multiple layers: a backend that talks to a database, a frontend that talks to the backend. This is when things get interesting.
 
 **Good Year 2 projects:**
 - A REST API with a real database. Use Flask or FastAPI with PostgreSQL. Build something like a personal finance tracker, a recipe manager, a simple inventory system.
@@ -44,12 +44,12 @@ By the end of Year 2, you should understand what it means for a frontend to call
 
 ### Year 3: Production-Ready Thinking
 
-This is the year to deploy something. "Works on my machine" doesn't count. The difference between a project that runs locally and a project that's live on the internet is enormous — for your learning and for your resume.
+This is the year to deploy something. "Works on my machine" doesn't count. The difference between a project that runs locally and a project that's live on the internet is enormous, for your learning and for your resume.
 
 **Year 3 goals:**
 - Deploy something. Render, Railway, Fly.io, Vercel, or a $6/month VPS. It doesn't matter where, just get it live with a real URL.
 - Build something with auth. User registration, login, sessions or JWTs, password hashing. Every real application has auth and it's genuinely non-trivial to get right.
-- Integrate a real external API. Stripe for payments, Twilio for SMS, OpenAI for AI features, Mapbox for maps, a government open data API. This shows you can read documentation and integrate third-party services — a core real-world skill.
+- Integrate a real external API. Stripe for payments, Twilio for SMS, OpenAI for AI features, Mapbox for maps, a government open data API. This shows you can read documentation and integrate third-party services, a core real-world skill.
 - Make your first open source contribution. Doesn't have to be a big contribution. Fix a typo in the docs, close a small bug, add a test case. The goal is to understand how open source development works.
 
 A deployed project with auth and a third-party API integration is a genuinely solid resume line at this stage.
@@ -59,9 +59,9 @@ A deployed project with auth and a third-party API integration is a genuinely so
 You're close to entering the industry. Your projects should be things you're comfortable demoing in an interview and talking about in depth.
 
 **Year 4 goals:**
-- Build something that solves a real problem — preferably one you or people around you actually have. The best projects come from genuine frustration with something that doesn't exist or doesn't work well.
+- Build something that solves a real problem, preferably one you or people around you actually have. The best projects come from genuine frustration with something that doesn't exist or doesn't work well.
 - Write a technical blog post about something you built or learned. This demonstrates communication skills, which engineering managers care about more than most students expect. dev.to and Medium are easy starting points.
-- Take your CMPUT 401 (Software Product Management) or CMPUT 404 capstone seriously. These courses are designed to produce portfolio pieces. Don't phone it in — treat it like a professional project.
+- Take your CMPUT 401 (Software Product Management) or CMPUT 404 capstone seriously. These courses are designed to produce portfolio pieces. Don't phone it in; treat it like a professional project.
 - If you have time, build something that uses a technically interesting approach: a distributed system, a compiler, a browser extension, a machine learning model in production, a blockchain application.
 
 ---
@@ -74,7 +74,7 @@ You're close to entering the industry. Your projects should be things you're com
 
 **It's deployed.** A live URL beats a local setup every time. "You can try it at [url]" in an interview is immediately more impressive than "you can clone the repo and run npm install."
 
-**It has tests.** Even a modest test suite signals engineering maturity. It says you thought about edge cases, you care about correctness, and you've worked in codebases that take quality seriously. Most student projects have no tests at all — having some immediately differentiates yours.
+**It has tests.** Even a modest test suite signals engineering maturity. It says you thought about edge cases, you care about correctness, and you've worked in codebases that take quality seriously. Most student projects have no tests at all; having some immediately differentiates yours.
 
 **The commit history shows real development.** Commit history is a story of how you built something. A project with 200 meaningful commits shows iterative development. A project with one commit that says "add all files" looks like you dropped in a tutorial. Commit as you go. Write reasonable commit messages.
 
@@ -86,7 +86,7 @@ You're close to entering the industry. Your projects should be things you're com
 
 These things actively hurt your resume:
 
-**"Todo app in React" with no unique twist.** If you're going to build a todo app, it better have something interesting — offline sync, collaborative editing, an unusual technical constraint. Otherwise skip it.
+**"Todo app in React" with no unique twist.** If you're going to build a todo app, it better have something interesting: offline sync, collaborative editing, an unusual technical constraint. Otherwise skip it.
 
 **Tutorial project, zero modifications.** If you followed a tutorial and changed nothing, the project isn't yours. Recruiters and engineers can tell. Build on top of tutorials, don't stop at them.
 
@@ -110,15 +110,15 @@ Contributing to open source is one of the highest signal things you can do as a 
 4. Graduate to features once you're familiar with the codebase.
 
 **Beginner-friendly projects:**
-- **freeCodeCamp** — enormous codebase, lots of good first issues, very welcoming community
-- **scikit-learn** — Python ML library, strong contribution guidelines, good mentorship
-- **Homebrew** — macOS package manager, lots of small formula updates
-- **VS Code extensions** — building or contributing to an extension is a contained, achievable project
-- **Any project you actively use** — you already understand the user perspective
+- **freeCodeCamp:** enormous codebase, lots of good first issues, very welcoming community
+- **scikit-learn:** Python ML library, strong contribution guidelines, good mentorship
+- **Homebrew:** macOS package manager, lots of small formula updates
+- **VS Code extensions:** building or contributing to an extension is a contained, achievable project
+- **Any project you actively use:** you already understand the user perspective
 
 **UofA-adjacent:**
-- **Amii / RLAI repos** — Alberta Machine Intelligence Institute has open repos, especially around reinforcement learning research
-- **Local Edmonton company repos** — some Edmonton tech companies open source parts of their stack. Check GitHub organizations for companies you're interested in working at.
+- **Amii / RLAI repos:** Alberta Machine Intelligence Institute has open repos, especially around reinforcement learning research
+- **Local Edmonton company repos:** some Edmonton tech companies open source parts of their stack. Check GitHub organizations for companies you're interested in working at.
 
 ---
 
@@ -128,11 +128,11 @@ Hackathons are 24-48 hour events where you build something from scratch. They're
 
 **UofA-specific:**
 
-**HackED** — UofA's main hackathon, typically runs in January or February. Run by the Computing Science Club. A good first hackathon because it's local, friendly, and you'll know people there.
+**HackED:** UofA's main hackathon, typically runs in January or February. Run by the Computing Science Club. A good first hackathon because it's local, friendly, and you'll know people there.
 
-**HackED Beta** — Smaller fall hackathon. Lower-stakes, good for first-timers.
+**HackED Beta:** Smaller fall hackathon. Lower-stakes, good for first-timers.
 
-**MLH (Major League Hacking)** — The national/international circuit of student hackathons. Dozens of events across North America each year, many virtual. Check mlh.io for the schedule. Winning or placing at an MLH event is a solid resume line.
+**MLH (Major League Hacking):** The national/international circuit of student hackathons. Dozens of events across North America each year, many virtual. Check mlh.io for the schedule. Winning or placing at an MLH event is a solid resume line.
 
 **How to actually do well at a hackathon:**
 
@@ -166,7 +166,7 @@ A URL you can put at the top of your resume is worth more than the time you'll s
 
 ## Edmonton-Specific Opportunities
 
-**Startup Edmonton** runs events, workshops, and occasionally student project showcases. Worth checking their event calendar — going to a few events gets you in rooms with people who build things professionally and sometimes hire students.
+**Startup Edmonton** runs events, workshops, and occasionally student project showcases. Worth checking their event calendar; going to a few events gets you in rooms with people who build things professionally and sometimes hire students.
 
 **Amii (Alberta Machine Intelligence Institute)** has student programs and research opportunities. If your projects are ML-adjacent, connecting with Amii can open doors to research roles and industry connections in that space.
 
@@ -180,4 +180,4 @@ Build things you care about. The projects that turn into good resume pieces are 
 
 Ship early, iterate. A live project with rough edges beats a local project that's "almost ready." Get it deployed, get feedback, improve it.
 
-Two or three solid projects beat ten mediocre ones. Quality over quantity. Depth over breadth. Know your projects cold — every design decision, every technical tradeoff, every thing you'd do differently. That's what interviews actually test.
+Two or three solid projects beat ten mediocre ones. Quality over quantity. Depth over breadth. Know your projects cold: every design decision, every technical tradeoff, every thing you'd do differently. That's what interviews actually test.

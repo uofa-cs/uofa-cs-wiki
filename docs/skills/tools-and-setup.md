@@ -24,7 +24,7 @@ UofA's CMPUT 301 introduces Git, but "introduced to Git" and "can actually use G
 
 ### Commit Message Conventions
 
-Random commit messages make history useless. Use **Conventional Commits** — a lightweight standard that makes history readable and enables automated changelogs:
+Random commit messages make history useless. Use **Conventional Commits**: a lightweight standard that makes history readable and enables automated changelogs:
 
 ```
 feat: add JWT authentication to login endpoint
@@ -66,7 +66,7 @@ Add these to `~/.gitconfig` under `[alias]`:
     last = log -1 HEAD
 ```
 
-`git lg` especially — it shows your branch history as a visual graph in the terminal. Far more useful than the default `git log`.
+`git lg` especially: it shows your branch history as a visual graph in the terminal. Far more useful than the default `git log`.
 
 ---
 
@@ -117,9 +117,9 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 
 Recommended plugins to add to `.zshrc`:
-- `git` — adds git status to your prompt and useful aliases
-- `zsh-autosuggestions` — suggests commands as you type based on history
-- `zsh-syntax-highlighting` — highlights valid/invalid commands as you type
+- `git`: adds git status to your prompt and useful aliases
+- `zsh-autosuggestions`: suggests commands as you type based on history
+- `zsh-syntax-highlighting`: highlights valid/invalid commands as you type
 
 These seem like cosmetic improvements but they genuinely reduce errors and speed up terminal work.
 
@@ -134,12 +134,12 @@ This is not a religious debate. Both are good. Here's when to use each.
 Free, fast, open source, massive extension ecosystem. Works well for Python, JavaScript/TypeScript, Go, Rust, Markdown, and almost everything else. VS Code is the safe choice for most things.
 
 **Essential extensions:**
-- **GitLens**: supercharges Git integration — inline blame, history browser, commit search
+- **GitLens**: supercharges Git integration (inline blame, history browser, commit search)
 - **Python + Pylance**: language support and type checking for Python
 - **Docker**: manage containers and images from VS Code
 - **Remote - SSH**: edit files on remote servers as if they're local
 - **Remote - WSL**: develop inside WSL from Windows
-- **GitHub Copilot**: AI autocomplete — free for students (see GitHub Student Pack below)
+- **GitHub Copilot**: AI autocomplete, free for students (see GitHub Student Pack below)
 - **Error Lens**: shows error messages inline instead of requiring a hover
 - **Prettier**: automatic code formatting for JS/TS/CSS/JSON
 
@@ -147,7 +147,7 @@ Free, fast, open source, massive extension ecosystem. Works well for Python, Jav
 
 JetBrains makes purpose-built IDEs for specific languages: PyCharm (Python), IntelliJ IDEA (Java/Kotlin), CLion (C/C++), GoLand (Go), Rider (C#), WebStorm (JS/TS).
 
-They are heavier than VS Code but the code intelligence is deeper. Refactoring tools are superior — renaming a class, extracting a method, finding all usages — these work more reliably in JetBrains products.
+They are heavier than VS Code but the code intelligence is deeper. Refactoring tools are superior (renaming a class, extracting a method, finding all usages) and work more reliably in JetBrains products.
 
 **The student license is free.** Apply at [jetbrains.com/student](https://www.jetbrains.com/student/) with your UofA email. This gives you access to all JetBrains IDEs.
 
@@ -160,7 +160,7 @@ They are heavier than VS Code but the code intelligence is deeper. Refactoring t
 Dotfiles are configuration files that live in your home directory: `~/.bashrc`, `~/.zshrc`, `~/.gitconfig`, `~/.vimrc`, `~/.ssh/config`. They control your shell, editor, git behavior, and more.
 
 **Keep your dotfiles in a GitHub repository.** This means:
-1. Your environment is reproducible — set up a new machine in minutes
+1. Your environment is reproducible: set up a new machine in minutes
 2. It shows prospective employers that you care about your tooling
 3. You have version history if you break something
 
@@ -223,12 +223,12 @@ Now `ssh uofa-gpu` connects you immediately.
 If you SSH into a server and your connection drops, anything running in that terminal dies. `tmux` solves this by running a session on the server that persists regardless of your connection.
 
 Essential tmux commands:
-- `tmux new -s mysession` — start a named session
-- `Ctrl+B, D` — detach (leave it running)
-- `tmux attach -t mysession` — reconnect to it later
-- `Ctrl+B, %` — split pane vertically
-- `Ctrl+B, "` — split pane horizontally
-- `Ctrl+B, arrow keys` — move between panes
+- `tmux new -s mysession`: start a named session
+- `Ctrl+B, D`: detach (leave it running)
+- `tmux attach -t mysession`: reconnect to it later
+- `Ctrl+B, %`: split pane vertically
+- `Ctrl+B, "`: split pane horizontally
+- `Ctrl+B, arrow keys`: move between panes
 
 Install tmux, spend an hour with a tutorial, and use it for any long-running server process.
 
@@ -241,7 +241,7 @@ Apply at [education.github.com](https://education.github.com). Use your UofA ema
 - **GitHub Copilot**: AI code completion. Free while you're a student. Actually useful.
 - **JetBrains IDEs**: all of them, free.
 - **DigitalOcean credits**: $200 to deploy real projects in the cloud.
-- **Namecheap domain**: one free `.me` domain for a year — good for a portfolio site.
+- **Namecheap domain**: one free `.me` domain for a year, good for a portfolio site.
 - **MongoDB Atlas**: cloud database credits.
 - **Various other services**: Heroku, Datadog, Sentry, and more.
 
@@ -253,17 +253,17 @@ Apply for this immediately if you haven't. It's free money and tools.
 
 Every operating system has a package manager that installs and manages software. Use it instead of downloading installers manually.
 
-- **macOS**: [Homebrew](https://brew.sh). `brew install git python node go` — installs anything with one command.
+- **macOS**: [Homebrew](https://brew.sh). `brew install git python node go`: installs anything with one command.
 - **Ubuntu/WSL**: `apt`. `sudo apt update && sudo apt install git curl wget`. Pre-installed on Ubuntu.
 - **Windows**: `winget` is the Microsoft package manager. Or install WSL and use `apt`.
 
-For Python specifically, use `venv` to create isolated environments per project, and `pip` or `uv` to manage packages within them. Never install Python packages globally — it creates dependency conflicts.
+For Python specifically, use `venv` to create isolated environments per project, and `pip` or `uv` to manage packages within them. Never install Python packages globally; it creates dependency conflicts.
 
 ---
 
 ## Docker: Install It Early
 
-Docker is covered more in [what-to-learn.md](./what-to-learn.md), but from a setup perspective: install Docker Desktop early and start using it for side projects. The habit of containerizing your applications — even small ones — pays off.
+Docker is covered more in [what-to-learn.md](./what-to-learn.md), but from a setup perspective: install Docker Desktop early and start using it for side projects. The habit of containerizing your applications, even small ones, pays off.
 
 After installation, verify it works:
 

@@ -6,18 +6,18 @@ If you're reading this in March hoping to land a summer internship, bad news: mo
 
 ## The Timeline Nobody Tells You About
 
-Summer internships (May–August) start accepting applications as early as **August of the previous year**, with most big companies closing applications by **October or November**. By February, you're fighting for scraps.
+Summer internships (May-August) start accepting applications as early as **August of the previous year**, with most big companies closing applications by **October or November**. By February, you're fighting for scraps.
 
 Here's what a realistic internship application calendar looks like:
 
 | Month | What's happening |
 |-------|-----------------|
-| August–September | Amazon, Google, Microsoft, Shopify open applications |
-| September–October | Most Canadian tech companies open applications |
-| October–November | Deadlines for the majority of good opportunities |
-| November–December | Interviews happening, offers going out |
-| January–March | Second-wave openings, companies backfilling, slower options |
-| April–May | Basically last resort territory |
+| August-September | Amazon, Google, Microsoft, Shopify open applications |
+| September-October | Most Canadian tech companies open applications |
+| October-November | Deadlines for the majority of good opportunities |
+| November-December | Interviews happening, offers going out |
+| January-March | Second-wave openings, companies backfilling, slower options |
+| April-May | Basically last resort territory |
 
 Set a calendar reminder right now for August 1st. That's when you start applying for next summer.
 
@@ -38,13 +38,13 @@ If you're a first-year student, start building projects and doing easy/medium Le
 Edmonton's tech scene is smaller than Vancouver or Toronto, but it's real. These companies actively hire students and are worth your time to research and apply to directly.
 
 **Jobber**
-Small business software company, headquartered downtown. Strong engineering culture, well-regarded as an employer. Hires multiple interns per term across engineering and product. If you want to see what a healthy mid-size tech company looks like from the inside, Jobber is a great choice. Apply early — they fill up.
+Small business software company, headquartered downtown. Strong engineering culture, well-regarded as an employer. Hires multiple interns per term across engineering and product. If you want to see what a healthy mid-size tech company looks like from the inside, Jobber is a great choice. Apply early, as they fill up.
 
 **TELUS**
 Major telecom with a significant Edmonton tech presence. Good for students interested in infrastructure, cloud, or telecom-adjacent software. The work can vary a lot by team, so ask questions in interviews about what the internship specifically involves. Solid pay, large company benefits, more bureaucracy than a startup but real projects.
 
 **Benevity**
-Social impact tech — they help corporations manage charitable giving and employee engagement programs. Growing company, good culture reputation, meaningful work if that matters to you. Worth applying to especially if you want to avoid the chaos of a pure startup.
+Social impact tech: they help corporations manage charitable giving and employee engagement programs. Growing company, good culture reputation, meaningful work if that matters to you. Worth applying to especially if you want to avoid the chaos of a pure startup.
 
 **AltaML**
 Edmonton-based machine learning consultancy. If you're interested in applied ML (not just theory), this is one of the best local options. You'll work on real client ML problems rather than toy datasets. Recommended for students who've taken CMPUT 466 or are seriously pursuing ML.
@@ -53,7 +53,7 @@ Edmonton-based machine learning consultancy. If you're interested in applied ML 
 E-commerce AI startup. Smaller team, startup energy. Good for students who want broad ownership and are comfortable with ambiguity. You'll likely ship real code quickly.
 
 **Government of Alberta / Government of Canada**
-More bureaucracy than a startup, but don't dismiss it. The Federal Student Work Experience Program (FSWEP) and various provincial programs give students real projects — often in data, web development, or internal tools. The pay is decent (not startup salaries but consistent), job security is there, and these roles look fine on a resume. Apply to federal programs especially — they hire a lot of students.
+More bureaucracy than a startup, but don't dismiss it. The Federal Student Work Experience Program (FSWEP) and various provincial programs give students real projects, often in data, web development, or internal tools. The pay is decent (not startup salaries but consistent), job security is there, and these roles look fine on a resume. Apply to federal programs especially; they hire a lot of students.
 
 **ATB Financial**
 Alberta's provincial bank has a large internal tech team in Edmonton. Good for fintech-adjacent work. Decent internship program, though the interview process can be more structured and formal than a startup. Worth applying to, especially for students interested in financial systems or data.
@@ -83,14 +83,14 @@ Legal tech company, Vancouver-based but with remote roles. Good reputation as an
 Canadian fintech, Toronto-based with remote options. Strong engineering team, interesting technical problems (financial systems, real-time trading infrastructure). Competitive but not as intense as FAANG.
 
 **Amazon, Google, Microsoft**
-All three have significant Canadian presence, primarily in Vancouver. Apply anyway regardless of where you're located — remote internships have become normalized since 2020. These applications are competitive (you will likely get rejected multiple times) but the upside is large. Apply every year until you get in or graduate.
+All three have significant Canadian presence, primarily in Vancouver. Apply anyway regardless of where you're located; remote internships have become normalized since 2020. These applications are competitive (you will likely get rejected multiple times) but the upside is large. Apply every year until you get in or graduate.
 
 **US Remote Internships**
-Possible, but check the fine print. As a Canadian student, you generally need to be a US citizen or have appropriate work authorization to work for US companies. Some companies can hire Canadian students working from Canada on US teams — ask explicitly. Don't assume.
+Possible, but check the fine print. As a Canadian student, you generally need to be a US citizen or have appropriate work authorization to work for US companies. Some companies can hire Canadian students working from Canada on US teams; ask explicitly. Don't assume.
 
 ---
 
-## The SIP Program — What Students Actually Think
+## The SIP Program: What Students Actually Think
 
 The **Science Internship Program (SIP)** is UofA's formal internship program for science students (CS, biology, chemistry, etc.). It's often discussed as UofA's answer to co-op programs at other schools. The student consensus is nuanced.
 
@@ -98,7 +98,7 @@ The **Science Internship Program (SIP)** is UofA's formal internship program for
 - A program you enroll in that gives you access to a job portal
 - You can do a SIP work term during the school year (in addition to summer), which is the main practical advantage
 - You complete some professional development requirements while on term
-- The term does not count toward your degree credits — it's an add-on
+- The term does not count toward your degree credits; it's an add-on
 
 **The honest student perspective on SIP:**
 
@@ -110,8 +110,8 @@ One frequently upvoted student put it plainly: "SIP is bad and just a waste of m
 - "There's really no difference between SIP and a co-op program except that co-op is mandatory for engineering students. You apply to the same postings."
 
 **When SIP is actually useful:**
-- If you're an international student and need to maintain full-time enrollment status — SIP lets you work while staying enrolled
-- If you want to do a longer work term (8–12 months) that spans the school year rather than just summer
+- If you're an international student and need to maintain full-time enrollment status; SIP lets you work while staying enrolled
+- If you want to do a longer work term (8-12 months) that spans the school year rather than just summer
 - If you prefer having some formal support structure for your first work search
 
 **The alternative:** Find summer internships independently. It's more work upfront, but you keep your tuition money and your degree timeline doesn't extend. The student who went to Google did it entirely independently: "I found everything independently. LinkedIn and Glassdoor, applied as soon as positions opened."
@@ -129,16 +129,16 @@ Whether co-op is right for you depends on your situation. If you're planning to 
 ## How to Actually Apply
 
 **Where to find postings:**
-- Company career pages directly — this is the best source. Set up job alerts on company sites you care about.
-- LinkedIn — decent for finding openings, especially at mid-size companies.
-- Indeed — lower signal-to-noise ratio for tech roles, but occasionally useful.
-- Simplify, Handshake, and similar aggregators — useful for volume searching.
+- Company career pages directly: this is the best source. Set up job alerts on company sites you care about.
+- LinkedIn: decent for finding openings, especially at mid-size companies.
+- Indeed: lower signal-to-noise ratio for tech roles, but occasionally useful.
+- Simplify, Handshake, and similar aggregators: useful for volume searching.
 
-**Keep a tracking spreadsheet.** Include: company name, role, date applied, application link, status, interview round. This sounds tedious and is tedious. Do it anyway — when you're managing 30+ applications across 3 months, you will lose track without it.
+**Keep a tracking spreadsheet.** Include: company name, role, date applied, application link, status, interview round. This sounds tedious and is tedious. Do it anyway; when you're managing 30+ applications across 3 months, you will lose track without it.
 
 **Tailor your resume.** At minimum, adjust your skills section and make sure the keywords in the job posting appear in your resume. You don't need to rewrite it from scratch for every application, but a generic resume is less effective than one that mirrors the job description.
 
-**Apply broadly.** Even excellent students get rejected. Rejection does not mean you're unqualified. Apply to 20–40 companies per cycle. It's a numbers game combined with luck. A student with a 3.9 GPA can and does get rejected from places that hire students with 3.0 GPAs, because interviews are probabilistic.
+**Apply broadly.** Even excellent students get rejected. Rejection does not mean you're unqualified. Apply to 20-40 companies per cycle. It's a numbers game combined with luck. A student with a 3.9 GPA can and does get rejected from places that hire students with 3.0 GPAs, because interviews are probabilistic.
 
 ---
 
@@ -154,12 +154,12 @@ A strong GitHub profile with pinned repos and readable READMEs does more work th
 
 ## Referrals: The Cheat Code You're Ignoring
 
-A referral from an employee at a company dramatically increases the probability that your resume gets a human look. This is not a minor edge — it can be the difference between an automated rejection and a phone screen.
+A referral from an employee at a company dramatically increases the probability that your resume gets a human look. This is not a minor edge; it can be the difference between an automated rejection and a phone screen.
 
 How to get referrals as a student:
-- Join CS clubs (Computing Science Club, AUCS, AI/ML clubs) — members go on to work at companies and often refer students they know.
+- Join CS clubs (Computing Science Club, AUCS, AI/ML clubs): members go on to work at companies and often refer students they know.
 - Talk to people at info sessions and career fairs. Get LinkedIn connections. Follow up.
-- Use the UofA alumni network — LinkedIn lets you search for UofA alumni at specific companies. A cold message to an alumnus asking about their experience and whether they'd be willing to refer you succeeds more often than people expect.
+- Use the UofA alumni network: LinkedIn lets you search for UofA alumni at specific companies. A cold message to an alumnus asking about their experience and whether they'd be willing to refer you succeeds more often than people expect.
 - Clubs and hackathon networks. Hackathon sponsors are often actively recruiting.
 
 ---
@@ -168,9 +168,9 @@ How to get referrals as a student:
 
 Most tech internship interviews follow this structure:
 
-1. **Resume screen** — automated or human, happens within 1–2 weeks of applying (often much faster at big companies).
-2. **HR phone screen** — 20–30 minutes, behavioral questions, logistics discussion. Not technical.
-3. **Technical interview(s)** — 1–2 rounds, typically LeetCode-style coding problems. Sometimes a take-home project instead.
+1. **Resume screen:** automated or human, happens within 1-2 weeks of applying (often much faster at big companies).
+2. **HR phone screen:** 20-30 minutes, behavioral questions, logistics discussion. Not technical.
+3. **Technical interview(s):** 1-2 rounds, typically LeetCode-style coding problems. Sometimes a take-home project instead.
 4. **Offer or rejection.**
 
 For Edmonton companies and smaller companies: sometimes there's a single technical round or a casual chat with a senior developer. Less formal than FAANG but you still need to be able to code in front of people.
@@ -179,7 +179,7 @@ See the [Interview Prep guide](./interview-prep.md) for how to prepare for the t
 
 ---
 
-## Salary Expectations — Real Student Data
+## Salary Expectations: Real Student Data
 
 UofA CS students have shared actual salaries in community threads. Here's what students have reported:
 
@@ -187,24 +187,24 @@ UofA CS students have shared actual salaries in community threads. Here's what s
 |------|----------|-------------------|------|------|
 | Internship (3rd year) | Remote (Cambridge team) | Google | $47 CAD/hr | 14 weeks |
 | Internship (3rd year) | Remote (Vancouver team) | Amazon AWS | $45 CAD/hr | 12 weeks |
-| Internship (2nd year) | Toronto | Aerospace | $21–24 CAD/hr | 4 months |
+| Internship (2nd year) | Toronto | Aerospace | $21-24 CAD/hr | 4 months |
 | Internship (3rd year) | Edmonton | Television/Media | $25 CAD/hr | 16 months |
 | Co-op (3rd year) | Edmonton | Government | $24.43 CAD/hr + benefits | 4 months |
 | Internship (1st work term) | Calgary | Software Engineering | $26.50 CAD/hr | 12 months |
 
-**General salary ranges, as of 2024–2025:**
+**General salary ranges, as of 2024-2025:**
 
-- **Government roles:** $18–25/hour (Government of Canada FSWEP often at the higher end)
-- **Local Edmonton mid-size companies:** $22–28/hour
-- **Edmonton tech companies (Jobber, AltaML):** $25–35/hour
-- **Remote roles at national companies (Shopify, Clio, Wealthsimple):** $30–45/hour
-- **FAANG internships:** $45–60+/hour CAD equivalent (Google at $47/hr and Amazon at $45/hr confirmed by students)
+- **Government roles:** $18-25/hour (Government of Canada FSWEP often at the higher end)
+- **Local Edmonton mid-size companies:** $22-28/hour
+- **Edmonton tech companies (Jobber, AltaML):** $25-35/hour
+- **Remote roles at national companies (Shopify, Clio, Wealthsimple):** $30-45/hour
+- **FAANG internships:** $45-60+/hour CAD equivalent (Google at $47/hr and Amazon at $45/hr confirmed by students)
 
-The gap between a government placement and a FAANG internship is real and significant. A student who lands a Google internship earns roughly twice what a government co-op pays. However, first internships at large companies are highly competitive — most students build up with local roles first.
+The gap between a government placement and a FAANG internship is real and significant. A student who lands a Google internship earns roughly twice what a government co-op pays. However, first internships at large companies are highly competitive; most students build up with local roles first.
 
 ---
 
-## Student-Sourced Advice — What Actually Works
+## Student-Sourced Advice: What Actually Works
 
 These tips are drawn directly from students who landed internships at Google, Amazon, and other companies:
 
@@ -217,7 +217,7 @@ These tips are drawn directly from students who landed internships at Google, Am
 The cold reality: landing your first internship is disproportionately hard. Getting rejected by 100+ companies and still pushing is normal, not a sign you're unqualified.
 
 **On interview prep:**
-> "I have never done a single problem on LeetCode. I do competitive programming, use Cracking the Coding Interview for theory review, and use HackerRank for quick practice." — student who went to Google
+> "I have never done a single problem on LeetCode. I do competitive programming, use Cracking the Coding Interview for theory review, and use HackerRank for quick practice." (student who went to Google)
 
 CMPUT 403 (Competitive Programming) is the most direct academic preparation available. Do it.
 
@@ -225,7 +225,7 @@ CMPUT 403 (Competitive Programming) is the most direct academic preparation avai
 > "I searched for: 'Software Developer Intern', 'Software Engineer Intern', 'Software Engineering Intern', 'Software Development Intern'. For Google, just applied on their website."
 
 **On early-year students:**
-> "Large companies like Google (STEP) and Microsoft (Garage / Explore) have programs explicitly targeted at first and second year students. Apply — you lose nothing from 15 minutes of effort."
+> "Large companies like Google (STEP) and Microsoft (Garage / Explore) have programs explicitly targeted at first and second year students. Apply; you lose nothing from 15 minutes of effort."
 
 **On the difference between CS programs and UofA specifically:**
 Edmonton is not a tech hub. This is a real factor. Many students find that remote internships and placements in Vancouver, Calgary, and Toronto are where the best opportunities are. The absence of a major tech cluster in Edmonton means you should look nationally (and remotely) from day one, not as a last resort.
@@ -236,6 +236,6 @@ Edmonton is not a tech hub. This is a real factor. Many students find that remot
 
 The students who land good internships are not necessarily the smartest students in your program. They're the ones who started applying in September, had a GitHub profile with real projects, practiced LeetCode for a couple months, and applied to 30+ places.
 
-Start earlier than you think you need to. Apply to more places than feels comfortable. Practice the interviews specifically — winging it doesn't work.
+Start earlier than you think you need to. Apply to more places than feels comfortable. Practice the interviews specifically; winging it doesn't work.
 
-See [Course Reviews — CMPUT 403](../courses/course-reviews.md#cmput-403--algorithmics-in-competitive-programming) for the most direct academic route to interview readiness.
+See [Course Reviews: CMPUT 403](../courses/course-reviews.md#cmput-403--algorithmics-in-competitive-programming) for the most direct academic route to interview readiness.

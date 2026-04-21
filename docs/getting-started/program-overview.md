@@ -1,6 +1,6 @@
 # BSc CS Program Overview
 
-So you've been admitted to Computer Science at the University of Alberta — or you're thinking about it. Before you register for your first semester, you need to understand what degree you're actually working toward, because the choice you make here has real downstream consequences for your schedule, GPA, and career trajectory.
+So you've been admitted to Computer Science at the University of Alberta, or you're thinking about it. Before you register for your first semester, you need to understand what degree you're actually working toward, because the choice you make here has real downstream consequences for your schedule, GPA, and career trajectory.
 
 Here's the honest breakdown.
 
@@ -12,7 +12,7 @@ UofA offers three BSc CS degrees under the Faculty of Science. They share a comm
 
 ### BSc CS General (~120 credits)
 
-The General degree is the most flexible option. You complete the required CS core, satisfy your Faculty of Science breadth requirements, and you're done. There's no thesis, no mandatory upper-year depth courses beyond the core, and you have real room to take electives in areas you actually care about — business, linguistics, biology, whatever.
+The General degree is the most flexible option. You complete the required CS core, satisfy your Faculty of Science breadth requirements, and you're done. There's no thesis, no mandatory upper-year depth courses beyond the core, and you have real room to take electives in areas you actually care about: business, linguistics, biology, whatever.
 
 For industry? It's completely sufficient. Nobody at Google, Shopify, or a Series A startup is going to reject your resume because you did General instead of Specialization. What matters is what you built, where you interned, and how you perform in technical interviews.
 
@@ -22,15 +22,15 @@ The General degree makes most sense if you want maximum scheduling flexibility, 
 
 The Specialization is the de facto standard for most CS students at UofA. It requires more upper-year CS courses than the General, which means more depth in areas like algorithms, systems, theory, and your chosen technical electives. You'll end up taking courses like CMPUT 301 (Software Engineering), 304 (Relational Databases), and a cluster of 400-level courses depending on your interests.
 
-This is the sweet spot for industry-bound students. The extra courses are genuinely useful — not just checkbox-filling — and the degree signals that you took CS seriously enough to go deep. Employers who know UofA will recognize the Specialization as the "real" CS degree. Recruiters at Canadian tech companies who hire from UofA regularly will know the difference.
+This is the sweet spot for industry-bound students. The extra courses are genuinely useful (not just checkbox-filling) and the degree signals that you took CS seriously enough to go deep. Employers who know UofA will recognize the Specialization as the "real" CS degree. Recruiters at Canadian tech companies who hire from UofA regularly will know the difference.
 
 If you're reading this wiki because you want a software engineering job at a strong company, the Specialization is almost certainly what you should be doing.
 
 ### BSc CS Honors (~130+ credits)
 
-Honors involves completing a senior thesis — a research project supervised by a faculty member, written up formally, and defended. You take everything in the Specialization and add the thesis on top, plus some additional course requirements that orient you toward research.
+Honors involves completing a senior thesis: a research project supervised by a faculty member, written up formally, and defended. You take everything in the Specialization and add the thesis on top, plus some additional course requirements that orient you toward research.
 
-Be honest with yourself about why you want Honors. If you're genuinely interested in research — if you want to go to grad school, do a PhD, or work in research-heavy roles at places like DeepMind or Microsoft Research — Honors makes sense. The thesis experience is real and valuable for those paths.
+Be honest with yourself about why you want Honors. If you're genuinely interested in research (if you want to go to grad school, do a PhD, or work in research-heavy roles at places like DeepMind or Microsoft Research), Honors makes sense. The thesis experience is real and valuable for those paths.
 
 If you're doing Honors because you think it'll impress software engineering recruiters, you're wrong. Most industry hiring managers outside of research roles do not care whether you wrote a thesis. They care about your internship experience, your GitHub, and whether you can solve problems in an interview. The extra time you spend on a thesis is time you're not spending on side projects, open source contributions, or internships.
 
@@ -42,13 +42,13 @@ The one legitimate middle-ground case: if you're genuinely unsure about grad sch
 
 This matters more than people realize. CS at UofA is in the **Faculty of Science**, not Engineering. This means:
 
-- You're not an Engineering student. You don't go through the Engineering co-op program by default (though you can still do internships — the CS department has its own processes and industry connections).
+- You're not an Engineering student. You don't go through the Engineering co-op program by default (though you can still do internships; the CS department has its own processes and industry connections).
 - Your degree is a **Bachelor of Science**, not a Bachelor of Science in Engineering (BSc Eng).
-- **Electrical and Computer Engineering (ECE)** is in the Faculty of Engineering. If you're interested in hardware, embedded systems, or signals, ECE might be worth looking at — but it's a different program with a different culture and different requirements.
+- **Electrical and Computer Engineering (ECE)** is in the Faculty of Engineering. If you're interested in hardware, embedded systems, or signals, ECE might be worth looking at, but it's a different program with a different culture and different requirements.
 
 For most software engineering jobs, coming from the Faculty of Science is completely fine. The BSc CS from UofA is well-respected, and nobody outside Edmonton is going to know or care about which faculty building you studied in.
 
-One practical difference: Engineering students have mandatory professional internship requirements built into their program (the Engineering co-op stream). CS students have to be more proactive about getting internships — but this also means you have more flexibility in timing and can pursue opportunities at companies that don't formally participate in co-op programs.
+One practical difference: Engineering students have mandatory professional internship requirements built into their program (the Engineering co-op stream). CS students have to be more proactive about getting internships, but this also means you have more flexibility in timing and can pursue opportunities at companies that don't formally participate in co-op programs.
 
 ---
 
@@ -56,13 +56,13 @@ One practical difference: Engineering students have mandatory professional inter
 
 Your program leaves room for a minor, and the right minor can genuinely differentiate you. Here are the options worth thinking about:
 
-**Statistics** — If you have any interest in machine learning, data science, or AI, a Stats minor is extremely practical. STAT 151 and 252 are foundational, and upper-year Stats courses on inference and probability complement ML coursework directly. Highly recommended.
+**Statistics:** If you have any interest in machine learning, data science, or AI, a Stats minor is extremely practical. STAT 151 and 252 are foundational, and upper-year Stats courses on inference and probability complement ML coursework directly. Highly recommended.
 
-**Mathematics** — Signals strong theoretical foundations. Relevant if you're interested in cryptography, algorithms research, or competitive programming. MATH 125 (Linear Algebra) is already required for most ML-adjacent CS work; a Math minor builds on this.
+**Mathematics:** Signals strong theoretical foundations. Relevant if you're interested in cryptography, algorithms research, or competitive programming. MATH 125 (Linear Algebra) is already required for most ML-adjacent CS work; a Math minor builds on this.
 
-**Business (through the Alberta School of Business)** — Useful if you're thinking about eventually founding something, going into product management, or working at the intersection of tech and business. Some CS students find the business perspective grounding. The coursework isn't technically challenging, which gives your GPA a bit of breathing room.
+**Business (through the Alberta School of Business):** Useful if you're thinking about eventually founding something, going into product management, or working at the intersection of tech and business. Some CS students find the business perspective grounding. The coursework isn't technically challenging, which gives your GPA a bit of breathing room.
 
-**Linguistics** — Underrated. If you're interested in natural language processing, computational linguistics, or the theory of language and computation, UofA's Linguistics department is actually quite strong. This is a niche pick but a smart one if it aligns with your interests.
+**Linguistics:** Underrated. If you're interested in natural language processing, computational linguistics, or the theory of language and computation, UofA's Linguistics department is actually quite strong. This is a niche pick but a smart one if it aligns with your interests.
 
 You do not need a minor. If taking one means overloading yourself and tanking your GPA, skip it.
 
