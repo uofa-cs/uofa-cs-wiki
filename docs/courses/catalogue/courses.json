@@ -1,0 +1,2239 @@
+[
+  {
+    "code": "CMPUT 101",
+    "slug": "cmput-101",
+    "title": "Introduction to Computing",
+    "year": "100",
+    "topics": [
+      "Foundations"
+    ],
+    "difficulty": "Easy",
+    "workload": "Light",
+    "relevance": "Low",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "The gentlest introduction to programming at UofA. Designed for students with zero background.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 174",
+    "slug": "cmput-174",
+    "title": "Introduction to the Foundations of Computation I",
+    "year": "100",
+    "topics": [
+      "Foundations",
+      "Programming"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "Low",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "First-year Python course. Variables, control flow, functions, recursion, basic data structures.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 175",
+    "slug": "cmput-175",
+    "title": "Introduction to the Foundations of Computation II",
+    "year": "100",
+    "topics": [
+      "Foundations",
+      "Programming"
+    ],
+    "difficulty": "Medium",
+    "workload": "Heavy",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Continues from 174. Object-oriented programming, more complex data structures, recursion deepened. The jump from 174 to 175 catches a lot of students by surprise.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 191",
+    "slug": "cmput-191",
+    "title": "Introduction to Data Science",
+    "year": "100",
+    "topics": [
+      "Foundations",
+      "Data Science"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to data acquisition, basic data manipulation (cleaning, outlier detection), analysis (regression, clustering, classification), basic statistics and machine learning tools, information visualization to communicate information fr",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 195",
+    "slug": "cmput-195",
+    "title": "Introduction to Principles and Techniques of Data Science",
+    "year": "100",
+    "topics": [
+      "Foundations",
+      "Data Science"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "This course introduces data science to students with prior computing experience.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 200",
+    "slug": "cmput-200",
+    "title": "Ethics of Data Science and Artificial Intelligence",
+    "year": "200",
+    "topics": [
+      "Ethics & Society",
+      "Data Science"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "This course focuses on ethics issues in Artificial Intelligence (AI) and Data Science (DS).",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 201",
+    "slug": "cmput-201",
+    "title": "Practical Programming Methodology",
+    "year": "200",
+    "topics": [
+      "Programming",
+      "Systems"
+    ],
+    "difficulty": "Brutal",
+    "workload": "Heavy",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "The rite of passage for any UofA programmer, no matter the experience.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 204",
+    "slug": "cmput-204",
+    "title": "Algorithms I",
+    "year": "200",
+    "topics": [
+      "Algorithms",
+      "Theory"
+    ],
+    "difficulty": "Hard",
+    "workload": "Heavy",
+    "relevance": "Critical",
+    "units": "3 units (fi 6)(EITHER, 3-1S-0)",
+    "summary": "Big-O analysis, sorting, graphs, dynamic programming, greedy algorithms. This is THE interview course. Everything you will be asked in a technical interview draws from this material.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 206",
+    "slug": "cmput-206",
+    "title": "Introduction to Digital Image Processing",
+    "year": "200",
+    "topics": [
+      "Computer Vision"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "An introduction to basic digital image processing theory, and the tools that make advanced image manipulation possible for ordinary users.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 229",
+    "slug": "cmput-229",
+    "title": "Computer Organization and Architecture I",
+    "year": "200",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": "Brutal",
+    "workload": "Overwhelming",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Assembly language, MIPS, CPU design, memory hierarchy. Consistently cited by students as the hardest course in the program.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 250",
+    "slug": "cmput-250",
+    "title": "Computers and Games",
+    "year": "200",
+    "topics": [
+      "Games"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "An interdisciplinary course for students in Science, Arts, and other faculties.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 256",
+    "slug": "cmput-256",
+    "title": "Game Artificial Intelligence",
+    "year": "200",
+    "topics": [
+      "Games",
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "The purpose of this course is for students to gain a breadth of understanding of the AI approaches employed in digital games.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 261",
+    "slug": "cmput-261",
+    "title": "Introduction to Artificial Intelligence",
+    "year": "200",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to artificial intelligence focusing on techniques for building intelligent software systems and agents.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 267",
+    "slug": "cmput-267",
+    "title": "Machine Learning I",
+    "year": "200",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": "Hard",
+    "workload": "Heavy",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Statistics-heavy intro to ML: linear algebra, probability, gradient descent, regression, classification. This is not a \"here's how to use scikit-learn\" course. It's mathematical foundations.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 272",
+    "slug": "cmput-272",
+    "title": "Formal Systems and Logic in Computing Science",
+    "year": "200",
+    "topics": [
+      "Theory"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 3-3S-0)",
+    "summary": "Propositional logic, predicate logic, proofs, set theory. Dry but necessary. Many students find it tedious; the students who actually absorb the proof-writing skills are better prepared for theory courses.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 274",
+    "slug": "cmput-274",
+    "title": "Introduction to Tangible Computing I",
+    "year": "200",
+    "topics": [
+      "Foundations",
+      "Programming"
+    ],
+    "difficulty": "Hard",
+    "workload": "Overwhelming",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 0-6L-0)",
+    "summary": "The alternative to 174/175. Uses Raspberry Pi hardware, covers Python deeply in 274, then C++ in 275.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 275",
+    "slug": "cmput-275",
+    "title": "Introduction to Tangible Computing II",
+    "year": "200",
+    "topics": [
+      "Foundations",
+      "Programming"
+    ],
+    "difficulty": "Hard",
+    "workload": "Overwhelming",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 0-6L-0)",
+    "summary": "The alternative to 174/175. Uses Raspberry Pi hardware, covers Python deeply in 274, then C++ in 275.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 291",
+    "slug": "cmput-291",
+    "title": "Introduction to File and Database Management",
+    "year": "200",
+    "topics": [
+      "Databases"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-1.5)",
+    "summary": "SQL, relational models, NoSQL (MongoDB), query optimization basics. Two big assignments and two group projects in most sections (a Python SQLite project and a MongoDB project).",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 296",
+    "slug": "cmput-296",
+    "title": "Topics in Computing Science",
+    "year": "200",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 297",
+    "slug": "cmput-297",
+    "title": "Topics in Computing Science",
+    "year": "200",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 298",
+    "slug": "cmput-298",
+    "title": "Topics in Computing Science",
+    "year": "200",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 299",
+    "slug": "cmput-299",
+    "title": "Topics in Computing Science",
+    "year": "200",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for a one on one individual study course between a student and an instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 300",
+    "slug": "cmput-300",
+    "title": "Computers and Society",
+    "year": "300",
+    "topics": [
+      "Ethics & Society"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-1S-0)",
+    "summary": "Social, ethical, professional, economic, and legal issues in the development and deployment of computer technology in society.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 301",
+    "slug": "cmput-301",
+    "title": "Introduction to Software Engineering",
+    "year": "300",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": "Medium",
+    "workload": "Heavy",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Android development project + software engineering concepts (design patterns, UML, requirements). The project is the course. Your experience with 301 is almost entirely determined by your team.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 302",
+    "slug": "cmput-302",
+    "title": "Introduction to Human Computer Interaction",
+    "year": "300",
+    "topics": [
+      "Software Engineering",
+      "HCI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "A complementary course to introductory software engineering focused on a user-centered approach to software design.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 303",
+    "slug": "cmput-303",
+    "title": "Algorithmics in Practice",
+    "year": "300",
+    "topics": [
+      "Algorithms"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "This course is focused on algorithmic problems, where a solution involves properly understanding a written description, designing an efficient algorithm to solve the problem, and then correctly implementing the solution.",
+    "has_review": false,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 304",
+    "slug": "cmput-304",
+    "title": "Algorithms II",
+    "year": "300",
+    "topics": [
+      "Algorithms",
+      "Theory"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-1S-0)",
+    "summary": "The second course of a two-course sequence on algorithm design.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 307",
+    "slug": "cmput-307",
+    "title": "3D Modeling and Animation",
+    "year": "300",
+    "topics": [
+      "Graphics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "An introductory course on the theory and applications of computer based 3D modeling and animation.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 308",
+    "slug": "cmput-308",
+    "title": "Video Processing and Applications",
+    "year": "300",
+    "topics": [
+      "Computer Vision"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "An introductory course in video data processing, with implementations in programming languages, like Python, C and MATLAB, using libraries like OpenCV.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 312",
+    "slug": "cmput-312",
+    "title": "Introduction to Robotics and Mechatronics",
+    "year": "300",
+    "topics": [
+      "Robotics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Algorithms and software paradigms for robot programming; mathematical modeling of robot arms and rovers including kinematics, and an introduction to dynamics and control; sensors, motors and their modeling; basics of image processing and ma",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 313",
+    "slug": "cmput-313",
+    "title": "Computer Networks",
+    "year": "300",
+    "topics": [
+      "Networks"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "TCP/IP, routing, DNS, the OSI model, socket programming. Often cited as \"boring but useful.\" Students who go on to do backend or infrastructure work often say they wished they'd paid more attention.",
+    "has_review": true,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 325",
+    "slug": "cmput-325",
+    "title": "Non-Procedural Programming Languages",
+    "year": "300",
+    "topics": [
+      "Languages"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Functional programming (Lisp/Scheme or Haskell depending on the semester), logic programming. Teaches a completely different way of thinking about computation.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 328",
+    "slug": "cmput-328",
+    "title": "Visual Recognition",
+    "year": "300",
+    "topics": [
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to visual recognition to recognize objects and classify scenes or images automatically by a computer.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 329",
+    "slug": "cmput-329",
+    "title": "Computer Organization and Architecture II",
+    "year": "300",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "CMOS technology, digital circuits, combinational logic, sequential logic, memory technologies, programmable logic devices, control logic design, register transfer logic, CPU design, hardware description languages.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 331",
+    "slug": "cmput-331",
+    "title": "Computational Cryptography",
+    "year": "300",
+    "topics": [
+      "Cryptography",
+      "Security"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Cryptography is the science of secure communications.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 333",
+    "slug": "cmput-333",
+    "title": "Security in a Networked World",
+    "year": "300",
+    "topics": [
+      "Security",
+      "Networks"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to the concepts and components involved in secure, networked, systems.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 340",
+    "slug": "cmput-340",
+    "title": "Introduction to Numerical Methods",
+    "year": "300",
+    "topics": [
+      "Numerical Methods"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-1S-3)",
+    "summary": "Computer arithmetic and errors.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 350",
+    "slug": "cmput-350",
+    "title": "Advanced Games Programming",
+    "year": "300",
+    "topics": [
+      "Games",
+      "Programming"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "This course focuses on state-of-the-art AI and graphics programming for video games.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 355",
+    "slug": "cmput-355",
+    "title": "Games, Puzzles, Algorithms",
+    "year": "300",
+    "topics": [
+      "Games",
+      "Algorithms"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "An introduction to algorithms and theory behind computer programs that solve puzzles (mazes, peg solitaire, etc.) or play games (chess, Go, Hex, etc.).",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 361",
+    "slug": "cmput-361",
+    "title": "Introduction to Information Retrieval",
+    "year": "300",
+    "topics": [
+      "Information Retrieval",
+      "Databases"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Introduction to information retrieval focusing on algorithms and data structures for organizing and searching through large collections of documents, and techniques for evaluating the quality of search results.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 365",
+    "slug": "cmput-365",
+    "title": "Introduction to Reinforcement Learning",
+    "year": "300",
+    "topics": [
+      "Machine Learning",
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "This course provides an introduction to reinforcement learning, which focuses on the study and design of learning agents that interact with a complex, uncertain world to achieve a goal.",
+    "has_review": false,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 366",
+    "slug": "cmput-366",
+    "title": "Search and Planning in Artificial Intelligence",
+    "year": "300",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "This course provides an introduction to search and planning in artificial intelligence.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 379",
+    "slug": "cmput-379",
+    "title": "Operating System Concepts",
+    "year": "300",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": "Hard",
+    "workload": "Heavy",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Processes, threads, scheduling, memory management, file systems, IPC. One of the most prof-dependent courses in the program; the same material can be a very different experience depending on who's teaching.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 382",
+    "slug": "cmput-382",
+    "title": "Introduction to GPU Programming",
+    "year": "300",
+    "topics": [
+      "Systems",
+      "Programming"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "CUDA programming, GPU architecture, parallel algorithms. Not widely discussed on Reddit because not many students take it.",
+    "has_review": true,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 391",
+    "slug": "cmput-391",
+    "title": "Database Management Systems",
+    "year": "300",
+    "topics": [
+      "Databases"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "This course covers the implementation of RDBMSs and some non- relational data models, along with their query languages.",
+    "has_review": false,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 393",
+    "slug": "cmput-393",
+    "title": "Scalable Data-Intensive Analytics",
+    "year": "300",
+    "topics": [
+      "Data Science",
+      "Databases"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to scalable computing paradigms suitable for data-intensive analytics, with a focus on abstractions, algorithms, and infrastructure for scaling data science, machine learning, and data engineering tasks using multiple machines.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 396",
+    "slug": "cmput-396",
+    "title": "Topics in Computing Science",
+    "year": "300",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 397",
+    "slug": "cmput-397",
+    "title": "Topics in Computing Science",
+    "year": "300",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 398",
+    "slug": "cmput-398",
+    "title": "Topics in Computing Science",
+    "year": "300",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 399",
+    "slug": "cmput-399",
+    "title": "Topics in Computing Science",
+    "year": "300",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for a one on one individual study course between a student and an instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 401",
+    "slug": "cmput-401",
+    "title": "Software Process and Product Management",
+    "year": "400",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": "Medium",
+    "workload": "Moderate",
+    "relevance": "Medium",
+    "units": "3 units (fi 6)(EITHER, 3-1S-3)",
+    "summary": "Software development lifecycle, project management, agile, product thinking. More conceptual than 301. Exams are typically manageable; the course leans on readings and projects.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 402",
+    "slug": "cmput-402",
+    "title": "Software Quality",
+    "year": "400",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Software quality issues are covered.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 403",
+    "slug": "cmput-403",
+    "title": "Algorithmics in Competitive Programming",
+    "year": "400",
+    "topics": [
+      "Algorithms"
+    ],
+    "difficulty": "Hard",
+    "workload": "Heavy",
+    "relevance": "Critical",
+    "units": "3 units (fi 6)(EITHER, 3-1S-0)",
+    "summary": "Segment trees, advanced graph algorithms, string algorithms, dynamic programming optimization, computational geometry. The best interview prep course at UofA.",
+    "has_review": true,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 404",
+    "slug": "cmput-404",
+    "title": "Web Applications and Architecture",
+    "year": "400",
+    "topics": [
+      "Web",
+      "Software Engineering"
+    ],
+    "difficulty": "Medium",
+    "workload": "Heavy",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Web protocols, HTTP, REST APIs, front-end and back-end web development.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 411",
+    "slug": "cmput-411",
+    "title": "Introduction to Computer Graphics",
+    "year": "400",
+    "topics": [
+      "Graphics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "2D and 3D transformation; 3D modeling and viewing; illumination models and shading methods; texture mapping; ray tracing.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 412",
+    "slug": "cmput-412",
+    "title": "Experimental Mobile Robotics",
+    "year": "400",
+    "topics": [
+      "Robotics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "A project-based course dealing with the design and implementation of mobile robots to accomplish specific tasks.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 414",
+    "slug": "cmput-414",
+    "title": "Introduction to Multimedia Technology",
+    "year": "400",
+    "topics": [
+      "Computer Vision"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to basic principles and algorithms used in multimedia systems.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 415",
+    "slug": "cmput-415",
+    "title": "Compiler Design",
+    "year": "400",
+    "topics": [
+      "Languages",
+      "Systems"
+    ],
+    "difficulty": "Brutal",
+    "workload": "Overwhelming",
+    "relevance": "High",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Lexing, parsing, ASTs, semantic analysis, code generation, LLVM. One of the most work-intensive courses in the program.",
+    "has_review": true,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 416",
+    "slug": "cmput-416",
+    "title": "Foundations of Program Analysis",
+    "year": "400",
+    "topics": [
+      "Languages",
+      "Theory"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Introduction to the main concepts of program analysis such as intermediate representations, inter-procedural and intra-procedural analysis techniques, call graphs, pointer analysis, and analysis frameworks.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 428",
+    "slug": "cmput-428",
+    "title": "Computer Vision",
+    "year": "400",
+    "topics": [
+      "Computer Vision"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Introduction to the geometry and photometry of the 3D to 2D image formation process for the purpose of computing scene properties from camera images.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 429",
+    "slug": "cmput-429",
+    "title": "Computer Systems and Architecture",
+    "year": "400",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "A discussion of computer system design concepts with stress on modern ideas that have shaped the high-performance architecture of contemporary systems.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 455",
+    "slug": "cmput-455",
+    "title": "Search, Knowledge and Simulation",
+    "year": "400",
+    "topics": [
+      "Games",
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "When making decisions in games, computers rely on three main ideas: search, knowledge and simulations.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 461",
+    "slug": "cmput-461",
+    "title": "Introduction to Natural Language Processing",
+    "year": "400",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Natural language processing (NLP) is a subfield of artificial intelligence concerned with the interactions between computers and human languages.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 463",
+    "slug": "cmput-463",
+    "title": "Probabilistic Graphical Models",
+    "year": "400",
+    "topics": [
+      "Machine Learning",
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Probabilistic graphical models (PGMs; including Bayesian Belief Nets, Markov Random Fields, etc.) now contribute significantly to many areas, including expert systems, computer perception (vision and speech), natural language interpretation",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 466",
+    "slug": "cmput-466",
+    "title": "Machine Learning Essentials",
+    "year": "400",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": "Brutal",
+    "workload": "Heavy",
+    "relevance": "Critical",
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Supervised learning, neural networks, probabilistic models, optimization. The capstone ML course. Quality varies enormously by who is teaching.",
+    "has_review": true,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 467",
+    "slug": "cmput-467",
+    "title": "Machine Learning II",
+    "year": "400",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "This is the second course of a two-course sequence on machine learning, with a focus on extending to nonlinear modeling with neural networks and higher-dimensional data.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 469",
+    "slug": "cmput-469",
+    "title": "Artificial Intelligence Capstone",
+    "year": "400",
+    "topics": [
+      "AI",
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-3)",
+    "summary": "Students will experience the challenges, and rewards, of working in a team to address a real-world task, related to artificial intelligence or machine learning.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 474",
+    "slug": "cmput-474",
+    "title": "Formal Languages, Automata, and Computability",
+    "year": "400",
+    "topics": [
+      "Theory"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Formal grammars; relationship between grammars and automata; regular expressions; finite state machines; pushdown automata; Turing machines; computability; the halting problem; time and space complexity.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 481",
+    "slug": "cmput-481",
+    "title": "Parallel and Distributed Systems",
+    "year": "400",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "This course provides an undergraduate-level introduction to parallel programming, parallel and distributed systems, and high-performance computing in science and engineering.",
+    "has_review": false,
+    "has_gem": true
+  },
+  {
+    "code": "CMPUT 495",
+    "slug": "cmput-495",
+    "title": "Honors Seminar",
+    "year": "400",
+    "topics": [
+      "Honors"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "0 units (fi 1)(EITHER, 0-1S-0)",
+    "summary": "This weekly seminar brings students, researchers, and practitioners together to examine a variety of topics, both foundational and leading edge.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 496",
+    "slug": "cmput-496",
+    "title": "Topics in Computing Science",
+    "year": "400",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 497",
+    "slug": "cmput-497",
+    "title": "Topics in Computing Science",
+    "year": "400",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 498",
+    "slug": "cmput-498",
+    "title": "Topics in Computing Science",
+    "year": "400",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for new course offerings that may be offered in a given term.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 499",
+    "slug": "cmput-499",
+    "title": "Topics in Computing Science",
+    "year": "400",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This topics course is designed for a one on one individual study course between a student and an instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 500",
+    "slug": "cmput-500",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 501",
+    "slug": "cmput-501",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 502",
+    "slug": "cmput-502",
+    "title": "Software Quality",
+    "year": "Graduate",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Software quality issues are covered.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 503",
+    "slug": "cmput-503",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 504",
+    "slug": "cmput-504",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 511",
+    "slug": "cmput-511",
+    "title": "Introduction to Computer Graphics",
+    "year": "Graduate",
+    "topics": [
+      "Graphics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "2D and 3D transformation; 3D modeling and viewing; illumination models and shading methods; texture mapping; ray tracing.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 512",
+    "slug": "cmput-512",
+    "title": "Experimental Mobile Robotics",
+    "year": "Graduate",
+    "topics": [
+      "Data Science",
+      "Robotics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "A project-based course dealing with the design and implementation of mobile robots to accomplish specific tasks.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 529",
+    "slug": "cmput-529",
+    "title": "Computer Systems and Architecture",
+    "year": "Graduate",
+    "topics": [
+      "Networks",
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "A discussion of computer system design concepts with stress on modern ideas that have shaped the high-performance architecture of contemporary systems.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 530",
+    "slug": "cmput-530",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 551",
+    "slug": "cmput-551",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 561",
+    "slug": "cmput-561",
+    "title": "Introduction to Natural Language Processing",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning",
+      "AI",
+      "Languages"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Natural language processing (NLP) is a subfield of artificial intelligence concerned with the interactions between computers and human languages.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 563",
+    "slug": "cmput-563",
+    "title": "Probabilistic Graphical Models",
+    "year": "Graduate",
+    "topics": [
+      "Computer Vision",
+      "Machine Learning",
+      "Robotics",
+      "Systems",
+      "Languages"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Probabilistic graphical models (PGMs; including Bayesian Belief Nets, Markov Random Fields, etc.) now contribute significantly to many areas, including expert systems, computer perception (vision and speech), natural language interpretation",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 566",
+    "slug": "cmput-566",
+    "title": "Machine Learning Essentials",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning",
+      "Data Science",
+      "Networks"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Learning is essential for many real-world tasks, including recognition, diagnosis, forecasting and data-mining.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 567",
+    "slug": "cmput-567",
+    "title": "Machine Learning II",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning",
+      "Data Science",
+      "Networks"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "This course expands on machine learning fundamentals with a focus on extending to nonlinear modeling with neural networks and higher-dimensional data.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 600",
+    "slug": "cmput-600",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(VAR, VARIABLE)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 603",
+    "slug": "cmput-603",
+    "title": "Teaching and Research Methods",
+    "year": "Graduate",
+    "topics": [
+      "Graduate Studies",
+      "Ethics & Society"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(FIRST, 3-0-0)",
+    "summary": "This course provides information and resources on teaching and research methods in computing science, and also gives an overview of the research done by faculty in the department.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 604",
+    "slug": "cmput-604",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 605",
+    "slug": "cmput-605",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 606",
+    "slug": "cmput-606",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 607",
+    "slug": "cmput-607",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 608",
+    "slug": "cmput-608",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 609",
+    "slug": "cmput-609",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 610",
+    "slug": "cmput-610",
+    "title": "Topics in Computer Graphics",
+    "year": "Graduate",
+    "topics": [
+      "Graphics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 615",
+    "slug": "cmput-615",
+    "title": "Topics in Image Processing and Vision",
+    "year": "Graduate",
+    "topics": [
+      "Computer Vision"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 616",
+    "slug": "cmput-616",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 617",
+    "slug": "cmput-617",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 620",
+    "slug": "cmput-620",
+    "title": "Topics in Programming Languages",
+    "year": "Graduate",
+    "topics": [
+      "Languages"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 622",
+    "slug": "cmput-622",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 624",
+    "slug": "cmput-624",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 626",
+    "slug": "cmput-626",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 627",
+    "slug": "cmput-627",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 628",
+    "slug": "cmput-628",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 629",
+    "slug": "cmput-629",
+    "title": "Topics in Machine Learning",
+    "year": "Graduate",
+    "topics": [
+      "Machine Learning"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 631",
+    "slug": "cmput-631",
+    "title": "Robotics",
+    "year": "Graduate",
+    "topics": [
+      "Robotics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 640",
+    "slug": "cmput-640",
+    "title": "Topics in Computer Networks",
+    "year": "Graduate",
+    "topics": [
+      "Networks"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 641",
+    "slug": "cmput-641",
+    "title": "Advanced Computer Networks",
+    "year": "Graduate",
+    "topics": [
+      "Networks"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 644",
+    "slug": "cmput-644",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 650",
+    "slug": "cmput-650",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 651",
+    "slug": "cmput-651",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 652",
+    "slug": "cmput-652",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 653",
+    "slug": "cmput-653",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 654",
+    "slug": "cmput-654",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 655",
+    "slug": "cmput-655",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 656",
+    "slug": "cmput-656",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 657",
+    "slug": "cmput-657",
+    "title": "Heuristic Search",
+    "year": "Graduate",
+    "topics": [
+      "AI",
+      "Algorithms"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 658",
+    "slug": "cmput-658",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 659",
+    "slug": "cmput-659",
+    "title": "Topics in Artificial Intelligence",
+    "year": "Graduate",
+    "topics": [
+      "AI"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 660",
+    "slug": "cmput-660",
+    "title": "Topics in Software Engineering",
+    "year": "Graduate",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 663",
+    "slug": "cmput-663",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 664",
+    "slug": "cmput-664",
+    "title": "Topics in Software Engineering",
+    "year": "Graduate",
+    "topics": [
+      "Software Engineering"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 670",
+    "slug": "cmput-670",
+    "title": "Topics in the Theory of Computation",
+    "year": "Graduate",
+    "topics": [
+      "Algorithms",
+      "Theory"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 672",
+    "slug": "cmput-672",
+    "title": "Algorithmic Graph Theory",
+    "year": "Graduate",
+    "topics": [
+      "Algorithms",
+      "Theory"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 675",
+    "slug": "cmput-675",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 676",
+    "slug": "cmput-676",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 680",
+    "slug": "cmput-680",
+    "title": "Topics in Systems",
+    "year": "Graduate",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 681",
+    "slug": "cmput-681",
+    "title": "Topics in Parallel and Distributed Systems",
+    "year": "Graduate",
+    "topics": [
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 690",
+    "slug": "cmput-690",
+    "title": "Topics in Databases",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 691",
+    "slug": "cmput-691",
+    "title": "Topics in Databases",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 692",
+    "slug": "cmput-692",
+    "title": "Modern Database Management Systems",
+    "year": "Graduate",
+    "topics": [
+      "Databases",
+      "Systems"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 694",
+    "slug": "cmput-694",
+    "title": "Topics in Databases",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 696",
+    "slug": "cmput-696",
+    "title": "Topics in Data Management",
+    "year": "Graduate",
+    "topics": [
+      "Databases",
+      "Data Science"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 697",
+    "slug": "cmput-697",
+    "title": "Topics in Computing Science",
+    "year": "Graduate",
+    "topics": [
+      "Special Topics"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "3 units (fi 6)(EITHER, 3-0-0)",
+    "summary": "Variable topics; description set by instructor.",
+    "has_review": false,
+    "has_gem": false
+  },
+  {
+    "code": "CMPUT 701",
+    "slug": "cmput-701",
+    "title": "Essay in Computing Science I",
+    "year": "Graduate",
+    "topics": [
+      "Graduate Studies"
+    ],
+    "difficulty": null,
+    "workload": null,
+    "relevance": null,
+    "units": "6 units (fi 12)(VAR, 0-6S-0)",
+    "summary": "A major essay on an agreed topic.",
+    "has_review": false,
+    "has_gem": false
+  }
+]
