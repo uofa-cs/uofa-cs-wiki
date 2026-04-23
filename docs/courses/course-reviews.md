@@ -251,9 +251,13 @@ TCP/IP, routing, DNS, the OSI model, socket programming. Often cited as "boring 
 
 **Difficulty:** Medium | **Workload:** Moderate | **Industry relevance:** Medium
 
-Functional programming (Lisp/Scheme or Haskell depending on the semester), logic programming. Teaches a completely different way of thinking about computation.
+The course begins with the Functional Programming paradigm via Lisp (or Haskell). Functional Programming is completely new if coming from a typical procedural programming background (Python, C; programming involving the execution of instructions top-down), but the paradigm is still fit for general purpose uses. Much of Functional Programming revolves around recursion and in particular defining functions which treat an array elementwise before recursing. Discussion on FP concludes with lambda calculus, which describes how higher-order lambda functions work both fundamentally and through Lisp.
 
-"325 was much more useful and fun. It'll help teach you recursion really well." Another student: "313 is boring and relatively painful to study for but will teach you some fantastic concepts. 325 is more fun."
+The second half of the course covers the Logical Programming paradigm, which is more polarizinng among students who've taken the course; Prolog is arguably a bigger leap than Lisp as the paradigm revolves around defining logical facts and rules to determmine solutions. Prolog uses a solution finder that runs a depth-first search on some tree of all possible solutions given a query (goal) and your facts and rules. We also touch on Prolog's feasibility for database querying using various built-in functions. Following coverage of Logical Programming basics, discussion transitions to Constraint Logical Programming in Prolog, which is about restricting the possibilities for a solution to achieve a complex goal more dynamically (i.e., creating a valid Sudoku table). 
+
+New to the course as of Winter, 2026 is Answer Set Programming, which is **not** general purpose, but opens up possibilities as far as solving difficult problems with less complexity.
+
+**Reviews:** "325 was much more useful and fun. It'll help teach you recursion really well." Another student: "313 is boring and relatively painful to study for but will teach you some fantastic concepts. 325 is more fun."
 
 **Student tips:**
 - If you've only programmed in Python/Java/C, functional programming will feel alien at first. Stick with it; the perspective shift is the whole point.
@@ -263,24 +267,27 @@ Functional programming (Lisp/Scheme or Haskell depending on the semester), logic
 
 ## CMPUT 379: Operating Systems
 
-**Difficulty:** Hard | **Workload:** Heavy | **Industry relevance:** High
+**Difficulty:** Medium | **Workload:** Low-Heavy | **Industry relevance:** Critical
 
-Processes, threads, scheduling, memory management, file systems, IPC. One of the most prof-dependent courses in the program; the same material can be a very different experience depending on who's teaching.
+Processes, threads, scheduling, virtual memory, memory management, file systems, inter-process commmunication (IPC). For anyone pursuing Computer Science, this course is extremely useful, but it is especially important for anyone pursuing a career in systems. Completion of CMPUT 379 opens up the opportunity for further studies in systems, including CMPUT 481 (Distributed Systems). Students say it is of the most professor-dependent courses in the program; the same material can be result in very different experience depending on who's teaching.
 
-"It's basically an extension of 201 with more interesting theory and a little bit of new programming. Definitely worth taking." Another: "It can be up there in difficulty; my prof curved it so nobody got an A."
+The textbook is completely free online: https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+**Reviews:**
+> "It's basically an extension of 201 with more interesting theory and a little bit of new programming. Definitely worth taking."
+> "It can be up there in difficulty; my prof curved it so nobody got an A."
 
 **Best profs:**
-- **Jonathan Schaeffer (4.7/5):** among the best-reviewed professors at UofA, period. Mixes in personal stories (including his famous 17-year chess program Chinook), excellent lectures. Assignments are tough but fair. "I'm in my final year and Schaeffer is one of the top three professors I've had." His exams are difficult and can be longer than the time allows, but the class is typically curved.
-- **Omid Ardakanian (4.5/5):** teaches clearly, accommodating, midterm and final described as "very reasonable if you pay attention."
-- **Ioanis Nikolaidis (3.5/5):** entertaining but goes on tangents. Hard assignments, hard tests. "Very bright person and one of the better profs in the department."
+- **Omid Ardakanian (4.5/5):** Lectures have solid coverage, despite being a little monotone. Omid is accommodating; midterm and final described as 'very reasonable if you pay attention.'"
+- **Ioanis Nikolaidis (3.5/5):** "Entertaining, but goes on tangents. Hard assignments, hard tests. 'Very bright individual and one of the better profs in the department.'"
 
 **Avoid:**
-- **Ehab Elmallah (2.4/5):** also teaches 379 sometimes. Same issues as in 313: boring, ineffective teaching. One RMP review: "Prof took a normally curved 300-level class and said nah, what if average GPA was 2.3?" Another: "Only 1 or 2 people got an A out of about 100."
+- **Ehab Elmallah (2.4/5):** Also teaches 379 sometimes. Same issues as in 313: boring, ineffective teaching. One RMP review: 'Prof took a normally curved 300-level class and said nah, what if average GPA was 2.3?' Another: 'Only 1 or 2 people got an A out of about 100.'"
+- **Paul Lu (2.5/5):** "Often teaches 379 and 481. While lectures in 481 are extremely engaging, I found his coverage of 379 left alot to be desired, as deep discussion of the material and intricacies asked after in the exams was largely absent. The assignments for this course were not particularly engaging or relevant. Not terribly difficult, but you should find another offering for the sake of your own learning."
 
 **Student tips:**
 - The textbook is a must for Nikolaidis sections; his lectures don't cover everything.
-- For Schaeffer: read the lab slides before labs. His first assignment is reportedly the hardest; it gets easier.
-- 379 is significantly easier if you're solid on 201. The C programming comfort level matters.
+- 379 is significantly easier if you're solid on material from 201. Comfort with C (or C++, depending on the instructor) matters.
 
 ---
 
@@ -289,6 +296,8 @@ Processes, threads, scheduling, memory management, file systems, IPC. One of the
 **Difficulty:** Medium | **Workload:** Moderate | **Industry relevance:** High (niche but rare)
 
 CUDA programming, GPU architecture, parallel algorithms. Not widely discussed on Reddit because not many students take it. The few who have report that labs take the full 3 hours but the course isn't disproportionately harder than other 300-level courses. Disorganized in some past offerings.
+
+This course has not been offered since Fall, 2024, with no future semesters listed.
 
 **Student tips:**
 - The ability to write GPU code is genuinely rare among CS graduates. This is a strong differentiator if you're going into ML infrastructure, HPC, or graphics.
@@ -352,17 +361,24 @@ Web protocols, HTTP, REST APIs, front-end and back-end web development. The mate
 
 **Difficulty:** Brutal | **Workload:** Overwhelming | **Industry relevance:** Medium-High
 
-Lexing, parsing, ASTs, semantic analysis, code generation, LLVM. One of the most work-intensive courses in the program.
+Grammars (ANTLR4, finite state automata), lexing, parsing (and the history of parsers), abstract syntax trees (AST), semantic analysis (including variable scopes and lifetime), code generation, LLVM/MLIR, and compiler optimization (basic blocks, dataflow, available expressions), and register allocation. One of the most work-intensive courses in the program on account of the project.
 
-"The workload never lets up. You constantly need to be working on stuff. As soon as an assignment is done, it's in your best interest to start the next one immediately." And: "Without a doubt the most work I've had to do for a CMPUT course. Also the course I learned the most in; in retrospect, I would still take it again."
+The project is a full LLVM-based compiler for an obscure IBM language (the spec. is 40 pages and glosses over features). Most groups don't finish all features. A part of your evaluation involves competitive testing - students are to write a test suite for their submissions designed to test your adherence to the specification and coverage of edge cases. You get points for causing exceptions in other people's programs, while your submission is tested for its robustness against all the student test cases. 
 
-The project is a full LLVM-based compiler for an obscure IBM language (the spec is 40 pages and glosses over features). Most groups don't finish all features.
+
+**Reviews:**
+> "The workload never lets up. You constantly need to be working. As soon as an assignment is done, it's in your best interest to start the next one immediately."
+> "Without a doubt the most work I've had to do for a CMPUT course. Also the course I learned the most in; in retrospect, I would still take it again."
 
 **Student tips:**
-- Know Java before you start (that's what the implementation uses).
-- Look up ANTLR (parser generator) and LLVM before the course begins.
-- Do not take 415 with other heavy courses. Three moderate courses + 415 is better than 415 + one other heavy course.
-- Despite the pain, this course is worth it if you're interested in compilers, developer tooling, or understanding how languages work.
+- Proficiency in C++ is assumed - intimate familiarity is essential.
+- Look up ANTLR (parser generator) and LLVM/MLIR before the course begins.
+- Do not take 415 with other heavy or project-based courses. Despite lectures ending a whole month before the end of the semester, working on the project itself is practically a full-time commitment.
+- Despite the challenges, this course is worth it if you're interested in compilers, developer tooling, or understanding how language frontends work.
+
+**Best profs:**
+- **Ron Unrau (5/5):** "Ron's lectures are interesting and engaging, given his personal experience in industry. He is also understanding and gives fair exams, in addition to ample resources to prepare."
+- **Nelson Amaral (5/5):** "Likewise, a great instructor who may still appear throughout the semester, even with Prof. Unrau. His lecture videos are available to those who do not attend class in person and have aged well since their creation in 2020, as both instructors use his slide presentations."
 
 ---
 
@@ -407,12 +423,12 @@ Supervised learning, neural networks, probabilistic models, optimization. The ca
 | 301 | Medium | Heavy (team-dep.) | Hazel (main), Hindle (sometimes) | - | High |
 | 313 | Medium | Moderate | Nikolaidis | Elmallah | Medium-High |
 | 325 | Medium | Moderate | - | - | Medium |
-| 379 | Hard | Heavy | Schaeffer | Elmallah | High |
+| 379 | Medium | Moderate/Heavy | Ardakanian | Elmallah | Critical |
 | 382 | Medium | Moderate | - | - | High (niche) |
 | 401 | Medium | Moderate | Mark Polak | - | Medium |
 | 403 | Hard | Heavy | Friggstad | - | Critical |
 | 404 | Medium | Heavy | - | H. Campbell | High |
-| 415 | Brutal | Overwhelming | - | - | Medium-High |
+| 415 | Brutal | Overwhelming | Nelson Amaral, Ron Unrau | - | Medium-High |
 | 466 | Hard-Brutal | Heavy | Schuurmans | Hegde | Critical |
 
 ---
