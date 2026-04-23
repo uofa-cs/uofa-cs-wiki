@@ -87,25 +87,24 @@ The alternative to 174/175. Uses Raspberry Pi hardware, covers Python deeply in 
 
 **Difficulty:** Hard-Brutal | **Workload:** Heavy | **Industry relevance:** High
 
-The course that breaks people. C programming: pointers, memory management, bitwise operations, makefiles, debugging with gdb. The difficulty is not just the content; it's that there is no graceful way to skip understanding. Either you understand pointers or you don't. You cannot fake it.
+The rite of passage for any UofA programmer, no matter the experience. The course focuses on C99: a walkthrough of basic syntax before delving into pointers, memory management, structs and unions, the preprocessor, implementing abstract data structures, bitwise operators and bitfields in C. 201 covers a lot more C than 275.
 
-One student described their 201 final: "an 8/45 class average on a final exam written by the professor; in no universe is that acceptable." Another wrote more diplomatically: "CMPUT 201 is a difficult course but it makes you a better programmer... you'll learn a lot and 379 will be a breeze."
+Alongside learning C, this will be your first encounter with GitHub. You will learn how to do Git operations individually: cloning, adding/pushing, (and if the TAs update the lab) resolving merge conflicts. You also learn debugging with gdb, and programming in vim; though most students debug with `printf` and use Remote SSH to connect to the lab machines.
 
-**Best profs:**
-- **Sarah Nadi (3.4/5):** considered by students who've taken 201 under multiple profs to be the clearest teacher. "Sarah is by far the best at teaching it. Though the assignments are hard, they help you later in 300-level courses." Mixed reviews about availability.
-- **Henry Tang:** mentioned by students as a recommended alternative to Lin.
+The TA's—who design nearly every lab—and the professors will not hold back. Labs and In-Class Coding will require knowledge about algorithms and data structures from 175, complementing 272 and 204 as well. Linked Lists alongside sorting algorithms are required to know. Despite the low averages and the soul-crushing assignments, you will become a more resilient programmer.
 
-**Avoid:**
-- **Guohui Lin (2.5/5):** frequently cited as making a hard course significantly harder. Very difficult to understand in lectures, and in-class coding exercises are reportedly harder than other sections. 200-rating count on RMP, mostly negative. "CMPUT 201 is a difficult course but Guohui makes it much worse because no student can understand what he's saying."
-- **Michael Buro (2.0/5):** knowledgeable but notorious for pop quizzes, heavy workload, and labs described as nightmares. "Course load was absolutely ridiculous... if you're taking this, learn C/C++ already."
+**Professors:**
+- **Henry Tang:** A very good professor. He teaches well; his notes cover the subject thoroughly and he speaks clearly. However, he still has the same level of difficulty and will curve a lot less leniently than Dr. Lin.
+- **Guohui Lin:** Also a good professor. Don't let RMP brainwash you into thinking he sucks. He has a thick Chinese accent and has a shabby microphone setup, but he is equally as knowledgeable. His notes are better as additional information after reading the textbook, though you can do well just by his notes alone. Has a very lenient curve!
 
 **Student tips:**
-- Get the textbook: *C Programming: A Modern Approach* by K. King. Multiple students say 201 follows it closely and the book alone can carry you.
-- Start labs early. Labs near the end get brutal.
-- Use PuTTY or SSH to access school computers to make sure your code works on the graded system, not just your local machine.
-- Weekly quizzes carry a lot of weight. Take them seriously from week 1.
+- Get the textbook: *C Programming: A Modern Approach* by K. King. It will teach you almost everything about C's syntax and some ADT implementations.
+- Labs: Start them early, Chat-GPT will not save you, especially in the later labs. Make sure you get as much help as you can from the TAs.
+- Code in the lab machines, use proper compilation flags, (and in the later labs) make sure you write your makefiles and check valgrind in order to get the best grade.
+- Weekly Quizzes: Make sure you keep up with them, they're the easiest part of the course!
+- In-Class Coding (ICCs): Do "Programming Projects" from the textbook for the earlier ICCs, then try and use leetcode for the later ICCs, especially for linked lists and low-level ICCs.
 
-**Pairs well with:** 204 (same semester is very common and manageable). **Don't pair with:** 229 in the same semester unless you have strong C background.
+**Pairs well with:** 204 (sorts and some ADTs have a good cross-over). **Don't pair with:** Any other course with a heavy workload; you will have to make sacrifices.
 
 ---
 
