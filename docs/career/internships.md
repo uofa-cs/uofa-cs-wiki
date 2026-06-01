@@ -133,6 +133,7 @@ Whether co-op is right for you depends on your situation. If you're planning to 
 - LinkedIn: decent for finding openings, especially at mid-size companies.
 - Indeed: lower signal-to-noise ratio for tech roles, but occasionally useful.
 - Simplify, Handshake, and similar aggregators: useful for volume searching.
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/): a free daily-updated Canadian student jobs board for internships, co-ops, new grad, junior, and entry-level roles. Use it as a Canada-specific supplement when you want to scan beyond UofA/SIP and the usual US-heavy lists; the [software engineering category](https://jobs.hanzilla.co/categories/software-engineering/) is most relevant for CS students.
 
 **Keep a tracking spreadsheet.** Include: company name, role, date applied, application link, status, interview round. This sounds tedious and is tedious. Do it anyway; when you're managing 30+ applications across 3 months, you will lose track without it.
 
