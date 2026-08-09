@@ -141,6 +141,8 @@ If it mentions "REST APIs" and you've built them, use that exact phrase.
 
 This isn't keyword stuffing; it's speaking the same language as the job. ATS parsers match keywords. Humans scanning resumes scan for familiar terms. Both reward alignment with the job description.
 
+Before submitting, compare your resume against the actual posting. [CVExpert's free CV–job match checker](https://cvexpert.com/tools/cv-job-match) shows the matched and missing terms it finds and processes pasted text locally in your browser. Treat missing terms as questions, not instructions: only add a term when your real experience supports it. This is a language-alignment check, not a prediction that you will pass an ATS.
+
 ---
 
 ## Common Mistakes
