@@ -77,16 +77,17 @@ nav:
       - "CMPUT 499: Topics in Computing Science": docs/courses/cmput-499.md
   - Skills:
     - Curriculum Map: docs/skills/curriculum-map.md
+    - Learning With AI: docs/skills/learning-with-ai.md
     - Dev Setup: docs/skills/tools-and-setup.md
     - Resources by Course: docs/resources/learning-resources.md
     - Side Projects: docs/skills/side-projects.md
   - Career:
-    - Science Internship Program: docs/career/science-internship-program.md
     - Internships: docs/career/internships.md
+    - Science Internship Program: docs/career/science-internship-program.md
+    - Internship Write-ups: docs/career/internships/index.md
     - Edmonton Employers: docs/career/edmonton-tech-scene.md
     - Interview Prep: docs/career/interview-prep.md
-    - Resume Guide: docs/career/resume-guide.md
-    - New Grad: docs/career/new-grad.md
+    - Applications and Offers: docs/career/applications-and-offers.md
     - Career Paths: docs/career/career-paths.md
   - Research:
     - Getting into Research: docs/research/getting-into-research.md

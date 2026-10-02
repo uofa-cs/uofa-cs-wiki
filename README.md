@@ -37,6 +37,7 @@ The Academic Calendar tells you what's required. Reddit tells you what one perso
 
 ### Skills
 - [Curriculum Map](docs/skills/curriculum-map.md): what each course teaches, in which language, and what no course covers
+- [Learning With AI](docs/skills/learning-with-ai.md): UofA's rules on AI tools and what each course allows
 - [Dev Setup](docs/skills/tools-and-setup.md): lab machines, SSH, and free student software
 - [Resources by Course](docs/resources/learning-resources.md): the books and sites that pair with each course
 - [Side Projects](docs/skills/side-projects.md): what to build and how to make it count
@@ -45,7 +46,10 @@ The Academic Calendar tells you what's required. Reddit tells you what one perso
 - [Science Internship Program](docs/career/science-internship-program.md): UofA's co-op route, from eligibility to fees
 - [Internships](docs/career/internships.md): when and how to apply
 - [Edmonton Employers](docs/career/edmonton-tech-scene.md): who hires CS students locally, and pay and rent data
-- [Interview Prep](docs/career/interview-prep.md), [Resume Guide](docs/career/resume-guide.md), [New Grad](docs/career/new-grad.md), [Career Paths](docs/career/career-paths.md)
+- [Internship Write-ups](docs/career/internships/index.md): first-hand accounts from UofA students
+- [Interview Prep](docs/career/interview-prep.md): which courses prepare you, and how interviews changed in 2025-26
+- [Applications and Offers](docs/career/applications-and-offers.md): resumes, Canadian offers, and negotiation
+- [Career Paths](docs/career/career-paths.md): which courses, groups, and employers fit each path
 
 ### Research
 - [Getting into Research](docs/research/getting-into-research.md): USRA, URI, emailing professors
