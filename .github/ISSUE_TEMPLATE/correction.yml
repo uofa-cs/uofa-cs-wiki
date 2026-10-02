@@ -1,0 +1,26 @@
+name: Correction
+description: Something on the wiki is wrong or out of date.
+title: "[Correction] "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: URL or file path
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What's wrong?
+      description: Quote the incorrect text if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: What's correct, and how do you know?
+      description: A link to an official source (calendar, catalogue, Registrar, company site) or your first-hand experience.
+    validations:
+      required: true

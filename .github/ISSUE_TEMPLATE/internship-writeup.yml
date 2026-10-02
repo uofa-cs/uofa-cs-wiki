@@ -1,0 +1,81 @@
+name: Internship write-up
+description: Tell future students how you got an internship and what it was like. No git needed.
+title: "[Internship] Company, Role, Term"
+labels: ["content: internship"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        First-hand internship accounts are the most useful thing a student can contribute. A maintainer will turn this into a page.
+        Describe interviews in general terms; please don't share exact questions or anything under NDA.
+  - type: input
+    id: company
+    attributes:
+      label: Company
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Role
+      placeholder: Software Developer Intern
+    validations:
+      required: true
+  - type: input
+    id: term
+    attributes:
+      label: Term and length
+      placeholder: Summer 2026, 4 months
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: Edmonton, hybrid
+  - type: dropdown
+    id: sip
+    attributes:
+      label: Was it through the Science Internship Program (SIP)?
+      options: ["Yes", "No"]
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How did you get it?
+      description: Where you found it, when you applied, referral or cold application, what year you were in.
+    validations:
+      required: true
+  - type: textarea
+    id: interview
+    attributes:
+      label: What was the interview process?
+      description: Rounds, format, and topics in general terms.
+    validations:
+      required: true
+  - type: textarea
+    id: work
+    attributes:
+      label: What did you work on, and what was it like?
+    validations:
+      required: true
+  - type: input
+    id: pay
+    attributes:
+      label: Pay (optional)
+      description: Hourly or monthly, in CAD. Feeds the community pay data.
+  - type: dropdown
+    id: return
+    attributes:
+      label: Return offer?
+      options: ["Yes", "No", "Not yet known", "Prefer not to say"]
+  - type: textarea
+    id: advice
+    attributes:
+      label: Advice for UofA students applying next year
+  - type: input
+    id: credit
+    attributes:
+      label: How should we credit you? (optional)
+      description: Leave blank to stay anonymous.

@@ -1,116 +1,117 @@
 # Contributing to the UAlberta CS Wiki
 
-This wiki is a community effort. It exists because students took the time to write down what they knew, what they wished they'd known, and what they learned the hard way — so that the next person doesn't have to start from scratch. If you've been helped by something in here, the best way to pay it forward is to contribute something back.
+This wiki exists so the next UofA CS student doesn't have to learn everything the hard way. If something here helped you, the best way to pay it forward is to add what you know.
 
-You don't need to be an expert. You just need to have something useful to say.
-
----
-
-## What to Contribute
-
-**Corrections to outdated information** — This is the most valuable thing you can do. Professor names change, courses change format, companies open and close, salary ranges shift, application timelines move. If you notice something that's no longer accurate, fix it. Don't wait for someone else to do it.
-
-**New sections or pages** — If a topic isn't covered and you have real knowledge of it, add it. Gaps in the wiki are opportunities. Check the table of contents in README.md to see what's missing, and check existing open issues to avoid duplicating work someone else has already started.
-
-**Personal experiences** — Internship stories, course reviews, research experiences, and hiring process walkthroughs are some of the most useful things in this wiki. If you went through a process and came out the other side with knowledge, write it down. First-person accounts are especially valuable in sections like Internships, Career Paths, and Getting into Research.
-
-**Fixing typos and formatting** — Small fixes are welcome. If a heading is off, a link is broken, or a sentence reads awkwardly, fix it. PRs for small corrections are fast to review and always appreciated.
+You don't need to be an expert or know git. You just need to have been there.
 
 ---
 
-## What NOT to Contribute
+## The One Rule
 
-**Personal attacks on professors or companies** — You can say a course is tedious, a workload is unreasonable, or an interview process is poorly designed. You cannot personally attack an individual or make accusations that aren't substantiated. Be fair and constructive. The goal is to help students make informed decisions, not to settle scores.
+**Write what a student can't get by asking a chatbot.**
 
-**Politically charged content unrelated to CS careers** — This wiki is for CS students navigating their degree and career. It's not the right venue for general political commentary, even if it's something you care deeply about. Keep contributions focused on what's useful to students pursuing CS.
-
-**Confidential information** — Do not include specific interview questions from company interviews (especially if you signed an NDA), internal company information that wasn't publicly shared, or anything that would violate an agreement you made. Writing that "Company X focuses heavily on dynamic programming in phone screens" based on your general impression is fine. Reproducing a verbatim interview question is not.
-
-**Pure opinion without useful information** — "Python is the best language" isn't a contribution. "Python is the most common language for ML/AI roles in Edmonton, and most UofA ML research uses it, so it's a safe first priority if that's your direction" is. Root opinions in something specific and actionable for the reader.
+Generic advice ("start assignments early", "learn Docker", "use STAR for behavioural interviews") is a search or a prompt away, and an AI can write it better than we can. What nobody else has is UofA-specific, first-hand, current knowledge: what 201's in-class coding exercises are actually like, how the SIP portal works in practice, what Jobber's intern interview looked like last fall. That's what belongs here.
 
 ---
 
-## PR Guidelines
+## Three Ways to Contribute
 
-**How to submit changes:**
+### 1. Fill out a form (no git needed)
 
-1. Fork the repository.
-2. Create a new branch with a short descriptive name: `add-edmonton-salary-ranges`, `update-cmput403-section`, `fix-broken-links`.
-3. Make your changes on that branch.
-4. Open a pull request against `main` with a clear title and a brief description of what you changed and why.
+The quickest way to help. Open an issue using one of the forms and a maintainer will turn it into a page:
 
-**PR title format** — Be specific. Good examples:
-- "Add 2024 Edmonton tech salary ranges to Career Paths"
-- "Update CMPUT 403 section to reflect new project format"
-- "Fix broken links in Learning Resources"
-- "Add internship experience at Jobber (Summer 2024)"
+- [**Course review**](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=course-review.yml): share your experience with a course you've taken
+- [**Internship write-up**](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=internship-writeup.yml): how you got an internship and what it was like
+- [**Correction**](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=correction.yml): something on the wiki is wrong or out of date
 
-Bad examples: "Update wiki", "Fix stuff", "Add info".
+### 2. Edit a page directly
 
-**Keep PRs focused** — One topic per PR. A PR that updates salary ranges, adds a new course review, and fixes three typos is harder to review than three separate PRs. If you have multiple unrelated changes, split them up.
+Every page on the site has an edit button that opens the file on GitHub. Make your change and GitHub will walk you through opening a pull request. This is perfect for corrections and adding a tip to an existing course review.
 
-**Discuss large additions first** — If you're planning to add an entirely new page or make significant structural changes, open an issue first to describe what you're thinking. This avoids situations where you put in a lot of work and then there's a disagreement about scope or framing. For small additions and corrections, just open the PR directly.
+### 3. Open a pull request
 
-**Expect feedback** — Reviewers may ask you to adjust tone, add specifics, or restructure a section. This is normal. The goal is a consistent, high-quality wiki, not just getting words on a page.
+For bigger changes:
 
----
+1. Fork the repository and create a branch with a descriptive name (`update-cmput-379-review`, `add-jobber-internship`).
+2. Make your changes. For new pages, start from a template in [`templates/`](https://github.com/uofa-cs/uofa-cs-wiki/tree/main/templates).
+3. Open a pull request against `main`. The checklist in the PR description will remind you of the essentials.
 
-## Tone Guide
-
-Getting the tone right is the hardest part of contributing to a wiki like this. Here are the principles we aim for:
-
-**Be opinionated but fair.** This wiki earns its value by actually committing to recommendations. You can say a course is tedious, a language isn't worth learning first, or a company has a reputation for long hours — as long as you're being fair and not gratuitously harsh. Hedge when genuine uncertainty exists, not as a way to avoid saying anything.
-
-**Be specific.** "CMPUT 291 covers SQL (DDL and DML), ER diagrams, relational algebra, and basic query optimization, with a project that runs through the full database design lifecycle" is useful. "Databases are important for software development" is not. Specificity is what makes this wiki better than a generic CS career guide.
-
-**Be practical.** Write advice you wish you had, not advice that sounds good in theory. "You should build a strong foundation in algorithms" is theory. "Do at least 100 LeetCode problems before applying to any company that does technical screens, and focus on arrays, trees, and graphs first because they account for the majority of what you'll see at the junior level" is practical.
-
-**Be honest.** Don't oversell UofA, Edmonton, or the career prospects available here. Don't undersell them either. Students are making real decisions based on what this wiki says, and they deserve an accurate picture. If something is genuinely mediocre, say so. If something is genuinely great, say that too.
-
-**Write directly to the reader.** Use "you" throughout. This is a guide, not an encyclopedia. "You'll want to start applying to internships in September for summer positions" reads better than "Students are advised to begin their internship applications in September."
-
-**Commit to a recommendation where you can.** "It depends" is often the honest answer, but it's rarely the complete one. If it depends, explain what it depends on and then give a concrete recommendation for the most common case. "It depends on your goals, but for most students who want a software engineering role, picking up Go or TypeScript before graduation is more useful than spending that time on Haskell" is much more useful than "it depends on what kind of career you want."
+For entirely new pages or structural changes, open an issue first so we can agree on scope before you put in the work.
 
 ---
 
-## Keeping Information Current
+## Sourcing Rules
 
-Information in this wiki has a shelf life. Here's how to handle it responsibly:
+Most of the errors we've had to fix were confident, specific claims with nothing behind them. To keep that from happening again:
 
-**Fix outdated information when you find it.** If you know a company has closed, a course has changed format, or a salary range is no longer accurate, fix it immediately rather than adding a note that it "might be outdated." Stale notes accumulate and make the wiki harder to trust.
+**Facts need a source link.** Course titles, prerequisites, degree requirements, scholarship amounts, deadlines, program rules, and company details must link to where they come from. Prefer official sources: the [Academic Calendar](https://calendar.ualberta.ca/), the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput), Registrar and department pages, company career pages.
 
-**Include dates for time-sensitive information.** Salary ranges, application timelines, company hiring freezes, and similar information should include the year or semester it was accurate. For example: "As of early 2025, junior dev salaries in Edmonton for new grads typically range from $70K–$90K base." This way, even if the numbers drift, readers know what era the data comes from.
+**Experience needs a when.** First-hand accounts are the most valuable thing on this wiki, but they age. Sign them with the term: "(took it W26)", "(interned Summer 2025)". Readers can then decide how much weight to give them.
 
-**Be transparent about the source of your knowledge.** Firsthand knowledge ("I interned at Company X in 2024 and the process was...") is more reliable than secondhand ("I heard that Company X tends to..."). You don't need to avoid secondhand information, but be clear about what you know directly vs. what you've heard from others. Readers can calibrate accordingly.
+**Time-sensitive pages get a `Last verified` line.** If you check a page's facts against their sources, update the date.
 
----
-
-## File Structure
-
-**Where new pages go:** New pages belong in the appropriate subdirectory under `docs/`. If you're adding a page about a new career path, it goes in `docs/career/`. If you're adding a course review, it goes in `docs/courses/`. If you're not sure where something fits, ask in an issue.
-
-**Update the table of contents:** Every new page needs a corresponding entry in the Table of Contents in `README.md`. Add it under the correct section with a brief description that tells the reader what they'll find on the page.
-
-**Heading levels:** Use consistent heading structure throughout.
-- H1 (`#`) — Page title only. One per page.
-- H2 (`##`) — Major sections within the page.
-- H3 (`###`) — Subsections within a section.
-- H4 (`####`) — Use sparingly, only when you genuinely need a fourth level.
-
-**File naming:** All file names are lowercase with hyphens, no spaces, no underscores, no camelCase. Examples: `interview-prep.md`, `edmonton-tech-scene.md`, `first-year-guide.md`.
-
-**Linking between pages:** When you reference another page in the wiki, link to it. Keep links relative so they work regardless of where the wiki is hosted.
+**If you can't verify it, leave it out.** A missing fact is better than a wrong one. Don't fill gaps with plausible guesses, and never let an AI tool fill them for you.
 
 ---
 
-## Acknowledgments
+## Writing About Instructors
 
-This wiki was built by UofA CS students who wanted something like this to exist when they were starting out. Every section represents someone sitting down and writing out what they knew, often after learning it the hard way.
+**We don't rank professors.** No tier lists, no "avoid" lists, no RateMyProfessors scores.
 
-Thank you to everyone who has contributed — whether it was a full new page, a paragraph about an internship, or a single corrected fact. It all matters.
+You *can* describe how a section was run, so students can pick the style that suits them:
 
-If you're reading this and thinking about contributing for the first time: please do. You don't need to be a fourth-year with three internships under your belt. If you just finished CMPUT 174 and have thoughts about what would have helped you, that's worth writing down. The wiki is for every year of the degree, and every year needs people willing to speak from where they are.
+- Good: "In W26, Tang's section had weekly quizzes and posted full typed notes. The curve was stricter than other sections."
+- Not okay: "Worst prof in the department, avoid at all costs."
+
+Stick to things a student can act on: notes, assessment format, pacing, availability, recorded lectures. Leave out personal characteristics (accent, appearance, personality) entirely.
 
 ---
 
-*Questions about contributing? Open an issue on GitHub.*
+## Using AI Tools
+
+AI tools are fine for checking grammar, restructuring a draft, or formatting a table. They are not a source. Every fact you submit must come from an official page or your own experience, and every opinion must be yours. If you used AI to help edit, you're still responsible for every claim in the PR.
+
+---
+
+## What Not to Contribute
+
+- **Personal attacks** on professors, TAs, students, or companies. Critique courses, workloads, and processes, not people.
+- **Confidential information.** Don't reproduce verbatim interview questions, anything covered by an NDA, or internal company information. "Their phone screen focused on graphs" is fine; the exact question isn't.
+- **Course materials.** Don't post assignments, exam questions, or solutions.
+- **Undisclosed promotion.** If you're affiliated with a resource you're adding, say so in the PR. We'll only include it if it fills a real gap.
+- **Generic filler.** If the paragraph would be equally true at any university, link to a good external resource instead.
+
+---
+
+## Tone
+
+**Be specific.** "291's project has you build a Python + SQLite app and then a MongoDB one" beats "databases are important."
+
+**Be honest and fair.** Don't oversell or undersell UofA, Edmonton, or the job market. If something is mediocre, say so. If something is great, say that too.
+
+**Write to the reader.** Use "you". This is a guide, not an encyclopedia.
+
+**Commit to a recommendation when you can.** If it depends, say what it depends on and what you'd do in the common case.
+
+**Keep it short.** Students skim. Cut anything that doesn't change what the reader will do.
+
+---
+
+## Style and Structure
+
+- **Where pages go:** in the matching folder under `docs/`. Not sure? Ask in an issue.
+- **Navigation:** add new pages to [`nav.yml`](https://github.com/uofa-cs/uofa-cs-wiki/blob/main/nav.yml) and to the table of contents in `README.md`.
+- **Headings:** one H1 (`#`) per page for the title, H2 for sections, H3 for subsections.
+- **File names:** lowercase with hyphens (`edmonton-tech-scene.md`).
+- **Links:** relative links between wiki pages (`../courses/course-reviews.md`), full URLs for everything else.
+- **Punctuation:** avoid em dashes; use a colon, semicolon, comma, or parentheses instead.
+
+Every pull request is built automatically. If the build fails, it's usually a broken link; the check's log will name the file.
+
+---
+
+## Thank You
+
+Every section here exists because a student sat down and wrote what they knew. If you just finished CMPUT 174 and have thoughts about what would have helped, that's worth writing down. Every year of the degree needs people willing to speak from where they are.
+
+*Questions? [Open an issue](https://github.com/uofa-cs/uofa-cs-wiki/issues).*
