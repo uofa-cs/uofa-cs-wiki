@@ -1,43 +1,47 @@
 ---
-# Facts: copy these from the catalogue page and keep them in sync.
+# Every CMPUT course offered recently already has a page in docs/courses/.
+# You usually don't need this template: edit the existing page instead.
+#
+# These fields are synced from the official catalogue by a script.
+# Don't edit them by hand; they'll be overwritten.
 code: CMPUT 000
 title: Official Course Title
-units: 3
-prerequisites: "As written in the catalogue"
-languages: []            # e.g. [C, Make]
-textbook: ""             # e.g. "C Programming: A Modern Approach (K. N. King)"
+units: 3.0
+description: Catalogue description.
+prerequisites: As written in the catalogue.
+corequisites: ''
+exclusions: ''
+terms: [W27, F26]
+latest_term: W27
 catalogue: https://apps.ualberta.ca/catalogue/course/cmput/000
-last_offered: ""         # e.g. W26
-last_verified: YYYY-MM-DD
+last_verified: 'YYYY-MM-DD'
+#
+# These fields are yours. Set them only with a source or clear student consensus.
+difficulty: Hard            # Easy / Medium / Hard / Brutal
+workload: Heavy             # Light / Moderate / Heavy / Overwhelming
+languages: [C, Make, gdb]   # what the course actually uses
+textbook: "C Programming: A Modern Approach (K. N. King)"
+course_site: https://example.com   # public course website, if any
 ---
 
 # CMPUT 000: Official Course Title
 
-**Difficulty:** Easy / Medium / Hard / Brutal | **Workload:** Light / Moderate / Heavy / Overwhelming
-
-One or two sentences on what this course is and who it's for.
+<!-- The site shows the facts above in an "At a glance" box automatically.
+     Don't repeat them here. -->
 
 ## What It Covers
 
-The main topics, in plain language. Link to any public course website or textbook.
+Optional. Plain-language detail beyond the catalogue description, with a source: the actual projects, the tools, how the course is structured.
 
-## Workload and Assessment
+## What Students Say
 
-How the marks break down, what the assignments or projects are like, and roughly how many hours a week students report.
+Sign every tip with the term you took the course.
 
-## Instructor Notes
+**Instructor notes** (optional, descriptive only; see CONTRIBUTING.md):
 
-Optional. Describe how specific sections have been run (notes, assessments, pacing, recordings), signed with the term. No ratings or rankings; see CONTRIBUTING.md.
+- **Instructor Name** (W26): posted full notes; weekly quizzes; recorded lectures.
 
-- **Instructor Name** (W26): ...
+**Tips:**
 
-## Tips
-
-Signed with the term you took it.
-
-- ... (F25)
-
-## Pairs Well / Badly With
-
-- Pairs well with: ...
-- Avoid stacking with: ...
+- Start the labs the day they're released. (F25)
+- Pairs well with 204; don't stack it with 229. (W26)

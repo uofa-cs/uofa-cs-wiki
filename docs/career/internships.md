@@ -191,4 +191,4 @@ The students who land good internships are not necessarily the smartest students
 
 Start earlier than you think you need to. Apply to more places than feels comfortable. Practice the interviews specifically; winging it doesn't work.
 
-See [Course Reviews: CMPUT 403](../courses/course-reviews.md#cmput-403-algorithmics-in-competitive-programming) for the most direct academic route to interview readiness.
+See [CMPUT 403](../courses/cmput-403.md) for the most direct academic route to interview readiness.
