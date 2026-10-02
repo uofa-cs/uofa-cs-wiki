@@ -1,0 +1,66 @@
+name: Course review
+description: Share your experience with a course you've taken. No git needed.
+title: "[Course review] CMPUT "
+labels: ["content: course review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping the next student. A maintainer will merge your answers into the course's page.
+        Describe courses and how sections were run, not people: no ratings or "avoid" recommendations (see CONTRIBUTING.md).
+  - type: input
+    id: course
+    attributes:
+      label: Course
+      placeholder: CMPUT 201
+    validations:
+      required: true
+  - type: input
+    id: term
+    attributes:
+      label: Term you took it
+      placeholder: W26
+    validations:
+      required: true
+  - type: input
+    id: instructor
+    attributes:
+      label: Instructor (optional)
+  - type: dropdown
+    id: difficulty
+    attributes:
+      label: Difficulty
+      options: [Easy, Medium, Hard, Brutal]
+    validations:
+      required: true
+  - type: dropdown
+    id: workload
+    attributes:
+      label: Workload
+      options: [Light, Moderate, Heavy, Overwhelming]
+    validations:
+      required: true
+  - type: input
+    id: hours
+    attributes:
+      label: Roughly how many hours a week outside lectures?
+  - type: textarea
+    id: covers
+    attributes:
+      label: What did the course actually cover, and what were the assessments like?
+    validations:
+      required: true
+  - type: textarea
+    id: tips
+    attributes:
+      label: Tips for future students
+      description: Textbooks, resources, what to start early, what to pair it with or avoid stacking with.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: This is my own experience, and I haven't included assignment or exam questions.
+          required: true
