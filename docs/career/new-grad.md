@@ -46,6 +46,8 @@ Be informed going in. These are realistic ranges for new grad software engineer 
 | Vancouver tech companies | $90,000-$130,000 |
 | US companies (remote/relocated, USD) | $130,000-$200,000+ |
 
+*These figures are unverified estimates, pending a community pay survey. Treat them as rough guidance only.*
+
 A few honest notes:
 - FAANG (Google, Meta, Amazon, Apple, Netflix, Microsoft) new grad offers in the US tend toward the upper end of that USD range or above when you include total compensation (base + stock + bonus).
 - Edmonton salaries sound lower, but your dollar actually goes a lot further. Housing in Edmonton is roughly one-third the cost of Vancouver. That $80K Edmonton salary is not equivalent to $80K in Vancouver.
@@ -97,7 +99,7 @@ Not all first jobs are equal. The goal isn't just employment; it's a first job t
 ## Edmonton vs Toronto vs Vancouver vs US Remote: The Honest Comparison
 
 **Edmonton**
-Lower salaries in absolute terms, but the cost of living differential is significant. A one-bedroom apartment in a nice area runs $1,200-$1,600/month versus $2,500+ in Vancouver. You can own a house in Edmonton. The tech scene is smaller but growing; Jobber, TELUS, Benevity, ATB, and others are good employers. Less prestige than the major metros, fewer networking opportunities, but a genuinely good quality of life if you value that.
+Lower salaries in absolute terms, but the cost of living differential is significant. A one-bedroom apartment in a nice area runs $1,200-$1,600/month versus $2,500+ in Vancouver. You can own a house in Edmonton. The tech scene is smaller but growing; Jobber, TELUS, ATB, and others are good employers. Less prestige than the major metros, fewer networking opportunities, but a genuinely good quality of life if you value that.
 
 **Toronto**
 The largest tech market in Canada. Higher absolute salaries, more companies, more career options. But housing is brutal, comparable to Vancouver. Competition is tougher because you're in a larger pool. Worth it if you want maximum career optionality and don't mind urban cost of living.

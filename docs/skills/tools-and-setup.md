@@ -6,7 +6,7 @@ Your development environment is where you spend all your time. A bad setup costs
 
 ## Git: Beyond the Basics
 
-UofA's CMPUT 301 introduces Git, but "introduced to Git" and "can actually use Git" are different things. Most students graduate knowing `git add`, `git commit`, and `git push`. That's not enough.
+Git and Unix tools first show up in [CMPUT 201](https://apps.ualberta.ca/catalogue/course/cmput/201), and CMPUT 301 leans on revision control for its team project, but "introduced to Git" and "can actually use Git" are different things. Most students graduate knowing `git add`, `git commit`, and `git push`. That's not enough.
 
 ### What You Actually Need to Know
 
@@ -82,7 +82,7 @@ Windows Subsystem for Linux 2 (WSL2) runs a real Linux kernel inside Windows. It
 wsl --install
 ```
 
-This installs Ubuntu 22.04 LTS by default. After setup, you have a full Linux terminal, can install any Linux packages, and can run Docker natively. VS Code integrates seamlessly with WSL via the Remote-WSL extension.
+This installs [Ubuntu by default](https://learn.microsoft.com/en-us/windows/wsl/install), which [tracks the latest stable LTS release](https://ubuntu.com/wsl/docs/stable/reference/distributions/). After setup, you have a full Linux terminal, can install any Linux packages, and can run Docker natively. VS Code integrates seamlessly with WSL via the Remote-WSL extension.
 
 ### Terminal Commands You Must Know
 
@@ -193,30 +193,30 @@ alias pip="pip3"
 
 ## SSH into UofA Servers
 
-The CS department has remote machines you can SSH into: `gpu.cs.ualberta.ca` and other lab machines. Useful for running long jobs, accessing department resources, or testing on Linux when you're on a different OS.
+The CS department has remote machines you can SSH into. The [department's SSH page](https://www.ualberta.ca/en/computing-science/resources/technical-support/networks/remote-access-ssh.html) recommends `ohaton.cs.ualberta.ca`, which has extended support hours and the best availability. Useful for running long jobs, accessing department resources, or testing on Linux when you're on a different OS.
 
 ### Setting Up SSH Keys for UofA Servers
 
 Generate a key (if you haven't already), then copy the public key to the server:
 
 ```bash
-ssh-copy-id yourccid@gpu.cs.ualberta.ca
+ssh-copy-id yourccid@ohaton.cs.ualberta.ca
 ```
 
 Now you can connect without a password.
 
 ### ~/.ssh/config for Named Connections
 
-Instead of typing `ssh yourccid@gpu.cs.ualberta.ca` every time, add this to `~/.ssh/config`:
+Instead of typing `ssh yourccid@ohaton.cs.ualberta.ca` every time, add this to `~/.ssh/config`:
 
 ```
-Host uofa-gpu
-    HostName gpu.cs.ualberta.ca
+Host uofa
+    HostName ohaton.cs.ualberta.ca
     User yourccid
     IdentityFile ~/.ssh/id_ed25519
 ```
 
-Now `ssh uofa-gpu` connects you immediately.
+Now `ssh uofa` connects you immediately.
 
 ### tmux for Persistent Sessions
 
@@ -240,10 +240,11 @@ Apply at [education.github.com](https://education.github.com). Use your UofA ema
 
 - **GitHub Copilot**: AI code completion. Free while you're a student. Actually useful.
 - **JetBrains IDEs**: all of them, free.
-- **DigitalOcean credits**: $200 to deploy real projects in the cloud.
 - **Namecheap domain**: one free `.me` domain for a year, good for a portfolio site.
 - **MongoDB Atlas**: cloud database credits.
 - **Various other services**: Heroku, Datadog, Sentry, and more.
+
+Older guides mention $200 in DigitalOcean credits. [DigitalOcean left the pack](https://github.com/orgs/community/discussions/201240) and its credits expired August 1, 2026.
 
 Apply for this immediately if you haven't. It's free money and tools.
 
@@ -292,7 +293,7 @@ Either one works. The important habit is testing your API endpoints as you build
 
 A reasonable setup for a UofA CS student:
 
-1. WSL2 with Ubuntu 22.04 (Windows) or native terminal (macOS/Linux)
+1. WSL2 with Ubuntu (Windows) or native terminal (macOS/Linux)
 2. Zsh + Oh My Zsh with autosuggestions and syntax highlighting
 3. VS Code with GitLens, Pylance, Docker, Remote-SSH, Copilot
 4. JetBrains student license applied and downloaded

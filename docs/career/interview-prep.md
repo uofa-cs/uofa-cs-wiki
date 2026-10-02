@@ -58,7 +58,7 @@ You're not starting from zero. Two UofA courses directly map to interview prep:
 
 **CMPUT 204 (Algorithms I):** Covers sorting, graph algorithms (BFS, DFS, Dijkstra, Bellman-Ford), dynamic programming, greedy algorithms. If you paid attention and did the assignments, you already know the theory behind most interview patterns. Go back to your CMPUT 204 notes and review the algorithms before you start LeetCode.
 
-**CMPUT 403 (Competitive Programming):** This is the most directly useful course for technical interviews in the entire CS program. It trains you to solve algorithmic problems under time pressure, which is exactly what technical interviews test. If you haven't taken it and you're career-focused, put it on your schedule.
+**CMPUT 403 (Algorithmics in Competitive Programming):** This is the most directly useful course for technical interviews in the entire CS program. It trains you to solve algorithmic problems under time pressure, which is exactly what technical interviews test. If you haven't taken it and you're career-focused, put it on your schedule.
 
 ---
 
@@ -78,7 +78,7 @@ Month 3: Review patterns you're weakest on. Do a few problems in each category y
 
 ## System Design Interviews
 
-For internships at most companies, you won't face formal system design rounds. For new grad roles at larger companies (Amazon, Google, Shopify, Clio at the senior intern/new grad level), system design starts appearing.
+For internships at most companies, you won't face formal system design rounds. For new grad roles at larger companies (for example, Amazon or Google), system design starts appearing.
 
 The questions are high-level: "Design a URL shortener." "Design a notification system." "Design a social media feed." You're not expected to have a perfectly architected answer; you're expected to demonstrate structured thinking.
 
@@ -125,9 +125,9 @@ Be specific. "I worked on a project" is not a STAR story. "In CMPUT 401, our tea
 
 **Shopify:** Strong engineering culture. Problems are practical; they want to see you write good, readable code. Less pure algorithm, more "show me you can build things." Their take-home projects (if assigned) should be treated seriously.
 
-**Canadian mid-size companies (Clio, Wealthsimple, Benevity):** More practical coding, less pure LeetCode. Take-home projects are common. Focus on writing clean code and being able to explain your decisions.
+**Canadian mid-size companies:** More practical coding, less pure LeetCode. Take-home projects are common. Focus on writing clean code and being able to explain your decisions.
 
-**Edmonton companies (Jobber, AltaML, ATB):** Generally more relaxed interview processes than FAANG. Often: HR screen, one or two technical rounds focused on practical coding and conversation, possibly a take-home. Less likely to encounter hard algorithmic problems. Still prepare; don't walk in without having reviewed fundamentals.
+**Smaller and local companies:** Processes vary a lot by company and team. Ask the recruiter what the rounds will look like. Still prepare; don't walk in without having reviewed fundamentals.
 
 ---
 
@@ -148,7 +148,7 @@ Writing code silently to yourself is completely different from explaining your a
 Practice talking through problems with another person before you interview.
 
 **Free options:**
-- **Pramp** (pramp.com): Peer-to-peer mock interviews, free, matches you with another student at a similar level.
+- **Pramp** (now part of Exponent): Free peer-to-peer mock interviews. [As of July 2024, new Pramp sessions are hosted on Exponent's platform](https://www.pramp.com).
 - **Interviewing.io** (interviewing.io): Anonymous mock interviews with real engineers. Some free sessions.
 - **Classmates:** Find one or two people who are also preparing and do weekly mock sessions. Take turns being interviewer and interviewee.
 

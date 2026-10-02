@@ -10,9 +10,10 @@ Give credit where it's due. UofA does a solid job on a few things:
 
 - **Algorithms and data structures** (CMPUT 204): if you actually engage with this course, you'll have a real foundation. LeetCode medium problems become manageable.
 - **Theory** (CMPUT 272, 304): useful for understanding computation. Most industry devs don't use it daily, but it shapes how you think.
-- **Systems** (CMPUT 379, 429): process management, OS internals, networking. Systems courses are some of the most transferable content in the program.
+- **Systems** (CMPUT 379, 313, 429): process management, OS internals, networking, computer architecture. Systems courses are some of the most transferable content in the program.
 - **Databases** (CMPUT 291): relational models, SQL basics, ER diagrams. Good foundation, though you'll need to go deeper.
-- **Software engineering concepts** (CMPUT 301): version control, basic agile, UML. More useful than it gets credit for.
+- **Software engineering concepts** ([CMPUT 301](https://apps.ualberta.ca/catalogue/course/cmput/301)): revision control, UML, design patterns, unit testing, refactoring. More useful than it gets credit for.
+- **Web architecture** ([CMPUT 404](https://apps.ualberta.ca/catalogue/course/cmput/404)): modern web applications, web services, and the protocols underneath them.
 
 The program gives you thinking tools. What it doesn't give you is hands-on craft.
 
@@ -23,15 +24,15 @@ The program gives you thinking tools. What it doesn't give you is hands-on craft
 Here's what will catch you off guard at your first internship if you haven't self-taught it:
 
 - **Docker and containerization**: nearly every company uses this. You won't see it in a UofA course.
-- **CI/CD pipelines**: automated testing, deployment, GitHub Actions: not taught.
+- **CI/CD pipelines**: automated testing, deployment, GitHub Actions. Continuous integration only shows up in an elective ([CMPUT 402, Software Quality](https://apps.ualberta.ca/catalogue/course/cmput/402)), so many students never touch it.
 - **Cloud services**: AWS, GCP, Azure. The labs are on-prem. Industry is not.
-- **REST API design**: you might build something for 301 but never learn the conventions, status codes, auth patterns, or versioning strategies.
-- **Testing culture**: unit tests, integration tests, test coverage. Most UofA students graduate having never written a single test.
+- **REST API design**: CMPUT 404 covers web services, but if you skip it you may never learn the conventions, status codes, auth patterns, or versioning strategies.
+- **Testing culture**: unit tests, integration tests, test coverage. CMPUT 301 introduces unit testing and CMPUT 402 goes deeper, but writing tests as a habit on every project is something you build yourself.
 - **Agile/Scrum in practice**: CMPUT 301 brushes this but real sprint planning, standups, and Jira tickets are learned by doing.
-- **Code reviews**: giving and receiving feedback on code professionally is a skill. You don't practice it in class.
+- **Code reviews**: giving and receiving feedback on code professionally is a skill. CMPUT 402 covers reviews as a quality process, but outside that elective you rarely practice it in class.
 - **Meaningful version control**: committing "update" 47 times is not how professionals work.
 
-None of these are hard to learn. They're just not in the curriculum.
+None of these are hard to learn. They're just not in the required core, or they only get a brief pass.
 
 ---
 
@@ -129,9 +130,9 @@ Building a toy API is not enough. Build one that has:
 
 Django REST Framework and FastAPI are both excellent for Python. FastAPI has better async support and auto-generated docs (Swagger UI). Django REST Framework has more batteries included. Either works.
 
-### Testing: The Skill Nobody Teaches You
+### Testing: The Skill You Have to Make a Habit
 
-In four years of a CS degree, you will almost certainly never be required to write an automated test. This is a massive gap. In industry, untested code is considered incomplete.
+CMPUT 301 introduces unit testing and CMPUT 402 (Software Quality) covers unit through integration testing, but outside those courses most assignments never ask for automated tests. In industry, untested code is considered incomplete.
 
 Start simple: write `pytest` tests for functions you write. Test the happy path, then edge cases, then error conditions. When you build an API, write integration tests that make real HTTP requests and check responses. The tooling is not complicated; the discipline is what's hard to build.
 

@@ -4,13 +4,13 @@ The CS program has a few courses that almost nobody talks about but that are gen
 
 ---
 
-## CMPUT 303/403: Algorithmics in Competitive Programming
+## CMPUT 403: Algorithmics in Competitive Programming
 
-Note: CMPUT 303 is Algorithms in Practice. The competitive programming course is the CMPUT 403 component.
+Note: CMPUT 303 (Algorithmics in Practice) is a separate course, and **you can't get credit for both 303 and 403** ([CMPUT 403](https://apps.ualberta.ca/catalogue/course/cmput/403)). Pick one.
 
 **Why almost nobody takes it:** It sounds intimidating. "Competitive programming" makes people think it's for math olympiad types who live and breathe algorithms. It's not. It's a structured course that teaches exactly the patterns that show up in technical interviews.
 
-**What students actually say:** One Reddit user who took it with Zachary Friggstad called it "Amazing CMPUT 403. Definitely recommend him." Another noted Friggstad will accept solutions that are correct in spirit even if not perfectly coded, and is consistently available on Discord. The format (weekly problem sets on Kattis) is uncomfortable at first and then deeply satisfying for students who stick with it.
+**What students actually say:** Reddit reviews of 403 are consistently positive. The format (weekly problem sets on Kattis) is uncomfortable at first and then deeply satisfying for students who stick with it.
 
 **Why you should take it:** This is the best interview prep course at UofA, and most people don't know it exists. The curriculum covers:
 
@@ -25,34 +25,25 @@ Even though it is heavy on weekly problem sets, many students find it friendlier
 
 If you're applying to Google, Meta, Microsoft, Shopify, or any company that does algorithm-heavy interviews (which is most of them for new grad roles), the patterns in this course are exactly what you need to know. LeetCode by itself is unstructured. This course gives you the mental framework to actually recognize and solve novel problems.
 
-**When to take it:** Third year is ideal. You need CMPUT 204 first; you won't survive without it. Taking it in third year means you can reinforce and apply the material during your most active internship application period.
+**When to take it:** Third year is ideal. The catalogue requires 201 (or 275), 204, and any 300-level CMPUT course, so it can't come before your first 300-level course. Taking it in third year means you can reinforce and apply the material during your most active internship application period.
 
 **Format:** Mostly problem sets. You solve algorithmic problems under time pressure. It's uncomfortable at first and then deeply satisfying. This is what top engineers do for fun.
 
 ---
 
-## CMPUT 382: GPU Programming and Architecture
+## CMPUT 382: Introduction to GPU Programming (Not Recently Offered)
 
-**Why almost nobody takes it:** It has "GPU" in the name and people assume it's only for game devs or researchers. It's listed as an advanced elective that many students don't even look at.
+**Availability first:** the catalogue currently shows no scheduled offerings of CMPUT 382, and its most recent listed term is Fall 2024 ([CMPUT 382](https://apps.ualberta.ca/catalogue/course/cmput/382)). It's on this list because it's worth grabbing if it comes back, not because you can count on it.
 
-**What students actually say:** The few Reddit discussions that mention 382 describe it as "not harder than any other 300-level CMPUT." Labs take the full 3 hours. The course has had disorganized offerings in the past (one student described the first lab as "take this old demo and make it run with a newer version of Visual Studio and CUDA libraries"), but nothing unusually brutal. The content itself is consistently described as straightforward once you get past the setup friction.
+**Why almost nobody takes it:** It has "GPU" in the name and people assume it's only for game devs or researchers.
 
-**Why you should take it:** The ability to write GPU code is rare. Genuinely rare. Most CS graduates, including people from much better-ranked universities, cannot write CUDA. This course teaches:
+**What students actually say:** The few Reddit discussions that mention 382 describe it as "not harder than any other 300-level CMPUT." The course has had disorganized offerings in the past, with setup friction around toolchains, but nothing unusually brutal.
 
-- **CUDA programming:** writing code that runs on the GPU in parallel, memory hierarchy on GPUs (global, shared, local memory), warp execution, thread divergence
-- **Parallel algorithm design:** how to decompose problems for massively parallel execution
-- **Performance optimization:** memory coalescing, occupancy, profiling GPU code
+**Why you'd take it:** The ability to write GPU code is rare. Per the catalogue, the course covers GPU hardware architecture, algorithmic design, programming languages such as CUDA and OpenCL, and principles of programming GPUs for high performance. That's directly useful in ML infrastructure, graphics and game development, scientific computing, and high-performance computing.
 
-**Where this is useful in industry:**
+**Prerequisites:** 201 (or 275) and 229 (or an equivalent ECE/EE architecture course). You need to understand what the hardware is doing to write efficient GPU code.
 
-- **ML infrastructure:** training large models requires understanding GPU memory, batching, and kernel optimization. ML engineers who can optimize CUDA kernels are extremely well paid.
-- **Game development:** graphics programming, shader optimization, physics simulations on GPU
-- **Scientific computing:** computational biology, physics simulations, financial modeling
-- **High-performance computing:** any domain dealing with massive data
-
-The job market for people who can write efficient GPU code is strong and getting stronger. Most companies that do serious ML work have "GPU utilization" problems and not enough people to solve them.
-
-**Caveat:** This course is hard. CMPUT 229 (computer organization) is basically a prerequisite in terms of mental model; you need to understand what hardware is doing to write efficient GPU code. Go in knowing that; go in anyway.
+If 382 isn't running, CMPUT 481 (Parallel and Distributed Systems) is the closest alternative for parallel programming (it ran most recently in Winter 2026; check the catalogue for upcoming terms).
 
 ---
 
@@ -64,7 +55,7 @@ The job market for people who can write efficient GPU code is strong and getting
 
 The project is a full LLVM-based compiler for a defunct IBM language with a 40-page spec. The spec glosses over features. Most groups don't fully implement everything. The workload "never lets up; as soon as an assignment is done, start the next one immediately."
 
-Before taking it: know Java well (implementation language), look up ANTLR (parser generator) and LLVM basics. Don't take 415 in the same semester as another heavy course like 229 or 466.
+Before taking it: check the course outline for the implementation language and toolchain, and look up ANTLR (parser generator) and LLVM basics. 415 requires 229 and a 300-level CMPUT course, so it comes late; don't pair it with another heavy course like 466.
 
 **Why you should take it:** Understanding how a compiler works changes how you think about code. By the end of this course, you understand:
 
@@ -83,13 +74,13 @@ Beyond career utility, this course makes you a better programmer across the boar
 
 ---
 
-## CMPUT 313: Communication Networks
+## CMPUT 313: Computer Networks
 
 **Why almost nobody takes it:** It's perceived as boring. Networking? Layers? Who cares?
 
 **What students actually say:** The content itself gets positive retrospective reviews from students who went on to backend or infrastructure work. One Reddit comment captured the dual nature well: "313 is drier than the desert. Not much relevancy to modern hands-on networking that you'd see for most CS work unless you want to get deep into network protocols." But another counter-perspective: the student who took it and later debugged production network issues reported wishing they'd paid more attention.
 
-**The professor factor is significant here.** Ioanis Nikolaidis makes the course genuinely interesting through tangents and enthusiasm, but goes off on many tangents and requires the textbook to fill gaps. Ehab Elmallah, who also teaches 313 and 379, gets poor reviews, described as dry, monotone, and teaching "extremely outdated" networking content. Check who's teaching before registering.
+**Planning note:** 313 requires 201 and 204 (or 275) and an intro stats course, and lists CMPUT 379 as a corequisite ([CMPUT 313](https://apps.ualberta.ca/catalogue/course/cmput/313)), so you'll take it alongside or after operating systems.
 
 **Why you should take it:** You use HTTP every single day. Every API call your code makes, every web page your browser loads, every database query that goes over a network; all of it runs on the protocols this course covers. After taking it, you know:
 
@@ -106,28 +97,19 @@ It's also just deeply satisfying to understand infrastructure you've been using 
 
 ---
 
-## CMPUT 391: Database Management Systems (Advanced)
+## CMPUT 391: Database Management Systems (Not Offered Since Winter 2022)
 
-**Why almost nobody takes it:** Students take CMPUT 291, learn SQL, and think they're done with databases. They're not.
+**Availability first:** CMPUT 391 is still in the calendar, but the catalogue shows no scheduled offerings and its most recent listed term is Winter 2022 ([CMPUT 391](https://apps.ualberta.ca/catalogue/course/cmput/391)). Don't build a plan around it.
 
-**Availability note:** CMPUT 391 has not been taught in recent semesters, so plan around limited or uncertain scheduling.
+**Why it would be worth it:** CMPUT 291 teaches you to use databases; 391 covers how they work: compilation, execution, and optimization of SQL queries, concurrent transactions, indexing, distributed and parallel databases, and NoSQL/cloud systems. If it ever comes back, take it.
 
-**Why you should take it:** CMPUT 291 teaches you to use databases. CMPUT 391 teaches you how databases actually work. That's a different thing, and it matters enormously:
-
-- **Query optimization:** how the query planner decides to execute your SQL, what indexes actually do internally (B-trees), why certain queries are slow and how to fix them
-- **Transaction management:** ACID properties, isolation levels, deadlock detection, why "just use a transaction" is not a sufficient answer
-- **Concurrency control:** how multiple simultaneous queries don't corrupt your data
-- **Distributed databases:** how data gets replicated, partitioned (sharding), and kept consistent across nodes. CAP theorem. This is the foundation for understanding systems like Cassandra, DynamoDB, and CockroachDB.
-
-**For data engineering and backend roles:** This is the difference between a developer who can write SQL and a developer who understands why their queries are slow and how to design schemas that perform at scale. The latter is significantly more valuable and significantly rarer.
-
-When you're debugging a slow query in production at 2am, you want to know what an execution plan is. This course is where you learn that.
+**What to do instead:** Build on 291 with CMPUT 404 (Web Applications and Architecture), side projects with a real database, and reading on query planners and transaction isolation. When you're debugging a slow query in production at 2am, you want to know what an execution plan is.
 
 ---
 
 ## CMPUT 481: Parallel and Distributed Systems
 
-**Why almost nobody takes it:** It's listed late and people have usually filled their CMPUT elective slots with other things. Also, "parallel" sounds like a research topic.
+**Why almost nobody takes it:** It's listed late and people have usually filled their CMPUT elective slots with other things. Also, "parallel" sounds like a research topic. It requires CMPUT 379.
 
 **Why you should take it:** Modern software runs on multiple cores and multiple machines. Understanding how to write correct concurrent programs is a critical skill:
 
@@ -142,9 +124,9 @@ When you're debugging a slow query in production at 2am, you want to know what a
 
 ## CMPUT 365: Introduction to Reinforcement Learning
 
-**Why almost nobody takes it:** Students think RL is exotic and only for researchers. Or they just haven't heard of it.
+**Who takes it:** If you're in the AI Option (Major or Honors), CMPUT 365 is **required**, so it's not hidden for you. For everyone else, it's an elective that's easy to overlook because students think RL is exotic and only for researchers. Prerequisites: 175 (or 275) and one of CMPUT 267, CMPUT 466, or STAT 265 ([CMPUT 365](https://apps.ualberta.ca/catalogue/course/cmput/365)).
 
-**Why you should take it:** Richard Sutton is at UofA. He and Andrew Barto wrote *Reinforcement Learning: An Introduction*, which is THE textbook in the field, and it's available free online. Sutton is arguably the most influential living researcher in RL. Taking an RL course at an institution where Sutton works is a genuine privilege that most people walk right past.
+**Why you should take it:** Richard Sutton and Andrew Barto wrote *Reinforcement Learning: An Introduction*, which is THE textbook in the field, and it's available free online. UofA is one of the major centres for RL research. Taking RL here is an opportunity most non-AI students walk right past.
 
 Even if you never write an RL algorithm in your career:
 
@@ -152,7 +134,7 @@ Even if you never write an RL algorithm in your career:
 - The mathematical foundations (Markov decision processes, Bellman equations, value functions) are used in robotics, finance (algorithmic trading), game AI, and recommendation systems
 - RL is increasingly integrated with LLMs (RLHF, Reinforcement Learning from Human Feedback, is how ChatGPT was fine-tuned)
 
-If you're heading into ML in any form, CMPUT 365 followed by 466 (Machine Learning) is one of the strongest academic preparation sequences you can do.
+If you're heading into ML in any form, CMPUT 267 (Machine Learning I), then 365 and 466 or 467, is one of the strongest academic preparation sequences you can do.
 
 ---
 
@@ -160,25 +142,27 @@ If you're heading into ML in any form, CMPUT 365 followed by 466 (Machine Learni
 
 These are outside the CS department but genuinely valuable.
 
-### STAT 265: Probability Theory
+### STAT 265: Probability and Statistics I
 
-More rigorous than STAT 151 and directly useful for ML, data science, and systems (reliability, performance modeling). Probability is the mathematical language of uncertainty, and working with data means working with uncertainty constantly. This is the most useful science elective most CS students don't take.
+Not technically an elective: it's one of the three options (with STAT 151 and 235) for the intro stats requirement in every CS path. But most students default to STAT 151 without thinking about it. 265 is the more rigorous probability route, it's directly useful for ML and systems work, and it's one of the courses that unlocks CMPUT 365. It has a calculus corequisite (MATH 209, 214, or 217), so plan for that.
 
-### MATH 225: Linear Algebra (Abstract / Group Theory)
+### MATH 225: Linear Algebra II
 
-Abstract algebra (groups, rings, fields) is the mathematical foundation for cryptography. If you're going into security or any crypto-adjacent work (blockchain, secure systems, applied cryptography), this is relevant. Also: it's a beautiful course that rewards mathematical maturity. Not for everyone, but for the right student it's excellent.
+The follow-up to MATH 125: vector spaces, inner product spaces, Gram-Schmidt, QR factorization and least squares, diagonalization, quadratic forms ([MATH catalogue](https://apps.ualberta.ca/catalogue/course/math)). If you're heading into ML or graphics, this is the linear algebra you'll actually lean on, and it's a prerequisite option for CMPUT 340 (Introduction to Numerical Methods).
 
-### PHIL 325: Formal Logic
+If you want the abstract algebra behind cryptography instead, look at MATH 228 (Algebra: Introduction to Ring Theory), which covers modular arithmetic, finite fields, and applications like public-key encryption.
 
-Formal systems, proof theory, model theory. This overlaps with programming language theory, type systems, and formal verification. If you find yourself drawn to the theoretical side of CS (type systems, proof assistants, certified code), this is worth taking. Also counts as a humanities elective.
+### PHIL 220: Symbolic Logic II
+
+Predicate logic with identity, natural deduction, mathematical induction, elementary modal logic, formal axiomatic systems ([PHIL catalogue](https://apps.ualberta.ca/catalogue/course/phil)). This overlaps with programming language theory, type systems, and formal verification. If you find yourself drawn to the theoretical side of CS, it's worth taking. Requires PHIL 120.
 
 ### ECE 340: Signals and Systems
 
-If you ever work in audio processing, communications systems, digital signal processing, radio frequency (RF), or certain areas of ML (especially time-series or audio ML), this course is foundational. Fourier transforms, Laplace transforms, convolution, filter design. Most CS students never touch this. The ones who do have a rare skill.
+**ECE 340 is Discrete Time Signals and Systems**, and its prerequisite is ECE 240 (or E E 238), an Engineering course, so check whether you can realistically get in before planning around it. If you ever work in audio processing, communications systems, digital signal processing, radio frequency (RF), or certain areas of ML (especially time-series or audio ML), this course is foundational. Sampling and aliasing, the Z-transform, discrete-time and discrete Fourier transforms, digital filter design. Most CS students never touch this. The ones who do have a rare skill.
 
-### GEOPH 210: Introduction to Seismology (Mostly Kidding, Somewhat Serious)
+### GEOPH 210: Structure, Dynamics and Evolution of the Earth and Planetary Interiors (Mostly Kidding, Somewhat Serious)
 
-Look: seismology is genuinely a data-heavy field. Seismic data processing involves signal processing, large datasets, pattern recognition, and time-series analysis. If you want a bizarre and interesting dataset to work with for personal projects, or if you're curious about scientific computing, a geophysics course is a left-field choice that has produced a few interesting data science portfolios. Edmonton is an energy hub and oil and gas companies hire data scientists. This is the "mostly kidding" entry, but the underlying point is real: niche domain knowledge plus CS skills is a powerful combination in unexpected industries.
+It's not a seismology course as such, but it covers Earth's interior structure from seismology, gravity, and magnetism, along with plate tectonics, earthquakes, and planetary bodies. And seismology is genuinely a data-heavy field. Seismic data processing involves signal processing, large datasets, pattern recognition, and time-series analysis. If you want a bizarre and interesting dataset to work with for personal projects, or if you're curious about scientific computing, a geophysics course is a left-field choice that has produced a few interesting data science portfolios. Edmonton is an energy hub and oil and gas companies hire data scientists. This is the "mostly kidding" entry, but the underlying point is real: niche domain knowledge plus CS skills is a powerful combination in unexpected industries.
 
 ---
 

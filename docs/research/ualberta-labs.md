@@ -13,18 +13,18 @@ This is not an exhaustive list of every faculty member. It's the labs and groups
 This is the most globally recognized research group at UofA. If you've taken any course involving reinforcement learning, you've almost certainly encountered work that came out of this lab.
 
 **Who's here:**
-- **Rich Sutton:** co-author of *Reinforcement Learning: An Introduction* with Andrew Barto, the definitive textbook on RL, freely available at incompleteideas.net. Sutton is one of the foundational figures in the entire field. His "Reward is Enough" hypothesis (published in 2021 in *Artificial Intelligence*) argues that reward maximization is sufficient to explain all intelligence, a bold, contested, and influential claim.
-- **Michael Bowling:** known for solving heads-up limit Texas Hold'em poker (the first time a poker variant was solved), work on game theory and RL, and multiagent systems
+- **Rich Sutton:** co-author of *Reinforcement Learning: An Introduction* with Andrew Barto, the definitive textbook on RL, freely available at incompleteideas.net. Sutton is one of the foundational figures in the entire field. He co-authored "Reward is Enough" with David Silver, Satinder Singh, and Doina Precup ([*Artificial Intelligence*, 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000862)), which hypothesizes that maximizing reward is enough to drive the abilities we associate with intelligence: a bold, contested, and influential claim. Sutton and Barto received the [2024 ACM A.M. Turing Award](https://awards.acm.org/xpages/turing/index) for developing the foundations of reinforcement learning.
+- **Michael Bowling:** led the team that essentially solved heads-up limit Texas hold'em ([*Science*, 2015](https://www.science.org/doi/10.1126/science.1259433)), the first nontrivial imperfect-information game played competitively by humans to be solved; also works on game theory, RL, and multiagent systems
 - **Patrick Pilarski:** focus on prosthetics, health applications of RL, continual machine learning in real-world systems
 - **Martha White:** representation learning, continual learning, stability-plasticity problems in neural networks
-- **Adam White:** practical RL, teaching (he runs CMPUT 365), student-accessible research
+- **Adam White:** practical RL, student-accessible research
 - **Csaba Szepesvári:** theoretical foundations of RL, bandit problems, statistical learning theory
 
 **What they work on:**
 RL theory and algorithms, policy gradient methods, deep RL, continual learning (learning that doesn't forget), AI safety, representation learning, and applications ranging from game-playing AI to real-world control systems.
 
 **Industry connections:**
-DeepMind has deep historical ties to this lab. AlphaGo and subsequent work built on RL ideas developed here and at related groups. Researchers from RLAI have gone to Google Brain, DeepMind, Microsoft Research, OpenAI, and top academic institutions globally.
+DeepMind has deep historical ties to this lab, and RL ideas developed here and at related groups fed into AlphaGo and later work. DeepMind ran an Edmonton office alongside the university until Alphabet [closed it in January 2023](https://www.ctvnews.ca/edmonton/article/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind/). Researchers from RLAI have gone to Google DeepMind, Microsoft Research, OpenAI, and top academic institutions globally.
 
 **How to get involved as an undergrad:**
 Take **CMPUT 365** (Reinforcement Learning) first; it's the clearest signal of genuine interest and gives you foundational vocabulary. Read the Sutton & Barto textbook (or at least the first four chapters) before approaching anyone. The lab is competitive for undergrad positions but they do take motivated students. Email Adam White or Martha White first if you're an undergrad; they tend to be more accessible and have experience mentoring undergrads. Show that you've engaged with the material, not just that you want a research credit.
@@ -53,49 +53,16 @@ If you're interested in AI/ML research or industry, treat Amii as a resource. Su
 
 ---
 
-## BSAIL: Biological and Statistical AI Lab
-
-**Prestige level: Niche but respected. Good for CS-biology intersections.**
-
-BSAIL works at the intersection of statistical machine learning, computational biology, and bioinformatics. If you're interested in health tech, genomics, drug discovery, or biological data, this is the lab to look at.
-
-**What they work on:**
-Statistical modeling of biological processes, bioinformatics algorithms, applications of ML to health data, cancer genomics, and related problems.
-
-**How to get involved:**
-Background in statistics, probability (CMPUT 267 is relevant), and some biology helps but isn't always required. Email the faculty involved directly. This is a less competed-for lab than RLAI, which means motivated undergrads have more realistic access.
-
----
-
-## Database Research Group
-
-**Prestige level: International. M. Tamer Özsu is one of the most cited database researchers in the world.**
-
-The database group is smaller than RLAI but internationally recognized, primarily through Özsu's career-long work on distributed data management.
-
-**Who's here:**
-- **M. Tamer Özsu:** distributed database systems, NoSQL, graph databases, big data query processing. Author of *Principles of Distributed Database Systems* (the graduate textbook on the subject, now in its 4th edition). If you've taken a databases course anywhere in the world, your course was likely designed with his textbook on the reading list.
-
-**What they work on:**
-Distributed query processing, transaction management in distributed systems, graph data management, and scaling databases to modern workloads.
-
-**Relevant courses to take first:** CMPUT 291 (intro databases), CMPUT 391 (database management systems).
-
-**How to get involved:**
-Email the lab directly. The database group is smaller, so it's potentially more accessible. Interest in distributed systems and solid SQL/query processing foundations will help you make a case.
-
----
-
 ## Systems, Networking, and Architecture
 
-**Prestige level: Solid domestic reputation. Less internationally prominent than RLAI or databases but good technical work.**
+**Prestige level: Solid domestic reputation. Less internationally prominent than RLAI but good technical work.**
 
-Multiple professors work on various aspects of systems: operating systems, computer networks, compilers, programming languages, hardware-software interfaces, and distributed systems engineering.
+Multiple professors work on various aspects of systems: operating systems, computer networks, databases and data systems, compilers, programming languages, hardware-software interfaces, and distributed systems engineering.
 
 **What they work on:**
 Network protocol design, OS kernel-level work, compiler optimizations, programming language theory and implementation, and distributed systems at the infrastructure level.
 
-**Relevant courses:** CMPUT 379 (operating systems), CMPUT 313 (computer networks), CMPUT 415 (compiler design), CMPUT 481 (distributed systems).
+**Relevant courses:** CMPUT 379 (operating systems), CMPUT 313 (computer networks), CMPUT 291 and 391 (databases), CMPUT 415 (compiler design), CMPUT 481 (parallel and distributed systems).
 
 **How to get involved:**
 Systems research is less accessible to first or second year students because it requires deeper background (you need to understand OS concepts, networking stacks, and ideally low-level programming in C or Rust). By third year with the relevant courses done, you're in a solid position to approach faculty. Check the department website for faculty listing under the "Systems and Theory" research area.
@@ -130,7 +97,7 @@ Named entity recognition, question answering, text classification, multilingual 
 **Relevant courses:** CMPUT 461 (introduction to NLP).
 
 **How to get involved:**
-Take CMPUT 461 first. NLP intersects heavily with ML so a solid ML background (CMPUT 267 or CMPUT 361) helps. This is a growing area at UofA and there's genuine opportunity for undergrads as the group expands.
+Take CMPUT 461 first. NLP intersects heavily with ML so a solid ML background (CMPUT 267 or CMPUT 466) helps, and CMPUT 361 (Information Retrieval) covers text search and ranking. This is a growing area at UofA and there's genuine opportunity for undergrads as the group expands.
 
 ---
 

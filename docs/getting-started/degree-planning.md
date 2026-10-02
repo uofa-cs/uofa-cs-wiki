@@ -1,6 +1,6 @@
 # Degree Planning for BSc CS
 
-Finishing your CS degree efficiently, without sacrificing your GPA, your sanity, or the courses that actually matter, requires planning from the start. This guide is targeted at the Specialization, since that's what most industry-bound students should be doing. Adapt as needed if you're in General or Honors.
+Finishing your CS degree efficiently, without sacrificing your GPA, your sanity, or the courses that actually matter, requires planning from the start. This guide is written around the plain Major in Computing Science. If you're in Honors, the AI Option, or the Software Practice Option, the same prerequisite chains apply but you have more required courses; see the [Program Overview](./program-overview.md) and the [calendar](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110935).
 
 The single biggest mistake first-year students make is not understanding prerequisite chains early enough. Miss the right course in first semester and you're pushing senior courses into a fifth year. This guide exists to stop that from happening to you.
 
@@ -24,26 +24,33 @@ BearTracks is UofA's student portal for registration, grades, and degree auditin
 
 Get these wrong and you will lose semesters. Memorize them.
 
-### The Core CS Chain: 174 → 175 → 201 → 204
-This is the foundational sequence. CMPUT 174 and 175 are intro programming (Python). 201 is the transition to C/C++ and data structures. 204 is algorithms, one of the most important courses in the degree.
+Prerequisites below are from the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput) as of October 2026. Always re-check the catalogue entry for a course before you register; they do change.
 
-**Start this chain in your very first semester.** 204 is a prerequisite or recommended prerequisite for almost every interesting upper-year course. Students who delay 174/175 because they "already know programming" and skip ahead without credit end up pushing 204 to third year, which compresses their upper-year options badly.
+### The Core CS Chain: 174 → 175 → 201, and 272 → 204
+CMPUT 174 and 175 are the intro sequence (Python). 201 (Practical Programming Methodology) is C and Unix development tools, and requires 175. 204 (Algorithms I) is one of the most important courses in the degree.
 
-If you have programming experience, you can try to get transfer credit or place out of 174/175, but verify this with the department before assuming it.
+**204 has three prerequisites, not one:** CMPUT 175 (or 275), **and** CMPUT 272, **and** a first-semester calculus course (one of MATH 100, 114, 117, 134, 144, or 154) ([CMPUT 204](https://apps.ualberta.ca/catalogue/course/cmput/204)). Students who leave 272 to "later" are the ones who end up pushing 204, and everything behind it, back a year.
 
-### Logic: 174/175 → 272
-CMPUT 272 (Formal Systems and Logic) is a prerequisite for multiple upper-year theory courses. It's taken in second year typically. Don't sleep on this one; it's a different style of thinking from intro programming and students who aren't prepared struggle with it.
+**Start this chain in your very first semester.** 204 is a prerequisite for a large share of upper-year courses (304, 313, 325, 350, 366, 379, 403, and more). If you have programming experience and want to skip 174, verify with the department before assuming you can.
 
-### Systems: 229 → 379
-CMPUT 229 (Computer Organization) introduces assembly, memory, and how computers actually work at a low level. 379 (Operating Systems) builds directly on it. If you care about systems programming, embedded work, or just understanding computers deeply, this chain matters. Take 229 as early as you can once prerequisites are met.
+### Logic: 174 → 272
+CMPUT 272 (Formal Systems and Logic in Computing Science) only needs an intro course (174, 175, 274, or a couple of others) ([CMPUT 272](https://apps.ualberta.ca/catalogue/course/cmput/272)), so you can take it as early as your second term. It is a prerequisite for 204, 291, 331, and 366. Don't sleep on this one; it's a different style of thinking from intro programming and students who aren't prepared struggle with it.
 
-### Databases: 291 → 391
-CMPUT 291 (Introduction to File and Database Management) should be taken in second or third year. 391 (Advanced Database Systems) follows, but it has not been offered in recent terms, so plan accordingly. The DB chain is underrated; understanding databases is practically mandatory for any full-stack or backend role, and the courses at UofA are solid.
+### Systems: 201 → 229 → 379
+CMPUT 229 (Computer Organization and Architecture I) requires **201** (or 275) ([CMPUT 229](https://apps.ualberta.ca/catalogue/course/cmput/229)), so you cannot take it alongside 201 in the same term. It introduces assembly, memory, and how computers actually work at a low level. 379 (Operating System Concepts) needs 201 and 204 (or 275) **and** 229 ([CMPUT 379](https://apps.ualberta.ca/catalogue/course/cmput/379)). CMPUT 313 (Computer Networks) lists 379 as a corequisite, so plan 379 no later than the term you take 313.
 
-If you want more practical database experience, CMPUT 404 can be useful for ORM-based work, and CMPUT 401 may let you choose database technology as part of the project. Those courses won't replace the theory you get from 391, but they do give you more hands-on industry experience.
+### Databases: 272 + 175 → 291
+CMPUT 291 (Introduction to File and Database Management) needs 175 (or 274) and 272, with 201 (or 275) as a corequisite ([CMPUT 291](https://apps.ualberta.ca/catalogue/course/cmput/291)). The DB material is underrated; understanding databases is practically mandatory for any full-stack or backend role.
 
-### Tangible Computing: 274 → 275 (Optional Stream)
-Instead of 174/175, you can enter through 274/275, which is the Tangible Computing stream using Raspberry Pi, hardware, and physical computing projects. This stream is harder, more hands-on, and more fun. It leads to the same upper-year courses as 174/175. If you're interested in hardware, IoT, or just want a more tactile intro to CS, consider this path. Be warned: it's more demanding in terms of time and setup, especially in first semester when you're also adjusting to university.
+**About CMPUT 391 (Database Management Systems):** it is still in the calendar, but the catalogue shows no scheduled offerings and its most recent listed term is Winter 2022 ([CMPUT 391](https://apps.ualberta.ca/catalogue/course/cmput/391)). Don't build a plan that depends on it. If you want more hands-on database work, CMPUT 404 (Web Applications and Architecture, needs 291 and 301) is the more realistic option.
+
+### Software Engineering: 201 → 301 → 401/402, and 291 + 301 → 404
+CMPUT 301 needs 201 (or 275). 401 (Software Process and Product Management) and 402 (Software Quality) both need 301, and 404 needs 291 and 301 ([catalogue](https://apps.ualberta.ca/catalogue/course/cmput)).
+
+### The Accelerated Sequence: 274 → 275 (Optional)
+Instead of 174/175, you can enter through CMPUT 274/275, **Accelerated Introduction to the Foundations of Computation I and II**. Per the catalogue, 274 is procedural programming and basic algorithms in **Python, developed on Linux**, and 275 adds object-oriented programming in **C++** plus more complex algorithms (shortest paths, divide and conquer, dynamic programming) ([CMPUT 274](https://apps.ualberta.ca/catalogue/course/cmput/274), [CMPUT 275](https://apps.ualberta.ca/catalogue/course/cmput/275)). Both are taught studio-style (3-hour combined lecture/lab sessions, twice a week) with limited enrollment, and prior Python or computing background is strongly recommended. There's no hardware component in the current descriptions.
+
+**Credit matters here:** you can't get credit for both 274 and 174 or 175, or for both 275 and 175. You also **can't get credit for both 275 and 201**. The program calendar says students who take 275 must replace 201 with another CMPUT course at the 200-level or above ([calendar](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110935)). The upside is that 275 satisfies the "201 or 275" prerequisite on courses like 229, 301, and 379, and the "201 and 204, or 275" prerequisite on several 300-level courses.
 
 ---
 
@@ -51,13 +58,15 @@ Instead of 174/175, you can enter through 274/275, which is the Tangible Computi
 
 Don't neglect these. They come back in upper-year CS more than students expect.
 
-**MATH 114/134/154 (Calculus I):** Take one of these in your first semester depending on your stream. They are all common first-year calculus options and are expected background for several CS courses. Not optional.
+**Calculus I (MATH 134, 144, or 154):** Take one of these in your first semester. Honors students can also use MATH 117 (Honors Calculus I). A first-semester calculus course is a prerequisite for CMPUT 204, so this is not optional or deferrable. MATH 114 is not one of the program's listed calculus options; check the [calendar](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110935) before taking anything else.
 
-**MATH 115/136/156 (Calculus II):** Usually taken in second semester of first year. These are the follow-up calculus options for the different streams and introduce more advanced calculus concepts. More directly relevant to ML and numerical methods than the first course.
+**Calculus II (MATH 136, 146, or 156):** Usually taken in second semester. Honors students can also use MATH 118 (Honors Calculus II). Calculus II shows up as a prerequisite for CMPUT 466 and 467.
 
-**MATH 125 (Linear Algebra):** This is the most practically useful math course for CS students who want to do anything in machine learning, computer graphics, or scientific computing. Eigenvalues, matrix operations, vector spaces: all of this appears directly in ML coursework. Take it early, ideally in first year or the first semester of second year, because many upper-year courses list it as a prerequisite.
+**Linear Algebra (MATH 125, or MATH 127 for Honors):** The Major requires MATH 125; Honors accepts MATH 125 or 127 (Honors Linear Algebra I). It's the most practically useful math course for ML, graphics, or scientific computing, and it's a listed prerequisite or corequisite for CMPUT 267, 304, 325, and 466. Take it in first year.
 
-**STAT 151 (Introduction to Applied Statistics I)** and **STAT 252 (Introduction to Applied Statistics II):** Take these earlier than you think you need to. Statistics shows up in software development, A/B testing, ML, data science, and systems work. Many upper-year classes use statistics as a prerequisite or assume you already know it, so aim to finish both by second year. Do not wait until third year.
+**Intro stats (STAT 151, 235, or 265):** Required in every path. Take it in first year: an intro stats course is a prerequisite for CMPUT 200, 261, 304, 313, and 466, and a corequisite for 267.
+
+**Second stats course (STAT 252 or 266):** Required for Honors and for the AI and Software Practice Options (not the plain Major). Aim to finish it by second year.
 
 ---
 
@@ -77,9 +86,9 @@ Summer courses are faster-paced: a full semester of content in 6 weeks. They req
 
 **Five courses per semester** is the standard full-time load. This is the pace that a standard 4-year plan assumes. Most students handle 5 courses without too much trouble once they're past first year.
 
-**Six courses** counts as overload and requires approval from the faculty to grant it. It is doable but requires real discipline. The key is not stacking six hard courses together. If you're taking 6, make sure at least one or two are lighter (a breadth elective, a lab course, something you find genuinely easy). Shariq completed the degree in 3 years by running 6 courses in multiple semesters and using summers; it works, but you have to be strategic and willing to put in the hours.
+**Six courses** counts as overload and requires approval from the faculty to grant it. It is doable but requires real discipline. The key is not stacking six hard courses together. If you're taking 6, make sure at least one or two are lighter (a breadth elective, a lab course, something you find genuinely easy). Students have finished in three years this way, using overload terms plus summers; it works, but you have to be strategic and willing to put in the hours.
 
-**Do not take six of the hardest CS courses simultaneously.** Taking 204, 272, 229, and 301 all in the same semester with no breathing room is a recipe for a rough GPA and a miserable few months. Spread the challenging courses out.
+**Do not take six of the hardest CS courses simultaneously.** Stacking 204, 229, 291, and 301 in the same semester with no breathing room is a recipe for a rough GPA and a miserable few months. Spread the challenging courses out.
 
 **Four courses** sometimes makes sense: if you're doing a heavy internship alongside school, if you've had a rough semester and need to recover your GPA, or if you're doing significant research. Don't treat 4-course semesters as failure; treat them as tactical decisions.
 
@@ -92,47 +101,49 @@ Some courses have soft prerequisites that aren't captured in BearTracks; they as
 Save these for third and fourth year if you need the extra time, but do not delay them longer than necessary:
 
 - **CMPUT 301 (Software Engineering):** Group project-heavy. More valuable when you've done some real programming, but still worth taking as soon as you can because it helps you learn how real team projects work.
-- **CMPUT 401 (Introduction to the Business of Software):** Entrepreneurship and product thinking. Makes more sense once you understand the technical landscape, and it is useful for seeing how software work connects to industry.
-- **CMPUT 404 (Web Applications and Architecture):** Useful course, but you'll get more from it once you've built things on your own. It is especially valuable for learning practical tools and frameworks.
-- **CMPUT 403 (Practical Algorithmics):** Competitive programming and problem-solving. Best taken once 204 and 304 are done and you've got some programming maturity.
+- **CMPUT 401 (Software Process and Product Management):** Requires 301. Makes more sense once you understand the technical landscape, and it is useful for seeing how software work connects to industry.
+- **CMPUT 404 (Web Applications and Architecture):** Requires 291 and 301. Useful course, but you'll get more from it once you've built things on your own. It is especially valuable for learning practical tools and frameworks.
+- **CMPUT 403 (Algorithmics in Competitive Programming):** Requires 201 (or 275), 204, and any 300-level CMPUT course. You can't get credit for both 403 and 303 (Algorithmics in Practice).
 
 Many students reach these courses having only done theory-heavy first- and second-year classes and still do not know how to use common tools like Git, Linux, frameworks, or Python virtual environments. If that sounds like you, these courses and the projects they force you to do become even more important. If you are already building projects outside school, you may be better prepared earlier; if not, take these courses as soon as you can handle the prerequisites.
 
 ---
 
-## Suggested Semester-by-Semester Plan
+## Sample Semester-by-Semester Plans
 
-### Standard 4-Year Plan (BSc CS Specialization)
+**These are illustrative only.** Every course below is placed after its catalogue prerequisites as of October 2026, but offerings change term to term, some courses only run in one term, and your path (Honors, AI Option, Software Practice Option, 274/275 entry) changes what you need. Check each course against the [catalogue](https://apps.ualberta.ca/catalogue/course/cmput) and your degree audit before registering.
+
+### Sample 4-Year Plan (Major in Computing Science)
 
 | Term | Courses |
 |------|---------|
-| Year 1 Fall | CMPUT 174, MATH 114, + 3 breadth/electives |
-| Year 1 Winter | CMPUT 175, MATH 115, MATH 125, + 2 breadth/electives |
-| Year 2 Fall | CMPUT 201, CMPUT 229, STAT 151, + 2 electives |
-| Year 2 Winter | CMPUT 204, CMPUT 272, STAT 252, + 2 electives |
-| Year 3 Fall | CMPUT 291, CMPUT 301, + 3 upper-year CS electives |
-| Year 3 Winter | CMPUT 379, CMPUT 391, + 3 upper-year CS electives |
-| Year 4 Fall | CMPUT 403, + 4 upper-year CS electives/free electives |
-| Year 4 Winter | CMPUT 401 or 404, + 4 upper-year CS/free electives |
+| Year 1 Fall | CMPUT 174, MATH 134/144/154, + 3 courses (e.g., ENGL/WRS, science, breadth) |
+| Year 1 Winter | CMPUT 175, MATH 136/146/156, MATH 125, STAT 151, + 1 course |
+| Year 2 Fall | CMPUT 201, CMPUT 272, CMPUT 200, + 2 courses |
+| Year 2 Winter | CMPUT 204, CMPUT 229, CMPUT 291, + 2 courses |
+| Year 3 Fall | CMPUT 301, CMPUT 379, + 3 courses |
+| Year 3 Winter | CMPUT 304, CMPUT 313, + 3 courses |
+| Year 4 Fall | CMPUT 401, CMPUT 403, + 3 courses |
+| Year 4 Winter | CMPUT 404, + 4 courses |
 
-This is approximate; your actual registration depends on what's offered, what your interests are, and how your prerequisites play out. Use this as a skeleton, not a rigid schedule.
+Why it's ordered this way: 272 comes before 204; 201 comes before 229; 175 and 272 come before 291 (with 201 already done); 201, 204, and 229 come before 379; 379 is taken before (or with) 313; 301 comes before 401; 291 and 301 come before 404; and 403 comes after a 300-level CMPUT course. The plain Major only requires two of 201/229/291, but taking all three keeps the most upper-year doors open.
 
-### Accelerated 3-Year Plan
+### Sample Accelerated 3-Year Plan
 
-The 3-year path requires running 6 courses in at least some semesters and using at least one full summer session. Here's a rough shape of what that looks like:
+The 3-year path requires running 6 courses in some semesters and using spring/summer. It only works if the courses you need are actually offered in spring/summer that year, so check the timetable before committing.
 
-| Term | Notes |
-|------|-------|
-| Year 1 Fall | CMPUT 174, MATH 114, 4 breadth courses (6 total) |
-| Year 1 Winter | CMPUT 175, MATH 115, MATH 125, STAT 151, + 2 more (6 total) |
-| Year 1 Summer | CMPUT 201 + 1-2 light electives |
-| Year 2 Fall | CMPUT 204, CMPUT 229, CMPUT 272, STAT 252, + 2 more |
-| Year 2 Winter | CMPUT 291, CMPUT 301, + 4 upper-year courses |
-| Year 2 Summer | 1-2 more courses or internship |
-| Year 3 Fall | CMPUT 379, CMPUT 391, CMPUT 403, + 2-3 more |
-| Year 3 Winter | Final electives, CMPUT 401/404, wrap remaining requirements |
+| Term | Courses |
+|------|---------|
+| Year 1 Fall | CMPUT 174, MATH 134/144/154, + 4 courses (6 total) |
+| Year 1 Winter | CMPUT 175, MATH 136/146/156, MATH 125, STAT 151, + 2 courses (6 total) |
+| Year 1 Spring/Summer | CMPUT 201 and CMPUT 272 if offered, + 1 light course |
+| Year 2 Fall | CMPUT 204, CMPUT 229, CMPUT 291, CMPUT 200, + 2 courses |
+| Year 2 Winter | CMPUT 301, CMPUT 379, CMPUT 304, + 3 courses |
+| Year 2 Spring/Summer | 1-2 courses or an internship |
+| Year 3 Fall | CMPUT 313, CMPUT 401, CMPUT 403, + 3 courses |
+| Year 3 Winter | CMPUT 404, + remaining requirements |
 
-This requires sustained effort and good time management. It's achievable (Shariq did it with distinction), but go in with eyes open. The benefit isn't just finishing faster; it's getting to industry sooner, compressing your tuition costs, and having a year of industry experience while your peers are still in school.
+This requires sustained effort and good time management. The benefit isn't just finishing faster; it's getting to industry sooner, compressing your tuition costs, and having a year of industry experience while your peers are still in school.
 
 ---
 

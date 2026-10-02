@@ -140,7 +140,7 @@ You don't need original research. Write about:
 - **Medium:** paywalls limit discoverability, not recommended unless you already have an audience
 - **Your own site:** best long-term option if you have a portfolio site already
 
-Consistency matters more than frequency. One solid post per month is 12 posts per year, more than 95% of students.
+Consistency matters more than frequency. One solid post per month is 12 posts per year, far more than most students ever write.
 
 ---
 
