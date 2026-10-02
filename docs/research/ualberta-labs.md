@@ -1,122 +1,184 @@
-# Research Labs and Groups at UofA CS
+# Research Areas and Groups
 
-This is a practical guide to the main research groups in the UofA CS department: what they work on, who's involved, how prestigious they are internationally, and how you as an undergrad can realistically get involved.
+*Last verified: October 2026.*
 
-This is not an exhaustive list of every faculty member. It's the labs and groups you'll most commonly hear about, and the ones with the clearest paths for undergrad involvement.
+Who does what in the department, so you know whose papers to read before you send an email. Areas and names come from the department's [research area pages](https://www.ualberta.ca/en/computing-science/research/research-areas/index.html); every person below was checked against their current [UofA directory](https://apps.ualberta.ca/directory) profile, and each one-liner comes from their profile or lab site. This is not every faculty member. Faculty move and retire, so check the profile before you email.
 
----
-
-## RLAI: Reinforcement Learning and Artificial Intelligence
-
-**Prestige level: International. Genuinely one of the best in the world for RL.**
-
-This is the most globally recognized research group at UofA. If you've taken any course involving reinforcement learning, you've almost certainly encountered work that came out of this lab.
-
-**Who's here:**
-- **Rich Sutton:** co-author of *Reinforcement Learning: An Introduction* with Andrew Barto, the definitive textbook on RL, freely available at incompleteideas.net. Sutton is one of the foundational figures in the entire field. He co-authored "Reward is Enough" with David Silver, Satinder Singh, and Doina Precup ([*Artificial Intelligence*, 2021](https://www.sciencedirect.com/science/article/pii/S0004370221000862)), which hypothesizes that maximizing reward is enough to drive the abilities we associate with intelligence: a bold, contested, and influential claim. Sutton and Barto received the [2024 ACM A.M. Turing Award](https://awards.acm.org/xpages/turing/index) for developing the foundations of reinforcement learning.
-- **Michael Bowling:** led the team that essentially solved heads-up limit Texas hold'em ([*Science*, 2015](https://www.science.org/doi/10.1126/science.1259433)), the first nontrivial imperfect-information game played competitively by humans to be solved; also works on game theory, RL, and multiagent systems
-- **Patrick Pilarski:** focus on prosthetics, health applications of RL, continual machine learning in real-world systems
-- **Martha White:** representation learning, continual learning, stability-plasticity problems in neural networks
-- **Adam White:** practical RL, student-accessible research
-- **Csaba Szepesvári:** theoretical foundations of RL, bandit problems, statistical learning theory
-
-**What they work on:**
-RL theory and algorithms, policy gradient methods, deep RL, continual learning (learning that doesn't forget), AI safety, representation learning, and applications ranging from game-playing AI to real-world control systems.
-
-**Industry connections:**
-DeepMind has deep historical ties to this lab, and RL ideas developed here and at related groups fed into AlphaGo and later work. DeepMind ran an Edmonton office alongside the university until Alphabet [closed it in January 2023](https://www.ctvnews.ca/edmonton/article/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind/). Researchers from RLAI have gone to Google DeepMind, Microsoft Research, OpenAI, and top academic institutions globally.
-
-**How to get involved as an undergrad:**
-Take **CMPUT 365** (Reinforcement Learning) first; it's the clearest signal of genuine interest and gives you foundational vocabulary. Read the Sutton & Barto textbook (or at least the first four chapters) before approaching anyone. The lab is competitive for undergrad positions but they do take motivated students. Email Adam White or Martha White first if you're an undergrad; they tend to be more accessible and have experience mentoring undergrads. Show that you've engaged with the material, not just that you want a research credit.
+For how to approach someone and how to get paid for it, see [Getting Into Research](getting-into-research.md).
 
 ---
 
-## Amii: Alberta Machine Intelligence Institute
+## Reinforcement learning
 
-**Prestige level: National. The hub of AI research in Alberta, one of three Pan-Canadian AI strategy nodes.**
+The best-known group here is the [RLAI lab](http://rlai.ualberta.ca/). Sutton and Andrew Barto won the [2024 ACM Turing Award](https://awards.acm.org/xpages/turing/index) for the foundations of RL, and their textbook is the standard one.
 
-Amii isn't a single research lab; it's an institute that spans the university and connects academic AI research to government, industry, and the public. UofA is the core of it.
+| Faculty | Works on |
+|---|---|
+| [Rich Sutton](https://apps.ualberta.ca/directory/person/rsutton) | Reinforcement learning as an approach to AI; general principles of goal-directed agents |
+| [Michael Bowling](https://apps.ualberta.ca/directory/person/mbowling) | Multiagent learning, game theory, games; leads the [Computer Poker Research Group](https://webdocs.cs.ualberta.ca/~games/poker/) |
+| [Csaba Szepesvári](https://sites.ualberta.ca/~szepesva/) | Learning theory, bandits, online learning |
+| [Martha White](https://marthawhite.ca/) | RL systems that keep learning during deployment: representation learning, off-policy learning, planning |
+| [Adam White](https://adamwhite.ca) | Continual learning, RL, robotics; RLAI PI and Amii Director |
+| [Marlos C. Machado](https://mcmachado.github.io/) | RL, especially exploration with temporally extended actions (options) |
+| [Rupam Mahmood](https://armahmood.github.io/) | Continual RL on real robots with onboard compute |
+| [Matthew Taylor](https://irll.ca/) | Intelligent Robot Learning Lab: RL, human-in-the-loop AI, multiagent systems |
+| [Dale Schuurmans](https://apps.ualberta.ca/directory/person/daes) | Machine learning, optimization, search (also a Research Director at Google DeepMind) |
+| [Patrick Pilarski](https://pilarski.github.io/) | RL for prosthetics and rehabilitation (Faculty of Medicine & Dentistry, Amii) |
 
-**What it is:**
-Canada's federal government funded three AI institutes as part of the Pan-Canadian AI Strategy: Vector Institute (Toronto, founded by Geoffrey Hinton and others), MILA (Montreal, Yoshua Bengio's group), and Amii (Edmonton, tied to RLAI and UofA broadly). This federal backing means real funding for researchers, students, and infrastructure.
+**Courses to take first:** [CMPUT 365](https://apps.ualberta.ca/catalogue/course/cmput/365) (Intro to RL), [CMPUT 267](https://apps.ualberta.ca/catalogue/course/cmput/267) and [CMPUT 466](https://apps.ualberta.ca/catalogue/course/cmput/466) (ML).
 
-**What Amii does:**
-- Funds graduate students and postdocs across participating professors
-- Runs industry partnership programs (companies in Alberta and nationally work with Amii researchers)
-- Hosts public seminars, workshops, and panels (most are free and open to students)
-- Connects students with industry opportunities: internships, collaborations, introductions
-
-**For undergrads:**
-Check **amii.ca** regularly. Their events calendar is consistently interesting: guest speakers from Google, DeepMind, Canadian tech companies, and international research labs. Showing up at these events is a low-barrier way to get known in the AI research community in Edmonton and to meet grad students and professors informally. You don't need to be doing research to attend most Amii events.
-
-If you're interested in AI/ML research or industry, treat Amii as a resource. Subscribe to their newsletter, attend events, and look for any student programs they're running in a given year.
-
----
-
-## Systems, Networking, and Architecture
-
-**Prestige level: Solid domestic reputation. Less internationally prominent than RLAI but good technical work.**
-
-Multiple professors work on various aspects of systems: operating systems, computer networks, databases and data systems, compilers, programming languages, hardware-software interfaces, and distributed systems engineering.
-
-**What they work on:**
-Network protocol design, OS kernel-level work, compiler optimizations, programming language theory and implementation, and distributed systems at the infrastructure level.
-
-**Relevant courses:** CMPUT 379 (operating systems), CMPUT 313 (computer networks), CMPUT 291 and 391 (databases), CMPUT 415 (compiler design), CMPUT 481 (parallel and distributed systems).
-
-**How to get involved:**
-Systems research is less accessible to first or second year students because it requires deeper background (you need to understand OS concepts, networking stacks, and ideally low-level programming in C or Rust). By third year with the relevant courses done, you're in a solid position to approach faculty. Check the department website for faculty listing under the "Systems and Theory" research area.
+**For undergrads:** RLAI's [Tea Time Talks](https://amiithinks.github.io/tea-time-talks/) run through the summer (2026: June 17 to end of August, in UCOMM 2-108) and "everyone is welcome." Showing up is the cheapest way to learn who works on what.
 
 ---
 
-## HCI: Human-Computer Interaction and Interactive Systems
+## Machine learning and AI (beyond RL)
 
-**Prestige level: Respected nationally. Accessible to a broad range of students.**
+[Amii](https://www.amii.ca/) (Alberta Machine Intelligence Institute) is the umbrella institute most of these people belong to. It is not a single lab.
 
-HCI research spans computer science, design, cognitive science, and social science. The work involves understanding how people interact with technology and designing better systems as a result.
+| Faculty | Works on |
+|---|---|
+| [Russ Greiner](https://webdocs.cs.ualberta.ca/~rgreiner/) | ML for medicine: survival prediction, medical informatics |
+| [Nidhi Hegde](https://apps.ualberta.ca/directory/person/nidhih) | Privacy, fairness and bias in ML |
+| [Alona Fyshe](https://alonafyshe.ca/) | How brains and models represent meaning (ML + neuroscience + language) |
+| [Randy Goebel](https://apps.ualberta.ca/directory/person/rgoebel) | Knowledge representation and reasoning, explainable AI |
+| [Jia-Huai You](https://apps.ualberta.ca/directory/person/jyou) | Declarative problem solving and knowledge representation |
+| [Osmar Zaïane](https://apps.ualberta.ca/directory/person/zaiane) | Data mining, text and web mining; Amii Scientific Director |
 
-**What they work on:**
-Accessibility (assistive technology for users with disabilities), novel interface paradigms, user studies and evaluation methods, visualization, and educational technology.
-
-**Relevant courses:** CMPUT 302 (introduction to HCI and user interfaces).
-
-**How to get involved:**
-HCI labs are often among the most accessible for undergrads because many projects involve running user studies, building prototypes, and analyzing data: tasks that motivated undergrads can contribute to meaningfully without years of prerequisite knowledge. If you're interested, reach out directly and emphasize any design, user research, or human-centered projects you've done.
-
----
-
-## Natural Language Processing Group
-
-**Prestige level: Growing. Increasingly relevant given the current state of the field.**
-
-NLP at UofA has grown as language models have become central to AI. The group works on text analysis, information extraction, language model development, and related problems.
-
-**What they work on:**
-Named entity recognition, question answering, text classification, multilingual NLP, and increasingly, the analysis and development of large language models.
-
-**Relevant courses:** CMPUT 461 (introduction to NLP).
-
-**How to get involved:**
-Take CMPUT 461 first. NLP intersects heavily with ML so a solid ML background (CMPUT 267 or CMPUT 466) helps, and CMPUT 361 (Information Retrieval) covers text search and ranking. This is a growing area at UofA and there's genuine opportunity for undergrads as the group expands.
+**Course:** [CMPUT 469](https://apps.ualberta.ca/catalogue/course/cmput/469) (AI Capstone) is a team project on a real-world AI/ML task, often with a domain expert.
 
 ---
 
-## Getting Involved: General Advice
+## Heuristic search and games
 
-Regardless of which group interests you, the approach is the same.
+| Faculty | Works on |
+|---|---|
+| [Martin Müller](https://webdocs.cs.ualberta.ca/~mmueller/) | Heuristic search, planning, computer Go (the Fuego program) |
+| [Nathan Sturtevant](https://movingai.com/) | Heuristic and combinatorial search, search for game design |
+| [Vadim Bulitko](https://apps.ualberta.ca/directory/person/bulitko) | Heuristic search, program synthesis |
+| [Levi Lelis](https://webdocs.cs.ualberta.ca/~santanad/) | Search for programmatic solutions (program synthesis for policies and strategies) |
+| [Matthew Guzdial](http://guzdial.com/grail-lab/) | GRAIL lab: creative AI, procedural content generation for games |
+| [Ryan Hayward](https://apps.ualberta.ca/directory/person/hayward) | Algorithms for two-player games (Hex, Go) and graph theory |
 
-**Attend department seminars.** The CS department and Amii host regular talks by visiting researchers and faculty. These are almost always free and open to undergrads. Showing up is how you learn what questions researchers are actually asking, and occasionally how you get noticed. The schedule is posted on the CS department website and amii.ca.
+**Courses:** [CMPUT 250](https://apps.ualberta.ca/catalogue/course/cmput/250) (Computers and Games), [CMPUT 256](https://apps.ualberta.ca/catalogue/course/cmput/256) (Game AI), [CMPUT 350](https://apps.ualberta.ca/catalogue/course/cmput/350) (Advanced Games Programming), [CMPUT 455](https://apps.ualberta.ca/catalogue/course/cmput/455) (Search, Knowledge and Simulation).
 
-**Read papers before reaching out.** This cannot be overstated. An email that says "I read your recent paper on [specific topic] and had a question about [specific aspect]" gets a response. An email that says "I'm interested in your work in machine learning" does not.
+---
 
-**Lab reading groups.** Many labs run weekly or biweekly reading groups where members present papers. Ask if you can attend as an observer. This is a zero-risk way to get known in the lab and to understand what problems they're working on.
+## Natural language processing
 
-**Start in Year 2, not Year 4.** You need time to ramp up, contribute meaningfully, and get a reference letter worth something. Starting in your final year means you'll leave before you've made a real impact.
+| Faculty | Works on |
+|---|---|
+| [Denilson Barbosa](https://sites.ualberta.ca/~denilson/) | Knowledge extraction, information retrieval, NLP |
+| [Greg Kondrak](https://apps.ualberta.ca/directory/person/gkondrak) | Computational linguistics: transliteration, cognates, deciphering unknown scripts |
+| [Lili Mou](https://apps.ualberta.ca/directory/person/lmou) | Deep learning for language understanding and generation |
+| [Xi Ye](https://apps.ualberta.ca/directory/person/xye8) | LLM reasoning and explainability, coding agents |
+| [Davood Rafiei](https://dalilab.ca/) | DALI lab: natural language interfaces to data, LLMs over structured data |
 
-**Don't ignore smaller or less-famous groups.** RLAI is amazing, but it's also the most competitive for undergrad positions. A professor in a smaller group might give you more mentorship, more ownership over a project, and a stronger reference letter. Famous lab + peripheral involvement is often less valuable than smaller lab + real responsibility.
+Alona Fyshe (above) and Carrie Demmans Epp (below) also work on language.
 
-**The goal for Year 2:** Get your foot in the door somewhere, even as a volunteer. Attend seminars. Read papers in an area you care about.
+**Courses:** [CMPUT 461](https://apps.ualberta.ca/catalogue/course/cmput/461) (Intro to NLP), [CMPUT 361](https://apps.ualberta.ca/catalogue/course/cmput/361) (Information Retrieval).
 
-**The goal for Year 3:** Be meaningfully contributing to a project. Apply for NSERC USRA if eligible.
+---
 
-**The goal for Year 4:** Have a result to show: a paper, a poster, a codebase, a thesis contribution. If grad school is on the table, this is what your application is built on.
+## Databases and data mining
+
+| Faculty | Works on |
+|---|---|
+| [Davood Rafiei](https://drafiei.github.io/) | Data integration, entity resolution, querying web and structured data |
+| [Jörg Sander](https://apps.ualberta.ca/directory/person/jsander) | Density-based clustering, outlier detection, spatial data mining |
+| [Osmar Zaïane](https://apps.ualberta.ca/directory/person/zaiane) | Data mining, multimedia and web mining |
+
+**Courses:** [CMPUT 291](https://apps.ualberta.ca/catalogue/course/cmput/291), [CMPUT 391](https://apps.ualberta.ca/catalogue/course/cmput/391).
+
+---
+
+## Human-computer interaction and learning technologies
+
+| Faculty | Works on |
+|---|---|
+| [Carrie Demmans Epp](https://spaces.facsci.ualberta.ca/edtekla/) | EdTeKLA group: educational and language-learning technology, learning analytics |
+| [Majeed Kazemitabaar](https://apps.ualberta.ca/directory/person/skazemit) | Human-AI interaction, AI tools for programming and learning. His profile says he is recruiting at all levels, undergrads included |
+| [Bailey Kacsmar](https://bkacsmar.github.io/) | Human-centred privacy technology |
+
+**Course:** [CMPUT 302](https://apps.ualberta.ca/catalogue/course/cmput/302) (Intro to HCI).
+
+---
+
+## Software engineering and programming languages
+
+| Faculty | Works on |
+|---|---|
+| [Abram Hindle](https://softwareprocess.es/) | Empirical software engineering, mining software repositories, software energy use |
+| [Ken Wong](https://apps.ualberta.ca/directory/person/kennyw) | Reverse engineering, program understanding, software evolution |
+| [Zhou Yang](https://u-a-goose.github.io/) | Trustworthy code LLMs: robustness, security, privacy |
+| [Jocelyn Qiaochu Chen](https://sites.ualberta.ca/~qiaochu8/) | PEAR lab: program synthesis and AI-assisted programming |
+| [Eleni Stroulia](https://apps.ualberta.ca/directory/person/stroulia) | Service systems, smart buildings, software for health care |
+
+**Courses:** [CMPUT 301](https://apps.ualberta.ca/catalogue/course/cmput/301), [CMPUT 401](https://apps.ualberta.ca/catalogue/course/cmput/401), [CMPUT 402](https://apps.ualberta.ca/catalogue/course/cmput/402), [CMPUT 416](https://apps.ualberta.ca/catalogue/course/cmput/416) (Program Analysis).
+
+---
+
+## Systems, compilers and networks
+
+| Faculty | Works on |
+|---|---|
+| [J. Nelson Amaral](https://apps.ualberta.ca/directory/person/jamaral) | Compiler optimization, high-performance computing |
+| [Paul Lu](https://apps.ualberta.ca/directory/person/paullu) | Parallel and distributed systems, cloud, high-performance data transfer |
+| [Omid Ardakanian](https://sites.ualberta.ca/~oardakan/) | Cyber-physical systems, IoT, energy systems |
+| [Ioanis (Yannis) Nikolaidis](https://apps.ualberta.ca/directory/person/ioanis) | Network protocols, wireless sensor networks |
+| [Ehab Elmallah](https://apps.ualberta.ca/directory/person/elmallah) | Algorithms and models for network design and reliability |
+
+**Courses:** [CMPUT 379](https://apps.ualberta.ca/catalogue/course/cmput/379), [CMPUT 313](https://apps.ualberta.ca/catalogue/course/cmput/313), [CMPUT 415](https://apps.ualberta.ca/catalogue/course/cmput/415), [CMPUT 429](https://apps.ualberta.ca/catalogue/course/cmput/429), [CMPUT 481](https://apps.ualberta.ca/catalogue/course/cmput/481).
+
+---
+
+## Privacy and security
+
+| Faculty | Works on |
+|---|---|
+| [Bailey Kacsmar](https://bkacsmar.github.io/) | Privacy in ML, private computation |
+| [Euijin Choo](https://alleychoo.github.io/) | Data-driven cyber security (read her site's instructions before emailing) |
+| [Nidhi Hegde](https://apps.ualberta.ca/directory/person/nidhih) | Privacy-preserving ML |
+
+**Courses:** [CMPUT 333](https://apps.ualberta.ca/catalogue/course/cmput/333) (Security), [CMPUT 331](https://apps.ualberta.ca/catalogue/course/cmput/331) (Computational Cryptography).
+
+---
+
+## Algorithms and theory
+
+| Faculty | Works on |
+|---|---|
+| [Mohammad Salavatipour](https://sites.ualberta.ca/~mrs/) | Approximation algorithms, hardness of approximation (also Department Chair) |
+| [Zachary Friggstad](https://apps.ualberta.ca/directory/person/zacharyf) | Approximation algorithms for routing, facility location, scheduling |
+| [Guohui Lin](https://apps.ualberta.ca/directory/person/guohui) | Approximation algorithms, computational biology |
+| [Xiaoqi Tan](https://sodalab.ca/) | SODALab: online algorithms, algorithmic economics. Looking for students at all levels; the weekly SODALab seminar is open to anyone at UofA |
+
+**Courses:** [CMPUT 204](https://apps.ualberta.ca/catalogue/course/cmput/204), [CMPUT 304](https://apps.ualberta.ca/catalogue/course/cmput/304), [CMPUT 403](https://apps.ualberta.ca/catalogue/course/cmput/403).
+
+---
+
+## Vision, graphics, multimedia and robotics
+
+| Faculty | Works on |
+|---|---|
+| [Martin Jagersand](https://webdocs.cs.ualberta.ca/~vis/) | Vision-guided robot manipulation, 3D modelling from video |
+| [Nilanjan Ray](https://apps.ualberta.ca/directory/person/nray1) | Medical image analysis, computer vision, deep learning |
+| [Anup Basu](https://apps.ualberta.ca/directory/person/basu) | 3D vision and graphics, multimedia |
+| [Irene Cheng](https://mrc.science.ualberta.ca/) | Multimedia computing; Scientific Director of the Multimedia Research Centre |
+
+Mahmood and Taylor (RL section) also run robot-learning work.
+
+**Courses:** [CMPUT 312](https://apps.ualberta.ca/catalogue/course/cmput/312) (Robotics), [CMPUT 412](https://apps.ualberta.ca/catalogue/course/cmput/412) (Mobile Robotics), [CMPUT 428](https://apps.ualberta.ca/catalogue/course/cmput/428) (Computer Vision), [CMPUT 411](https://apps.ualberta.ca/catalogue/course/cmput/411) (Graphics).
+
+---
+
+## Bioinformatics
+
+Listed on the department's [bioinformatics page](https://www.ualberta.ca/en/computing-science/research/research-areas/bioinformatics.html): [Guohui Lin](https://apps.ualberta.ca/directory/person/guohui) (algorithms for computational biology), [Russ Greiner](https://webdocs.cs.ualberta.ca/~rgreiner/) (medical ML), and [David Wishart](https://apps.ualberta.ca/directory/person/dwishart) (metabolomics; Biological Sciences).
+
+---
+
+## Where to look for openings
+
+- The department's [Student Research Opportunities](https://www.ualberta.ca/en/computing-science/research/student-research/index.html) board (often empty; most positions are never posted).
+- Faculty profiles: several above say outright that they take undergrads or link a "prospective students" page. Read it before emailing.
+- Many profiles list a [CMPUT 399 or 499](getting-into-research.md) individual-study section, which is how a lot of undergrad research starts.

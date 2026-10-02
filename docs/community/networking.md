@@ -1,243 +1,53 @@
-# Networking for UofA CS Students: A Non-Cringe Guide
+# Networking
 
-Networking gets a bad rap because most people do it wrong. They think it means showing up to events with a stack of business cards and trying to extract value from strangers. That's not networking. That's being a leech.
+Edmonton's tech scene is small enough that showing up twice gets you recognized. This page covers where to show up, how to message people, and the minimum profile setup so that when someone looks you up, there's something there.
 
-Real networking is building genuine relationships with people who share your interests and goals. Done right, it's not uncomfortable or manipulative. It's just meeting cool people who happen to work in tech.
+*Last verified: October 2026.*
 
----
+## Where to show up in Edmonton
 
-## The Real Goal
+Community meetups come and go; check the link before you go.
 
-You're not trying to get jobs through networking. You're trying to:
-- Learn what different roles and companies are actually like
-- Get honest advice from people who've been where you want to go
-- Build relationships that might lead to opportunities down the line
-- Stay informed about what's happening in the industry
+| Meetup | What it is | Link |
+|---|---|---|
+| **AI Tinkerers Edmonton** | Monthly-ish, demo-first evenings (live code, no vendor pitches) for people building with AI. Hosted at AltaML and Edmonton Unlimited; 11 events in the past year. | [edmonton.aitinkerers.org](https://edmonton.aitinkerers.org/) |
+| **Dev Edmonton JavaScript, Python & Ruby** | The old YEG JS, Python, and Ruby groups meeting together. Beginner-friendly. Edmonton Unlimited's Meetup group also runs a weekly online Dev Chat and Edmonton Tech Wednesdays. | [Edmonton Unlimited Meetup](https://www.meetup.com/edmontonunlimited/) |
+| **OWASP Edmonton** | Application security talks and socials; has held events at UofA, including a secure coding tournament in October 2025. | [Meetup](https://www.meetup.com/owasp-edmonton/) |
+| **DemoCamp Edmonton** | Volunteer-run since 2008: about ten minutes to demo a real, working product, no slides. Irregular schedule; the last confirmed one was DemoCamp 61 at Amii in October 2025. | [Eventbrite](https://www.eventbrite.ca/o/democamp-edmonton-56126644423) |
+| **Upper Bound** | Amii's annual AI conference. 2027: May 18-21, Edmonton Convention Centre. | [Amii](https://www.amii.ca/events/upper-bound-2027) |
 
-If you approach networking with genuine curiosity rather than desperation, everything gets easier.
+To find more, watch [Taproot Edmonton's tech roundup](https://edmonton.taproot.news/roundups/tech/2026/09/29) and [Edmonton Unlimited](https://edmontonunlimited.com/about-us/), the city's innovation agency (formerly Startup Edmonton / Innovate Edmonton; [rebrand](https://betakit.com/innovate-edmonton-rebrands-to-edmonton-unlimited/)). TEC Edmonton, which older advice still mentions, [shut down in 2021](https://betakit.com/tec-edmonton-to-cease-operations-on-june-30/).
 
----
+On campus, the [career fairs and club events](clubs-and-orgs.md#annual-events-calendar) are where recruiters come to you. For the companies themselves, see the [Edmonton tech scene](../career/edmonton-tech-scene.md).
 
-## LinkedIn Strategy (Actually Useful)
+## Cold outreach
 
-### Profile Optimization
-- **Headline**: Not just "CS Student at UofA". Try "CS Student | Interested in Backend Systems" or "Aspiring Software Engineer | AI/ML Focus"
-- **About section**: 2-3 sentences about what you're studying and what interests you. Skip the generic motivation quotes.
-- **Experience**: Include projects, internships, part-time work. Even non-tech jobs show work ethic.
-- **Skills**: Add relevant programming languages and technologies. Don't claim expertise you don't have.
+UofA CS alumni at companies you're interested in are the best people to message; search LinkedIn by school and company. Speakers from department and club events are a close second, since you have a shared reference point.
 
-### Connection Strategy
-- Connect with classmates, TAs, professors, guest speakers
-- When connecting with strangers, include a short note: "Hi [Name], I'm a CS student at UofA interested in [specific area]. I'd love to connect and learn more about your work at [Company]."
-- Alumni are gold. Search for UofA CS grads at companies you're interested in.
-
-### Content Strategy
-- Share interesting projects or things you're learning
-- Comment thoughtfully on posts (not just "Great post!")
-- Write occasional updates about milestones or interesting coursework
-- Don't oversell yourself, but don't undersell either
-
----
-
-## Local Tech Events in Edmonton
-
-### Regular Meetups
-These were active as of 2025-2026. Community meetups come and go, so check the link before you show up.
-- **DemoCamp Edmonton**: Volunteer-run showcase of local startups and tech projects. It runs a few times a year rather than on a fixed schedule; DemoCamp 61 was October 1, 2025 at Amii ([Taproot](https://edmonton.taproot.news/briefs/2025/10/01/happenings-oct-1-2025)). Watch its [Eventbrite page](https://www.eventbrite.ca/o/democamp-edmonton-56126644423).
-- **Dev Edmonton JavaScript, Python & Ruby Meetup**: The YEG JavaScript, Python, and Ruby groups now meet together, hosted through [Edmonton Unlimited's Meetup group](https://www.meetup.com/edmontonunlimited/). [Dev Edmonton Society](https://github.com/devedmonton) also runs a community Slack. Beginner-friendly.
-- **Edmonton Women in Machine Learning & Data Science**: Local [WiMLDS chapter](https://www.meetup.com/edmonton-women-in-machine-learning-and-data-science/), welcoming to everyone interested in ML and data science.
-- **AI Tinkerers Edmonton**: Hands-on AI builder meetup with live demos ([edmonton.aitinkerers.org](https://edmonton.aitinkerers.org/)).
-
-### Where to Find Events
-- **Meetup.com**: Most tech meetups are organized here
-- **Eventbrite** and **Luma**: Conferences and larger events
-- **[Edmonton Unlimited](https://edmontonunlimited.com/about-us/)**: The city's innovation agency (Innovate Edmonton and its Startup Edmonton division [rebranded](https://betakit.com/innovate-edmonton-rebrands-to-edmonton-unlimited/) as Edmonton Unlimited); hosts startup ecosystem events
-- **[Taproot Edmonton's tech roundup](https://edmonton.taproot.news/roundups/tech/2026/03/03)**: Regular local tech news and event listings
-
-### Conference Opportunities
-- **DemoCamp**: A few times a year
-- **Edmonton Unlimited events**: Often free or cheap for students
-- **[Upper Bound](https://www.amii.ca/events/upper-bound-2026)**: Amii's annual AI conference in Edmonton (May 19-22 in 2026); it sold out in 2026, so register early
-- **University guest lectures**: Pay attention to CS department speakers
-- **Industry conferences**: More expensive but worth it for serious networking
-
----
-
-## Cold Outreach That Actually Works
-
-### The Email Template
 ```
 Subject: UofA CS student interested in [specific thing about their work]
 
 Hi [Name],
 
-I'm a CS student at University of Alberta working on [specific project or studying specific area]. I came across your work on [specific thing - a project, article, or company initiative] and found [specific detail you found interesting].
+I'm a CS student at the University of Alberta working on [specific project or area].
+I came across your [project / talk / post] on [specific thing] and found [specific detail] interesting.
 
-I'm curious about [specific question about their work or career path]. Would you be open to a brief 15-minute call or coffee? I'm happy to work around your schedule.
+I'm curious about [one specific question about their work or path]. Would you be open
+to a 15-minute call or coffee? Happy to work around your schedule.
 
-Thanks for your time,
+Thanks,
 [Your name]
-[Your LinkedIn profile]
+[LinkedIn]
 ```
 
-### Key Points
-- Be specific about why you're reaching out
-- Show you've done research
-- Ask for a small time commitment
-- Make it easy to say yes
+What makes it work: one specific detail that proves you looked, one specific question, a small ask. What kills it: asking for a job or referral in the first message, or sending the same text to 50 people. Follow up once after a week; after that, let it go.
 
-### Who to Reach Out To
-- UofA CS alumni (check LinkedIn)
-- Speakers at CS department events
-- Engineers at companies you're interested in
-- People whose projects or articles you genuinely found interesting
+## Profile checklist
 
----
+Recruiters and people you message will look you up. Do this once, then keep it current:
 
-## Networking at Events
+- **GitHub:** pin your 4-6 best repos, each with a README saying what it is, the stack, how to run it, and a screenshot. An unexplained repo is worse than no repo.
+- **LinkedIn:** a headline more specific than "CS Student at UofA" (e.g. "CS @ UofA | Backend, distributed systems"), every internship, research, TA, and part-time job, and a link to your GitHub.
+- **Optional:** a one-page site. The [GitHub Student Developer Pack](https://education.github.com/pack) includes free domain offers; don't spend weeks on the site instead of projects.
 
-### Before the Event
-- Research who's speaking or attending
-- Prepare 2-3 questions about the topic or industry
-- Set a goal: "I want to have one good conversation with someone working in [area]"
-
-### During the Event
-- Arrive early or stay late: it's easier to talk to speakers
-- Ask genuine questions during Q&A
-- Introduce yourself to other students
-- Don't monopolize anyone's time
-- Focus on listening more than talking
-
-### After the Event
-- Follow up within 48 hours
-- Reference something specific from your conversation
-- Connect on LinkedIn with a personalized message
-
----
-
-## University-Specific Opportunities
-
-### Guest Speakers
-- CS department regularly brings in industry speakers
-- Ask thoughtful questions during talks
-- Approach speakers afterward
-- Follow up with LinkedIn connections
-
-### Career Fairs
-- Research companies beforehand
-- Prepare specific questions beyond "what do you do?"
-- Bring copies of your resume, but focus on conversation
-- Follow up with recruiters you spoke with
-
-### Professor Connections
-- Professors often have industry connections
-- Participate actively in class
-- Visit office hours for career advice, not just homework help
-- Many profs are happy to make introductions
-
-### Alumni Network
-- Use LinkedIn to find UofA CS alumni
-- Check the alumni directory if you have access
-- Many graduates are happy to help current students
-
----
-
-## Building Your Network While in School
-
-### Study Groups and Project Teams
-- Your classmates are your first network
-- Some will become lifelong professional connections
-- Collaborate genuinely, not just to network
-
-### Open Source Contributions
-- Contribute to projects used by companies you're interested in
-- Engage thoughtfully in GitHub discussions
-- Network effect: your code and comments are seen by maintainers and other contributors
-
-### Online Communities
-- Reddit: r/cscareerquestions, r/ExperiencedDevs
-- Discord servers for languages/frameworks you use
-- Hacker News discussions
-- Twitter/X for following industry leaders
-
----
-
-## Networking Anti-Patterns (Don't Do These)
-
-### The Transaction Approach
-- Don't only reach out when you need something
-- Don't ask for jobs in your first message
-- Don't immediately pitch yourself
-
-### The Spray and Pray
-- Don't send identical messages to 50 people
-- Don't connect without personalized messages
-- Don't add people just to hit connection numbers
-
-### The Over-Eager Student
-- Don't ask for "coffee to pick your brain" (everyone hates this phrase)
-- Don't expect busy people to mentor you immediately
-- Don't take non-responses personally
-
----
-
-## Maintaining Your Network
-
-### Stay in Touch
-- Share relevant articles or opportunities
-- Congratulate people on job changes or promotions
-- Send periodic updates on your own progress
-
-### Be Helpful
-- Share opportunities that might benefit your connections
-- Make introductions when appropriate
-- Offer your skills for small projects
-
-### Play the Long Game
-- Some connections won't pay off for years
-- Focus on building genuine relationships
-- Your classmates today might hire you in 5 years
-
----
-
-## Edmonton-Specific Tips
-
-### Local Advantages
-- Smaller tech community means it's easier to get noticed
-- People are generally friendly and approachable
-- Less competition for attention at events
-
-### Key People and Organizations
-- **Edmonton Unlimited**: The city's innovation agency and home of the former Startup Edmonton programs ([history](https://edmontonunlimited.com/about-us/history/)). (TEC Edmonton, the old UofA/city incubator, [ceased operations in June 2021](https://betakit.com/tec-edmonton-to-cease-operations-on-june-30/).)
-- **Alberta Innovates**: Provincial innovation agency
-- **Amii (Alberta Machine Intelligence Institute)**: AI/ML networking
-
-### University Connections
-- UofA has strong ties to local tech companies
-- Many local executives are UofA alumni
-- Professors often consult for local companies
-
----
-
-## Measuring Success
-
-Good networking isn't measured by:
-- Number of LinkedIn connections
-- Business cards collected
-- Jobs offered immediately
-
-It's measured by:
-- Quality conversations about the industry
-- Learning about different career paths
-- Building relationships that provide mutual value
-- Developing a reputation as someone worth knowing
-
----
-
-## The Bottom Line
-
-Networking isn't about using people. It's about building a community of professionals who know and support each other. If you focus on being genuinely interested in others and helpful when you can be, the career benefits will follow naturally.
-
-Start small. Connect with one person this week. Ask them about their work. Listen to their advice. Thank them for their time. Repeat.
-
-That's networking.
+For general networking and profile advice beyond this, any recent guide or a chatbot will do; nothing about it is UofA-specific.

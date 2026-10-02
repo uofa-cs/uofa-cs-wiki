@@ -1,89 +1,78 @@
 # UAlberta Computer Science Wiki
 
-**A practical, opinionated guide to pursuing CS at the University of Alberta — written by students, for students.**
+**What senior UofA CS students know that the calendar doesn't tell you. Written by students, for students.**
+
+The Academic Calendar tells you what's required. Reddit tells you what one person thought. AI chatbots give you advice that sounds right and is often wrong about UofA. This wiki is the in-between: UofA-specific, sourced where it states facts, and first-hand where it gives opinions.
+
+> **This wiki is being rebuilt.** The first version was largely AI-generated, and an audit in October 2026 found outdated and incorrect information. We're rebuilding it page by page with sourced facts and first-hand student experience. Always confirm requirements against the [Academic Calendar](https://calendar.ualberta.ca/) and the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput). See the [Roadmap](https://github.com/uofa-cs/uofa-cs-wiki/blob/main/ROADMAP.md) for the plan, and [report anything wrong](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=correction.yml).
 
 ---
 
-Welcome. This wiki exists because the official UofA resources tell you what courses to take, but not which ones are worth your time, what skills actually matter for landing a job, how to navigate the Edmonton tech scene, or what nobody tells you until it's too late.
+## Start Here
 
-This is not a replacement for the Academic Calendar or BearTracks. It's the guide you'd get if you sat down with a fourth-year CS student who's already done internships, figured out the degree requirements, and made the mistakes so you don't have to. It's opinionated on purpose. Where there's a clearly better choice, we'll tell you. Where things genuinely depend on your situation, we'll explain what they depend on.
+**Starting first year?** Read [First Year](docs/getting-started/first-year-guide.md) to choose between 174/175 and 274/275, then [Math and Stats](docs/getting-started/math-and-stats.md) to pick the right calculus and linear algebra.
 
-**Who it's for:** BSc CS students at the University of Alberta, from first-years trying to survive CMPUT 174 to fourth-years negotiating their first full-time offer. Regardless of which specialization you're in (or whether you're in one at all), the career advice, course guides, and skill-building resources here are written with you in mind.
+**Choosing a path?** [Program Overview](docs/getting-started/program-overview.md) explains the Major, Honors, and the AI and Software Practice options. [Degree Planning](docs/getting-started/degree-planning.md) has the prerequisite map and sample plans.
 
-**The philosophy:** Industry-focused, UofA-specific, and practical. We care about what helps you get a job, build something real, and grow as an engineer. We won't waste your time with generic advice you can find anywhere.
+**Registering for next term?** Check [Course Reviews](docs/courses/course-reviews.md) for what each course is really like.
 
-This wiki is **community-maintained**. It reflects the lived experiences of UofA CS students, and it gets better when more people contribute. See the [Contributing](#contributing) section below.
+**Looking for an internship?** Start with the [Science Internship Program](docs/career/science-internship-program.md), then [Internships](docs/career/internships.md) and the [Edmonton employer directory](docs/career/edmonton-tech-scene.md).
 
-> **This wiki is being rebuilt.** The first version of this wiki was largely AI-generated, and an audit in October 2026 found outdated and incorrect information. We're rebuilding it page by page with sourced facts and first-hand student experience. Always confirm requirements against the [Academic Calendar](https://calendar.ualberta.ca/) and the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput). See the [Roadmap](https://github.com/uofa-cs/uofa-cs-wiki/blob/main/ROADMAP.md) for the plan, and help us by [reporting anything wrong](https://github.com/uofa-cs/uofa-cs-wiki/issues).
+**Curious about research?** [Getting into Research](docs/research/getting-into-research.md) covers USRA and other funding; [Research Areas](docs/research/ualberta-labs.md) shows who works on what.
+
+**Need money?** [Scholarships and Awards](docs/resources/scholarships.md) lists the ones CS students actually get, with deadlines.
 
 ---
 
-## Table of Contents
+## All Pages
 
-### Getting Started
-- [Program Overview](docs/getting-started/program-overview.md) — The BSc CS Major, Honors, and their AI and Software Practice options: what the differences mean and which to pick
-- [Degree Planning](docs/getting-started/degree-planning.md) — Semester-by-semester planning, how to use BearTracks, common pitfalls to avoid
-- [First Year Guide](docs/getting-started/first-year-guide.md) — Choosing between 174/175 and 274/275, first-year math, and building good habits early
+### Program
+- [Program Overview](docs/getting-started/program-overview.md): Major, Honors, AI Option, Software Practice Option, and Minor, and which to pick
+- [First Year](docs/getting-started/first-year-guide.md): 174/175 vs 274/275, first-term course load, and where to get help
+- [Math and Stats](docs/getting-started/math-and-stats.md): which calculus, linear algebra, and stats courses each program requires
+- [Degree Planning](docs/getting-started/degree-planning.md): prerequisite map, sample plans, and choosing electives
 
 ### Courses
-- [Course Guide](docs/courses/course-guide.md) — An opinionated walkthrough of every major CMPUT course: what you'll learn, how hard it is, and whether it's worth it
-- [Course Reviews](docs/courses/course-reviews.md) — Student experiences with individual CMPUT courses: workload, difficulty, and tips
-- [Elective Strategy](docs/courses/elective-strategy.md) — How to pick technical and non-technical electives strategically for your goals
-- [Hidden Gems](docs/courses/hidden-gems.md) — Underrated courses that more students should know about
+- [Course Reviews](docs/courses/course-reviews.md): student experiences with individual CMPUT courses
+- [Course Guide](docs/courses/course-guide.md): an overview of the CMPUT course catalogue
+- [Hidden Gems](docs/courses/hidden-gems.md): underrated courses worth a look
 
 ### Skills
-- [What to Learn](docs/skills/what-to-learn.md) — The gap between what UofA teaches and what industry expects (Docker, CI/CD, cloud, testing, and more)
-- [Programming Languages](docs/skills/programming-languages.md) — What UofA teaches vs. what industry uses, and what to pick up on your own
-- [Tools and Setup](docs/skills/tools-and-setup.md) — Git, Linux, VS Code, terminal setup, dotfiles, and how to build good habits early
-- [System Design](docs/skills/system-design.md) — An intro to distributed systems concepts that will come up in interviews and on the job
-- [Side Projects](docs/skills/side-projects.md) — What to build, how to scope projects for your skill level, and how to make them stand out to recruiters
+- [Curriculum Map](docs/skills/curriculum-map.md): what each course teaches, in which language, and what no course covers
+- [Dev Setup](docs/skills/tools-and-setup.md): lab machines, SSH, and free student software
+- [Resources by Course](docs/resources/learning-resources.md): the books and sites that pair with each course
+- [Side Projects](docs/skills/side-projects.md): what to build and how to make it count
 
 ### Career
-- [Internships](docs/career/internships.md) — When and how to apply, which Edmonton companies hire students, remote options, and what to expect
-- [Resume Guide](docs/career/resume-guide.md) — CS-specific resume advice: what to include, what to cut, and how to pass the recruiter screen
-- [Interview Prep](docs/career/interview-prep.md) — LeetCode strategy, behavioral interview frameworks, and how system design interviews actually work
-- [New Grad](docs/career/new-grad.md) — Landing your first full-time role, understanding your offer, and negotiating salary
-- [Career Paths](docs/career/career-paths.md) — Backend, ML/AI, DevOps, security, game dev, and more: what each path looks like and how to get there
-- [Edmonton Tech Scene](docs/career/edmonton-tech-scene.md) — Companies, realistic salary ranges, why Edmonton is more underrated than you think
+- [Science Internship Program](docs/career/science-internship-program.md): UofA's co-op route, from eligibility to fees
+- [Internships](docs/career/internships.md): when and how to apply
+- [Edmonton Employers](docs/career/edmonton-tech-scene.md): who hires CS students locally, and pay and rent data
+- [Interview Prep](docs/career/interview-prep.md), [Resume Guide](docs/career/resume-guide.md), [New Grad](docs/career/new-grad.md), [Career Paths](docs/career/career-paths.md)
 
 ### Research
-- [Getting into Research](docs/research/getting-into-research.md) — NSERC USRA, how to approach professors, what research actually looks like day-to-day
-- [Grad School](docs/research/grad-school.md) — MSc vs. PhD, whether it's worth it, and how to decide
-- [UAlberta Labs](docs/research/ualberta-labs.md) — RLAI, Amii, and the other research groups worth knowing about
+- [Getting into Research](docs/research/getting-into-research.md): USRA, URI, emailing professors
+- [Research Areas](docs/research/ualberta-labs.md): groups and faculty by area
+- [Grad School](docs/research/grad-school.md): whether it's worth it and how funding works
 
 ### Community
-- [Clubs and Organizations](docs/community/clubs-and-orgs.md) — UACS, competitive programming, UAIS, HackED, and how to get involved
-- [Networking](docs/community/networking.md) — LinkedIn, Edmonton meetups, cold outreach that doesn't feel gross, and why it matters more than you think
-- [Online Presence](docs/community/online-presence.md) — GitHub, LinkedIn, personal websites, blogging, and building a presence that gets you noticed
+- [Clubs and Events](docs/community/clubs-and-orgs.md): UACS, UAPSPC, UAIS, and more, plus the yearly events calendar
+- [Networking](docs/community/networking.md): Edmonton meetups and cold outreach that works
 
-### Resources
-- [Learning Resources](docs/resources/learning-resources.md) — Books, online courses, YouTube channels, and practice platforms worth your time
-- [Scholarships](docs/resources/scholarships.md) — Jason Lang, Louise McKinney, NSERC USRA, and other funding opportunities UofA CS students can access
-- [FAQ](docs/resources/faq.md) — Honest answers to the questions students ask most often
+### Money
+- [Scholarships and Awards](docs/resources/scholarships.md): Awards Hub, Jason Lang, Louise McKinney, and research funding
 
----
-
-## Quick Start
-
-Not sure where to begin? Start here based on where you are right now:
-
-- **If you're a first-year student:** Start with [First Year Guide](docs/getting-started/first-year-guide.md), then read [Program Overview](docs/getting-started/program-overview.md) when you're ready to think about specializations.
-- **If you're figuring out your degree plan:** Read [Program Overview](docs/getting-started/program-overview.md) and [Degree Planning](docs/getting-started/degree-planning.md) together, then look at the [Course Guide](docs/courses/course-guide.md) for courses coming up in your next semester.
-- **If you're looking for your first internship:** Go straight to [Internships](docs/career/internships.md) and [Resume Guide](docs/career/resume-guide.md). Then come back to [Interview Prep](docs/career/interview-prep.md) once you have applications out.
-- **If you want to build skills beyond coursework:** Start with [What to Learn](docs/skills/what-to-learn.md) to understand the gap, then read [Side Projects](docs/skills/side-projects.md) for what to actually build.
-- **If you're considering research:** Read [Getting into Research](docs/research/getting-into-research.md) for a realistic picture, and [UAlberta Labs](docs/research/ualberta-labs.md) to understand what groups exist.
-- **If you're thinking about grad school:** Read [Grad School](docs/research/grad-school.md) first. It will help you figure out whether it's the right move before you commit.
+### [FAQ](docs/resources/faq.md)
 
 ---
 
 ## Contributing
 
-This wiki is community-maintained. It is only as good as the students who contribute to it, and there is always more to add — a company that opened in Edmonton, a course that changed its format, an internship experience that other students would benefit from hearing about.
+This wiki is only as good as what students put into it. The most valuable contributions are first-hand: a course you just finished, an internship you just did, a fact you know is out of date. You don't need git:
 
-If you spot something outdated, want to add a section, or just fixed a typo: contributions are welcome and appreciated. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on tone, structure, and how to open a pull request.
+- [Review a course](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=course-review.yml)
+- [Write up an internship](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=internship-writeup.yml)
+- [Report a correction](https://github.com/uofa-cs/uofa-cs-wiki/issues/new?template=correction.yml)
 
-The short version: fork the repo, make your changes in a branch, and open a PR with a clear title describing what you changed. Keep PRs focused. Be opinionated but fair.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the sourcing rules and how to edit pages directly.
 
----
-
-*Built by UofA CS students, for UofA CS students. Not affiliated with or endorsed by the University of Alberta.*
+*Not affiliated with or endorsed by the University of Alberta.*
