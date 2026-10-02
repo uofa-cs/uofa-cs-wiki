@@ -79,6 +79,6 @@ Course-by-course reading lists are on [Learning Resources](../resources/learning
 
 ## AI Coding Agents
 
-AI coding agents are now standard in industry, and course policies vary: 301's Fall 2026 outline allows them but requires you to cite and disclose their use ([outline](https://ualberta-cmput301.github.io/general/outline.html)). A page on learning well with them, written from student experience, is coming; if you have something to share, [open an issue](https://github.com/uofa-cs/uofa-cs-wiki/issues).
+AI coding agents are now standard in industry, and course policies vary: 301's Fall 2026 outline allows them but requires you to cite and disclose their use ([outline](https://ualberta-cmput301.github.io/general/outline.html)). See [Learning and Working With AI](learning-with-ai.md) for UofA's rules, what each course allows, and why it matters for in-person assessments.
 
 *Last verified: October 2026.*
