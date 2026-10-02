@@ -66,41 +66,59 @@ Body sections: What it covers, Workload and assessment, Tips (signed with term),
 
 ## Phases
 
-### Phase 0: Damage control
-- [ ] Remove the professor guide and all "avoid" lists / "worst prof" columns
-- [ ] Fix confirmed false claims (degree structure, SIP/co-op, tax, Benevity, SkipTheDishes, TEC Edmonton, invented labs, scholarships, and clubs)
-- [ ] Add a "being rebuilt" notice
+Status as of October 2026. PRs are stacked and should be merged in order (see "Merge order" below).
 
-### Phase 1: Foundations
-- [ ] New directory structure and page templates
-- [ ] Rewrite CONTRIBUTING around sourcing and the course/internship templates
-- [ ] Issue and PR templates
-- [ ] Directory-based navigation in `wiki-tooling` so new pages don't need a second PR
+### Phase 0: Damage control (#22)
+- [x] Remove the professor guide and all "avoid" lists / "worst prof" columns
+- [x] Fix confirmed false claims (degree structure, SIP/co-op, tax, Benevity, SkipTheDishes, TEC Edmonton, invented labs, scholarships, and clubs)
+- [x] Add a "being rebuilt" notice
 
-### Phase 2: Official-fact pages (rebuilt with sources)
-- [ ] Program requirements, prerequisite map, sample plans, first year
-- [ ] SIP / co-op
-- [ ] Scholarships and research funding
-- [ ] Research areas and faculty
-- [ ] Clubs and events
-- [ ] Dev setup and curriculum coverage map
-- [ ] Edmonton employer directory
+### Phase 1: Foundations (#23, wiki-tooling#1, wiki-tooling#2)
+- [x] Rewrite CONTRIBUTING around sourcing and the course/internship templates
+- [x] Issue forms (course review, internship write-up, correction) and PR template
+- [x] Navigation lives in this repo (`nav.yml`), so new pages need one PR
+- [x] Strict build check on every PR; MkDocs pinned below 2.0
 
-### Phase 3: Course pages
-- [ ] Seed a page per course from the catalogue
-- [ ] Migrate existing student reviews into course pages
+### Phase 2: Official-fact pages (#24, wiki-tooling#3)
+- [x] Program requirements, prerequisite maps, sample plans, first year, math and stats
+- [x] Science Internship Program guide
+- [x] Scholarships and research funding
+- [x] Research areas and faculty
+- [x] Clubs directory and events calendar
+- [x] Curriculum map and dev setup
+- [x] Edmonton employer directory
+- [x] FAQ rewritten as short linked answers
+
+### Phase 3: Course pages (#25, wiki-tooling#4)
+- [x] A page for every CMPUT course offered since Fall 2024, with facts synced from the catalogue
+- [x] Existing student reviews migrated and fact-checked
+- [x] Generated course index
 - [ ] Recruit an owner per area (math has a volunteer in #12)
+- [ ] Reviews for the ~40 courses that have none (the index has a "needs reviews" filter)
 
-### Phase 4: First-hand content
-- [ ] Internship write-ups (#7)
-- [ ] Pay survey
-- [ ] Interviews, the market, and AI in 2026
+### Phase 4: First-hand content (#26)
+- [x] Internships hub and a home for write-ups
+- [x] Learning and Working With AI (policy and course rules; student section open)
+- [x] Interviews and the 2025-26 market, sourced
+- [ ] Internship write-ups (#7): needs students
+- [ ] Pay survey: needs an anonymous collection tool
+- [ ] Student perspectives on AI in courses
 - [ ] Partner with UACS for reach
 
-### Phase 5: Polish
-- [ ] Course catalogue view (#8) and better search (#10)
-- [ ] Link checking, frontmatter validation, and staleness CI
-- [ ] Scheduled freshness audits
+### Phase 5: Polish (#27, wiki-tooling#5)
+- [x] Sortable tables and a filterable course index (#8)
+- [x] Weekly catalogue sync PRs, link checking, and staleness report
+- [ ] Better search (#10): Material's built-in search can't match phrases; Pagefind is the likely replacement
+
+### Merge order
+
+1. wiki-tooling#1, then #22 (Phase 0)
+2. #23 (Phase 1), then wiki-tooling#2
+3. #24 (Phase 2), then wiki-tooling#3
+4. #25 (Phase 3), then wiki-tooling#4
+5. #26 (Phase 4), #27 (Phase 5), then wiki-tooling#5
+
+Before merging #27, enable "Allow GitHub Actions to create and approve pull requests" in this repo's Actions settings.
 
 ## Decisions
 
