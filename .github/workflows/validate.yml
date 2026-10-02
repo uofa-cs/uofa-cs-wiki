@@ -25,7 +25,8 @@ jobs:
           cache: pip
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        # [imaging] is needed by the social-card plugin.
+        run: pip install -r requirements.txt "mkdocs-material[imaging]"
 
       # --strict fails the build on broken internal links, missing anchors,
       # and pages that aren't in nav.yml.
