@@ -9,9 +9,72 @@ nav:
     - Math and Stats: docs/getting-started/math-and-stats.md
     - Degree Planning: docs/getting-started/degree-planning.md
   - Courses:
-    - Course Reviews: docs/courses/course-reviews.md
-    - Course Guide: docs/courses/course-guide.md
-    - Hidden Gems: docs/courses/hidden-gems.md
+    - All Courses: docs/courses/index.md
+    - 100-level:
+      - "CMPUT 101: Introduction to Computing": docs/courses/cmput-101.md
+      - "CMPUT 174: Introduction to the Foundations of Computation I": docs/courses/cmput-174.md
+      - "CMPUT 175: Introduction to the Foundations of Computation II": docs/courses/cmput-175.md
+      - "CMPUT 191: Introduction to Data Science": docs/courses/cmput-191.md
+      - "CMPUT 195: Introduction to Principles and Techniques of Data Science": docs/courses/cmput-195.md
+    - 200-level:
+      - "CMPUT 200: Responsible Data Science and Artificial Intelligence": docs/courses/cmput-200.md
+      - "CMPUT 201: Practical Programming Methodology": docs/courses/cmput-201.md
+      - "CMPUT 204: Algorithms I": docs/courses/cmput-204.md
+      - "CMPUT 206: Introduction to Digital Image Processing": docs/courses/cmput-206.md
+      - "CMPUT 229: Computer Organization and Architecture I": docs/courses/cmput-229.md
+      - "CMPUT 250: Computers and Games": docs/courses/cmput-250.md
+      - "CMPUT 256: Game Artificial Intelligence": docs/courses/cmput-256.md
+      - "CMPUT 261: Introduction to Artificial Intelligence": docs/courses/cmput-261.md
+      - "CMPUT 267: Machine Learning I": docs/courses/cmput-267.md
+      - "CMPUT 272: Formal Systems and Logic in Computing Science": docs/courses/cmput-272.md
+      - "CMPUT 274: Accelerated Introduction to the Foundations of Computation I": docs/courses/cmput-274.md
+      - "CMPUT 275: Accelerated Introduction to the Foundations of Computation II": docs/courses/cmput-275.md
+      - "CMPUT 291: Introduction to File and Database Management": docs/courses/cmput-291.md
+    - 300-level:
+      - "CMPUT 300: Computers and Society": docs/courses/cmput-300.md
+      - "CMPUT 301: Introduction to Software Engineering": docs/courses/cmput-301.md
+      - "CMPUT 302: Introduction to Human Computer Interaction": docs/courses/cmput-302.md
+      - "CMPUT 303: Algorithmics in Practice": docs/courses/cmput-303.md
+      - "CMPUT 304: Algorithms II": docs/courses/cmput-304.md
+      - "CMPUT 307: 3D Modeling and Animation": docs/courses/cmput-307.md
+      - "CMPUT 312: Introduction to Robotics and Mechatronics": docs/courses/cmput-312.md
+      - "CMPUT 313: Computer Networks": docs/courses/cmput-313.md
+      - "CMPUT 325: Non-Procedural Programming Languages": docs/courses/cmput-325.md
+      - "CMPUT 328: Visual Recognition": docs/courses/cmput-328.md
+      - "CMPUT 331: Computational Cryptography": docs/courses/cmput-331.md
+      - "CMPUT 333: Security in a Networked World": docs/courses/cmput-333.md
+      - "CMPUT 340: Introduction to Numerical Methods": docs/courses/cmput-340.md
+      - "CMPUT 350: Advanced Games Programming": docs/courses/cmput-350.md
+      - "CMPUT 355: Games, Puzzles, Algorithms": docs/courses/cmput-355.md
+      - "CMPUT 361: Introduction to Information Retrieval": docs/courses/cmput-361.md
+      - "CMPUT 365: Introduction to Reinforcement Learning": docs/courses/cmput-365.md
+      - "CMPUT 366: Search and Planning in Artificial Intelligence": docs/courses/cmput-366.md
+      - "CMPUT 379: Operating System Concepts": docs/courses/cmput-379.md
+      - "CMPUT 382: Introduction to GPU Programming": docs/courses/cmput-382.md
+      - "CMPUT 393: Scalable Data-Intensive Analytics": docs/courses/cmput-393.md
+      - "CMPUT 399: Topics in Computing Science": docs/courses/cmput-399.md
+    - 400-level:
+      - "CMPUT 401: Software Process and Product Management": docs/courses/cmput-401.md
+      - "CMPUT 402: Software Quality": docs/courses/cmput-402.md
+      - "CMPUT 403: Algorithmics in Competitive Programming": docs/courses/cmput-403.md
+      - "CMPUT 404: Web Applications and Architecture": docs/courses/cmput-404.md
+      - "CMPUT 411: Introduction to Computer Graphics": docs/courses/cmput-411.md
+      - "CMPUT 412: Experimental Mobile Robotics": docs/courses/cmput-412.md
+      - "CMPUT 414: Introduction to Multimedia Technology": docs/courses/cmput-414.md
+      - "CMPUT 415: Compiler Design": docs/courses/cmput-415.md
+      - "CMPUT 416: Foundations of Program Analysis": docs/courses/cmput-416.md
+      - "CMPUT 428: Computer Vision": docs/courses/cmput-428.md
+      - "CMPUT 429: Computer Systems and Architecture": docs/courses/cmput-429.md
+      - "CMPUT 455: Search, Knowledge and Simulation": docs/courses/cmput-455.md
+      - "CMPUT 461: Introduction to Natural Language Processing": docs/courses/cmput-461.md
+      - "CMPUT 463: Probabilistic Graphical Models": docs/courses/cmput-463.md
+      - "CMPUT 466: Machine Learning Essentials": docs/courses/cmput-466.md
+      - "CMPUT 467: Machine Learning II": docs/courses/cmput-467.md
+      - "CMPUT 469: Artificial Intelligence Capstone": docs/courses/cmput-469.md
+      - "CMPUT 474: Formal Languages, Automata, and Computability": docs/courses/cmput-474.md
+      - "CMPUT 481: Parallel and Distributed Systems": docs/courses/cmput-481.md
+      - "CMPUT 495: Honors Seminar": docs/courses/cmput-495.md
+      - "CMPUT 499: Topics in Computing Science": docs/courses/cmput-499.md
   - Skills:
     - Curriculum Map: docs/skills/curriculum-map.md
     - Dev Setup: docs/skills/tools-and-setup.md

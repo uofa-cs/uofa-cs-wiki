@@ -44,7 +44,7 @@ For a Major, the usual combo is MATH 144 → 146, MATH 125, and STAT 151, with C
 
 ### Which courses matter most for getting a job?
 
-204 is the algorithms course behind interview-style problems, and 303/403 are contest-style problem solving on Kattis. 301 (Java/Android team project), 401 (group project), and 404 (web apps) are the most industry-shaped. Check the [Curriculum Map](../skills/curriculum-map.md) for what each covers and what the degree doesn't teach at all (frontend frameworks, cloud, system design), and [Course Reviews](../courses/course-reviews.md) for how they actually run.
+204 is the algorithms course behind interview-style problems, and 303/403 are contest-style problem solving on Kattis. 301 (Java/Android team project), 401 (group project), and 404 (web apps) are the most industry-shaped. Check the [Curriculum Map](../skills/curriculum-map.md) for what each covers and what the degree doesn't teach at all (frontend frameworks, cloud, system design), and [course pages](../courses/index.md) for how they actually run.
 
 ### What languages will I learn?
 

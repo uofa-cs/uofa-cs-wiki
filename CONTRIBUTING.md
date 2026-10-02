@@ -33,7 +33,7 @@ Every page on the site has an edit button that opens the file on GitHub. Make yo
 For bigger changes:
 
 1. Fork the repository and create a branch with a descriptive name (`update-cmput-379-review`, `add-jobber-internship`).
-2. Make your changes. For new pages, start from a template in [`templates/`](https://github.com/uofa-cs/uofa-cs-wiki/tree/main/templates).
+2. Make your changes. For new pages, start from a template in [`templates/`](https://github.com/uofa-cs/uofa-cs-wiki/tree/main/templates). **Course pages already exist** for every recently offered CMPUT course (`docs/courses/cmput-NNN.md`): add to the "What Students Say" section, and leave the catalogue fields in the frontmatter alone, since a script keeps them in sync with the official catalogue.
 3. Open a pull request against `main`. The checklist in the PR description will remind you of the essentials.
 
 For entirely new pages or structural changes, open an issue first so we can agree on scope before you put in the work.
@@ -103,7 +103,7 @@ AI tools are fine for checking grammar, restructuring a draft, or formatting a t
 - **Navigation:** add new pages to [`nav.yml`](https://github.com/uofa-cs/uofa-cs-wiki/blob/main/nav.yml) and to the table of contents in `README.md`.
 - **Headings:** one H1 (`#`) per page for the title, H2 for sections, H3 for subsections.
 - **File names:** lowercase with hyphens (`edmonton-tech-scene.md`).
-- **Links:** relative links between wiki pages (`../courses/course-reviews.md`), full URLs for everything else.
+- **Links:** relative links between wiki pages (`../courses/cmput-201.md`), full URLs for everything else.
 - **Punctuation:** avoid em dashes; use a colon, semicolon, comma, or parentheses instead.
 
 Every pull request is built automatically. If the build fails, it's usually a broken link; the check's log will name the file.

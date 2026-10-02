@@ -14,7 +14,7 @@ The Academic Calendar tells you what's required. Reddit tells you what one perso
 
 **Choosing a path?** [Program Overview](docs/getting-started/program-overview.md) explains the Major, Honors, and the AI and Software Practice options. [Degree Planning](docs/getting-started/degree-planning.md) has the prerequisite map and sample plans.
 
-**Registering for next term?** Check [Course Reviews](docs/courses/course-reviews.md) for what each course is really like.
+**Registering for next term?** Every CMPUT course has a [page](docs/courses/index.md) with prerequisites, when it runs, and what students say about it.
 
 **Looking for an internship?** Start with the [Science Internship Program](docs/career/science-internship-program.md), then [Internships](docs/career/internships.md) and the [Edmonton employer directory](docs/career/edmonton-tech-scene.md).
 
@@ -33,9 +33,7 @@ The Academic Calendar tells you what's required. Reddit tells you what one perso
 - [Degree Planning](docs/getting-started/degree-planning.md): prerequisite map, sample plans, and choosing electives
 
 ### Courses
-- [Course Reviews](docs/courses/course-reviews.md): student experiences with individual CMPUT courses
-- [Course Guide](docs/courses/course-guide.md): an overview of the CMPUT course catalogue
-- [Hidden Gems](docs/courses/hidden-gems.md): underrated courses worth a look
+- [All Courses](docs/courses/index.md): a page for every CMPUT course offered since Fall 2024, with student reviews
 
 ### Skills
 - [Curriculum Map](docs/skills/curriculum-map.md): what each course teaches, in which language, and what no course covers
