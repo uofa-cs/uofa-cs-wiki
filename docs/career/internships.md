@@ -86,22 +86,7 @@ Possible, but check the fine print. As a Canadian student, you generally need to
 
 ## The Science Internship Program (SIP)
 
-The **[Science Internship Program (SIP)](https://www.ualberta.ca/en/experiential-learning/opportunities/science-internship-program.html)** is UofA's optional internship (co-op style) route for Faculty of Science students, including CS. There is no separate CS co-op program; SIP is it.
-
-**What SIP actually is** (per the [SIP requirements page](https://www.ualberta.ca/en/science/student-services/internship-careers/student-interns/sip-program-requirements.html)):
-- Full-time, paid work terms of 4, 8, 12, or 16 months
-- You need at least 24 units completed to apply, at least 48 units to go on a placement, and no more than 105 units when the placement starts (you must come back to finish your degree)
-- You register in WKEXP work experience courses while on placement, and those courses carry fees
-- Work terms are pass/fail and don't count toward your degree units
-- Completing 8+ months earns an internship designation on your transcript and parchment
-- UofA itself notes it "might add a year to a 4-year science degree"
-
-**Tradeoffs to weigh:**
-- You pay WKEXP fees, and a placement that runs through fall/winter pushes back your graduation
-- In exchange you get a longer placement than a summer internship, the transcript designation, and the support of the SIP office during your search
-- Nothing stops you from also applying to summer internships independently. Many students do both.
-
-**The alternative:** Find summer internships independently. It's more work upfront, but there are no program fees and your degree timeline doesn't extend.
+The [Science Internship Program (SIP)](./science-internship-program.md) is UofA's co-op style route for Science students, including CS: a paid, full-time placement of 4 to 16 months, with a "with internship" designation on your transcript at 8+ months. You pay WKEXP fees while you're out and it may add a year to your degree, and it's mandatory for the Software Practice Option. See the [SIP guide](./science-internship-program.md) for eligibility, deadlines, fees, and how it compares to finding a summer internship yourself.
 
 ---
 

@@ -3,38 +3,36 @@
 # only needs a PR here. Paths are relative to the root of this repository.
 nav:
   - Home: README.md
-  - Getting Started:
+  - Program:
     - Program Overview: docs/getting-started/program-overview.md
+    - First Year: docs/getting-started/first-year-guide.md
+    - Math and Stats: docs/getting-started/math-and-stats.md
     - Degree Planning: docs/getting-started/degree-planning.md
-    - First Year Guide: docs/getting-started/first-year-guide.md
   - Courses:
-    - Course Guide: docs/courses/course-guide.md
     - Course Reviews: docs/courses/course-reviews.md
-    - Elective Strategy: docs/courses/elective-strategy.md
+    - Course Guide: docs/courses/course-guide.md
     - Hidden Gems: docs/courses/hidden-gems.md
   - Skills:
-    - What to Learn: docs/skills/what-to-learn.md
-    - Programming Languages: docs/skills/programming-languages.md
-    - Tools and Setup: docs/skills/tools-and-setup.md
-    - System Design: docs/skills/system-design.md
+    - Curriculum Map: docs/skills/curriculum-map.md
+    - Dev Setup: docs/skills/tools-and-setup.md
+    - Resources by Course: docs/resources/learning-resources.md
     - Side Projects: docs/skills/side-projects.md
   - Career:
+    - Science Internship Program: docs/career/science-internship-program.md
     - Internships: docs/career/internships.md
-    - Resume Guide: docs/career/resume-guide.md
+    - Edmonton Employers: docs/career/edmonton-tech-scene.md
     - Interview Prep: docs/career/interview-prep.md
+    - Resume Guide: docs/career/resume-guide.md
     - New Grad: docs/career/new-grad.md
     - Career Paths: docs/career/career-paths.md
-    - Edmonton Tech Scene: docs/career/edmonton-tech-scene.md
   - Research:
     - Getting into Research: docs/research/getting-into-research.md
+    - Research Areas: docs/research/ualberta-labs.md
     - Grad School: docs/research/grad-school.md
-    - UAlberta Labs: docs/research/ualberta-labs.md
   - Community:
-    - Clubs and Organizations: docs/community/clubs-and-orgs.md
+    - Clubs and Events: docs/community/clubs-and-orgs.md
     - Networking: docs/community/networking.md
-    - Online Presence: docs/community/online-presence.md
-  - Resources:
-    - Learning Resources: docs/resources/learning-resources.md
-    - Scholarships: docs/resources/scholarships.md
-    - FAQ: docs/resources/faq.md
+  - Money:
+    - Scholarships and Awards: docs/resources/scholarships.md
+  - FAQ: docs/resources/faq.md
   - Contributing: CONTRIBUTING.md
