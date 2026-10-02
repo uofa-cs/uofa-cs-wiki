@@ -1,0 +1,111 @@
+name: Freshness
+on:
+  schedule:
+    - cron: "0 14 * * 1" # Mondays, 8am Edmonton
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  catalogue:
+    name: Sync course facts from the catalogue
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: wiki-content
+      - uses: actions/checkout@v4
+        with:
+          repository: uofa-cs/wiki-tooling
+          path: tooling
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+
+      # Creates pages for newly offered courses and refreshes catalogue
+      # fields (never the body) on existing ones.
+      - name: Sync course pages
+        run: |
+          python tooling/scripts/catalogue.py seed wiki-content/docs/courses
+          python tooling/scripts/catalogue.py nav wiki-content/docs/courses --update wiki-content/nav.yml
+
+      - name: Open a pull request if anything changed
+        uses: peter-evans/create-pull-request@v7
+        with:
+          path: wiki-content
+          branch: automation/catalogue-sync
+          commit-message: Sync course facts from the catalogue
+          title: Sync course facts from the catalogue
+          body: |
+            The weekly catalogue sync found changes to course titles, prerequisites, offerings, or new courses.
+            Only catalogue-owned frontmatter fields and the Courses section of `nav.yml` are changed.
+            Review new course pages before merging.
+          labels: automation
+
+  links-and-staleness:
+    name: Check links and stale pages
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: wiki-content
+      - uses: actions/checkout@v4
+        with:
+          repository: uofa-cs/wiki-tooling
+          path: tooling
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check external links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress --max-concurrency 4 --accept 200,206,429
+            --exclude-path wiki-content/templates
+            'wiki-content/**/*.md'
+          output: report.md
+          fail: false
+
+      - name: Find pages that need re-verifying
+        id: stale
+        run: |
+          {
+            echo "## Pages to re-verify"
+            echo
+            python tooling/scripts/staleness.py wiki-content --months 12 || echo "STALE=1" >> "$GITHUB_ENV"
+          } > stale.md
+
+      - name: Write the issue body
+        run: |
+          {
+            cat stale.md
+            echo
+            echo "## Broken links"
+            echo
+            cat report.md
+          } > issue.md
+
+      # Reuse one open issue rather than filing a new one every week.
+      - name: Find an open freshness issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          number=$(gh issue list --repo "$GITHUB_REPOSITORY" --label automation --state open \
+            --search "Freshness report in:title" --json number --jq '.[0].number // empty')
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update the freshness issue
+        if: steps.lychee.outputs.exit_code != 0 || env.STALE == '1'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Freshness report: broken links and pages to re-verify"
+          content-filepath: issue.md
+          issue-number: ${{ steps.existing.outputs.number }}
+          labels: correction, automation
