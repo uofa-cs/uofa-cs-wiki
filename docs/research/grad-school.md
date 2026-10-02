@@ -64,53 +64,45 @@ UofA is not MIT. Be clear-eyed about that. But it has genuine world-class streng
 
 **Reinforcement Learning: Genuinely World-Class**
 
-The Reinforcement Learning and Artificial Intelligence (RLAI) lab is, arguably, the best place in the world to study reinforcement learning. Rich Sutton co-wrote *Reinforcement Learning: An Introduction*, the textbook used in RL courses everywhere, available free online. Michael Bowling, Martha White, Adam White, Csaba Szepesvári are globally recognized researchers. DeepMind has deep ties to this lab; ideas from RLAI influenced AlphaGo and subsequent work. If you want to do RL research, Edmonton is the right city.
+The Reinforcement Learning and Artificial Intelligence (RLAI) lab is, arguably, the best place in the world to study reinforcement learning. Rich Sutton co-wrote *Reinforcement Learning: An Introduction*, the textbook used in RL courses everywhere, available free online, and shared the [2024 ACM Turing Award](https://awards.acm.org/xpages/turing/index) with Andrew Barto for the foundations of RL. Michael Bowling, Martha White, Adam White, Csaba Szepesvári are globally recognized researchers. DeepMind has deep ties to this lab; ideas from RLAI influenced AlphaGo and subsequent work (though DeepMind's Edmonton office [closed in January 2023](https://www.ctvnews.ca/edmonton/article/alphabet-to-close-edmonton-office-of-ai-subsidiary-deepmind/)). If you want to do RL research, Edmonton is the right city.
 
 **Amii: Well-Resourced AI Ecosystem**
 
 Alberta Machine Intelligence Institute (Amii) is UofA's hub in the Pan-Canadian AI Strategy (alongside Vector Institute in Toronto and MILA in Montreal). This means funding, industry connections, and a serious research ecosystem around ML. Grad students here have access to resources that many other Canadian universities don't.
 
-**The Hinton Network**
-
-Geoffrey Hinton (Turing Award winner, father of deep learning) was a long-time collaborator with UofA researchers. This creates a network of connections to Toronto, Google, and the broader deep learning community. It's not just a name-drop; it means real academic relationships and collaboration opportunities.
-
-**Databases: M. Tamer Özsu**
-
-Tamer Özsu is a legend in database systems, particularly distributed databases and NoSQL. If you're interested in data systems research, he's one of the best supervisors in Canada.
-
-**Other solid areas:** networks, operating systems, HCI, NLP (growing). These aren't RLAI-level famous but they're legitimate research groups with opportunities for graduate students.
+**Other solid areas:** databases, networks, operating systems, HCI, NLP (growing). These aren't RLAI-level famous but they're legitimate research groups with opportunities for graduate students.
 
 ---
 
 ## The Application Process
 
-**GPA:** 3.5+ is where you become competitive. 3.7+ makes you a strong applicant. Below 3.3, you'll need exceptional research experience to compensate.
+**GPA:** UofA CS says a 3.0 GPA is typically the minimum for MSc or PhD admission ([CS grad FAQ](https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html)). That's a floor, not a target: funded spots are competitive, and research experience and letters carry a lot of weight.
 
 **Research Experience:** This is the most important factor after GPA. A thesis-based MSc or PhD requires you to demonstrate you can do research, not just take courses. NSERC USRA or significant volunteer RA experience is what makes your application credible. Letters from professors who supervised your actual research (not just course instructors) are worth far more than letters from professors whose courses you aced.
 
-**GRE:** UofA CS does not require the GRE. Verify this each year as policies change, but as of recent cycles it has not been required.
+**GRE:** UofA CS does not require the GRE, though it recommends the GRE General for applicants whose degree is from outside Canada ([CS grad FAQ](https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html)). Verify this each year as policies change.
 
 **Statement of Purpose:** This is the most important document in your application after your transcript. Be specific. Name the professors you want to work with and explain why. Not just "I'm interested in machine learning" but "I want to work on continual learning because I think the stability-plasticity dilemma hasn't been adequately addressed in the online RL setting, and Dr. White's work on this is the most promising direction I've seen." Generic statements get generic consideration.
 
 **Reference Letters:** You need three. They should ideally come from professors who supervised your research or who know your academic work in depth. A letter from a professor whose large lecture course you got an A in is less valuable than a letter from a prof who worked with you for a semester in their lab.
 
-**Deadline:** Typically December-January for a September start. For international programs (if you're considering leaving UofA for grad school), October-December is more common. Check each program's specific deadline.
+**Deadline:** UofA CS's main deadline has been December 15 for a September start ([CS grad FAQ](https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html)); other schools are typically December-January. For international programs (if you're considering leaving UofA for grad school), October-December is more common. Check each program's specific deadline.
 
 ---
 
 ## Funding
 
-**Funded MSc at UofA:** Expect roughly $20,000-$28,000/year as a stipend, drawn from your supervisor's research grants. This is livable in Edmonton (lower cost of living than Toronto or Vancouver). It covers rent and basics; you won't be saving much.
+**Funded MSc and PhD at UofA:** Most thesis-based MSc and PhD students in CS are admitted with guaranteed funding, usually as a teaching or research assistantship, and part-time students are not eligible ([CS grad FAQ](https://www.ualberta.ca/en/computing-science/graduate-studies/programs-and-admissions/applications-and-admissions/frequently-asked-questions.html)). Edmonton's lower cost of living (compared to Toronto or Vancouver) helps; you won't be saving much.
 
-**Funded PhD:** Similar range, sometimes slightly higher depending on supervisor grants and additional funding.
+**PhD minimum funding:** Since Fall 2025, UofA guarantees PhD students at least $100,000 over years one to four, and not less than $25,000 in the first year ([Minimum Guaranteed Funding for PhD Students](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html)).
 
-**NSERC Postgraduate Scholarships:**
-- **PGS-M (Masters):** $17,500/year for up to one year. Apply in September of your final undergrad year or first grad year. Highly prestigious: holding an NSERC graduate scholarship signals strongly to future employers and future PhD supervisors.
-- **PGS-D (Doctoral):** $21,000/year for up to three years. Apply at a similar time point in your PhD trajectory.
+**Tri-Agency graduate scholarships:** The old NSERC PGS and CGS programs have been [archived](https://nserc-crsng.canada.ca/en/funding-opportunity/archived-nserc-postgraduate-scholarships-doctoral-program) and replaced by the harmonized tri-agency Canada Graduate Research Scholarships:
+- **[CGRS-M (Masters)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program):** $27,000 for 12 months. The deadline has been December 1 ([UBC](https://www.grad.ubc.ca/awards/canada-graduate-research-scholarships-masters-cgrs-m-program)); check UofA's Graduate Studies office for its internal process. Highly prestigious: holding one signals strongly to future employers and future PhD supervisors.
+- **[CGRS-D (Doctoral)](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program):** $40,000/year for 36 months.
 
-These are competitive national awards. If you receive one, your supervisor no longer has to pay you from their grant, which makes you a much more attractive student to take on.
+These are competitive national awards open to Canadian citizens, permanent residents, and Protected Persons. If you receive one, your supervisor has to pay less from their grant, which makes you a much more attractive student to take on.
 
-**Alberta Scholarships:** The province has additional graduate funding. Check the Alberta Graduate Excellence Scholarship (AGES) and similar awards through UofA's Faculty of Graduate Studies and Research.
+**Alberta Scholarships:** The province has additional graduate funding. Check the Alberta Graduate Excellence Scholarship (AGES) and similar awards through UofA's [Faculty of Graduate & Postdoctoral Studies](https://www.ualberta.ca/en/graduate-studies/fees-funding/index.html).
 
 **One important note:** Don't go unfunded. If a supervisor offers you a grad school position with no funding and no plan for funding, be very cautious. Funded positions are the norm in CS at research universities. An unfunded position usually means the supervisor has limited commitment to your success.
 
@@ -118,7 +110,7 @@ These are competitive national awards. If you receive one, your supervisor no lo
 
 ## The Honest Bottom Line
 
-Industry salaries for CS grads have grown faster than grad school stipends over the last decade. A strong BSc grad with two good internships can enter industry at $90K-$130K CAD. A funded MSc student makes $20-28K for two years. The financial opportunity cost is real.
+Industry salaries for CS grads have grown faster than grad school stipends over the last decade. A strong BSc grad with two good internships can enter industry at $90K-$130K CAD. A funded MSc student lives on an assistantship stipend for two years. The financial opportunity cost is real.
 
 That said, money isn't the only variable. If you love research, if you want to work at a research lab, if you're aiming for ML roles at top companies, or if you want to be a professor, grad school is the right path. Be honest with yourself about *why* you want to do it.
 

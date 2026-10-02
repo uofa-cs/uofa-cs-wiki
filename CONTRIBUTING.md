@@ -113,4 +113,4 @@ If you're reading this and thinking about contributing for the first time: pleas
 
 ---
 
-*Questions about contributing? Open an issue or reach out through the Computing Science Club.*
+*Questions about contributing? Open an issue on GitHub.*

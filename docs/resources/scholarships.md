@@ -1,282 +1,91 @@
 # Scholarships and Awards for UofA CS Students
 
-Money for school is money for school. Whether it's covering tuition, rent, or giving you freedom to focus on studies instead of part-time work, scholarships can make a real difference. Here's what's available specifically for UofA CS students, when to apply, and how to actually win them.
+Money for school is money for school. Whether it's covering tuition, rent, or giving you freedom to focus on studies instead of part-time work, scholarships can make a real difference. This page sticks to the big, recurring awards that CS students actually get, with every amount and deadline linked to its official source. Amounts and dates change, so always click through before you plan around a number.
+
+**Last verified: October 2026**
 
 ---
 
-## Provincial Government Scholarships
+## Start Here: Awards Hub
 
-### Jason Lang Scholarship
-- **Amount**: $1,000
-- **Criteria**: Alberta resident, full-time student, GPA of 3.5+ on a 4.0 scale based on at least an 80% full course load in the previous fall and winter terms
-- **Application**: Automatic consideration, no application required
-- **Timeline**: Awarded in fall and winter terms
-- **Reality check**: As of August 1, 2025, this became meaningfully more competitive. The cutoff was previously 3.2, but it is now 3.5, so this is no longer just "decent grades" territory.
+[Awards Hub](https://www.ualberta.ca/en/registrar/scholarships-awards-financial-support/undergraduate-awards/index.html) is the Registrar's single application for undergraduate scholarships and awards. One application gets you assessed for many awards based on academics, leadership, equity, and need.
 
-### Louise McKinney Post-Secondary Scholarship
-- **Amount**: $2,500
-- **Criteria**: Alberta resident, exceptional academic achievement (usually 3.7+ GPA), demonstrated leadership
-- **Application**: Automatic consideration based on academic record
-- **Timeline**: Awarded once per academic year
-- **Reality check**: More competitive than Jason Lang. You need consistent high grades, not just one good semester.
-
-### Alexander Rutherford Scholarship
-- **Amount**: $2,500 (can receive up to $5,000 total across high school achievements)
-- **Criteria**: Alberta high school graduate achieving 75%+ average in five designated courses
-- **Application**: Automatic for eligible Alberta high school graduates
-- **Timeline**: One-time award upon entering university
-- **Reality check**: If you went to Alberta high school and did well, you probably already got this in first year.
+- **When**: continuing students can apply **February 1 to March 31**
+- **Results**: the Registrar notifies all applicants by the end of September
+- **Reality check**: meeting the minimum criteria doesn't guarantee an award. But it costs you an hour, and the Registrar administers over $50 million a year in undergrad awards. Apply every year.
 
 ---
 
-## Federal Scholarships and Research Awards
+## Provincial Scholarships: Jason Lang and Louise McKinney
 
-### NSERC Undergraduate Student Research Awards (USRA)
-- **Amount**: $4,500 (16 weeks) or $6,750 (24 weeks) + additional funding from supervisor
-- **Criteria**: Strong academic record, research potential, Canadian citizen/permanent resident
-- **Application**: Through supervising professor, deadline usually early February
-- **Timeline**: Summer terms (May-August)
-- **Reality check**: Excellent way to get research experience + funding. Start building relationships with professors in second year to be competitive.
+Funded by the Government of Alberta and administered by UofA ([Registrar page](https://www.ualberta.ca/en/registrar/scholarships-awards-financial-support/undergraduate-awards/jason-lang-louise-mckinney.html), [Alberta Student Aid](https://studentaid.alberta.ca/scholarships/jason-lang-scholarship/)):
 
-### Canada Student Grants
-- **Amount**: Varies (up to $3,000+ depending on need)
-- **Criteria**: Financial need, Canadian citizen/permanent resident
-- **Application**: Through Alberta Student Aid when applying for student loans
-- **Timeline**: Each academic year
-- **Reality check**: Need-based, not merit-based. Worth applying for if you qualify for student loans.
+| | Jason Lang | Louise McKinney |
+|---|---|---|
+| **Amount** | $1,000 | $2,500 |
+| **Who** | Alberta residents (Canadian citizen, PR, or Protected Person) in second year or later of an undergrad program | Same |
+| **Grades** | Minimum **3.5 GPA** over September to April of the previous year | Same |
+| **Course load** | At least 80% of a full load (at least 24 units for most programs) | Same |
+| **How** | Apply through Awards Hub before the posted deadline (Fall: September 15, Winter: January 15) | Same |
 
----
-
-## University of Alberta Awards
-
-### Dean's Honor Roll
-- **Amount**: Recognition + transcript notation (valuable for grad school/jobs)
-- **Criteria**: Top 5% of students in your faculty each year
-- **Application**: Automatic consideration
-- **Timeline**: Awarded annually
-- **Reality check**: Highly competitive but worth achieving. Looks excellent on resumes and grad school applications.
-
-### Faculty of Science Awards
-Multiple awards available specifically for Science students, including CS:
-
-#### **Rutherford Memorial Scholarship in Science**
-- **Amount**: $1,100
-- **Criteria**: Outstanding academic achievement in Science
-- **Application**: Automatic consideration
-- **Reality check**: Competitive within Science faculty
-
-#### **Peter Lougheed Leadership Award**
-- **Amount**: $500
-- **Criteria**: Leadership potential and academic excellence
-- **Application**: Application required (usually due in February)
-- **Reality check**: They want to see actual leadership activities, not just good grades
-
-#### **Science Undergraduate Research Experience (SURE) Program**
-- **Amount**: $1,500 stipend + research experience
-- **Criteria**: Strong academic record, interest in research
-- **Application**: Application required (deadline in January)
-- **Reality check**: Less competitive than NSERC USRA, good stepping stone to research
+- You can receive only one of the two per year. If you aren't selected for Louise McKinney, you're automatically considered for Jason Lang.
+- Transfer students can only be considered for Jason Lang.
+- **Reality check**: the GPA minimum rose from **3.2 to 3.5** starting Fall 2025, so this is no longer "decent grades" territory.
 
 ---
 
-## Computing Science Department Awards
+## Dean's Honor Roll
 
-### **Dr. Frank Tompa Prize in Computing Science**
-- **Amount**: $500
-- **Criteria**: Outstanding performance in CS courses, typically final year
-- **Application**: Nominated by department
-- **Reality check**: Small but prestigious within the CS community
-
-### **IBM Prize in Computing Science**
-- **Amount**: Varies
-- **Criteria**: Excellence in CS studies, often project-based or thesis work
-- **Application**: Usually nominated by professors
-- **Reality check**: Industry-sponsored awards look good on resumes
-
-### **Computing Science Undergraduate Research Awards**
-- **Amount**: Varies
-- **Criteria**: Research potential in CS
-- **Application**: Work with CS professors
-- **Reality check**: Department-specific research funding, good if you're considering grad school
+Not money, but worth knowing. In the Faculty of Science, First Class Standing (the Dean's Honor Roll) goes to students who complete at least 24 units of course weight in courses with letter grades in a Fall/Winter and earn at least a **3.5 GPA** (12 units if you spent one of those terms on Study Abroad or the Science Internship Program). The 2026-27 calendar states this rule for students in Pre-Fall 2024 programs ([Faculty of Science regulations](https://calendar.ualberta.ca/content.php?catoid=69&navoid=20749)), and the Faculty's published lists use the same 3.5 GPA / 24-unit cutoff ([2024-25 list](https://www.gsa.ualberta.ca/en/science/media-library/studentservices/dhr-2024-2025-updated.pdf)). It's a GPA threshold, not a top-X% ranking, and it's worth listing on resumes and grad school applications.
 
 ---
 
-## External Tech Industry Scholarships
+## Paid Undergraduate Research
 
-### **Google Scholarships (various programs)**
-- **Amount**: $1,000 - $10,000 USD
-- **Criteria**: Varies by program (often focus on underrepresented groups, academic excellence, leadership)
-- **Application**: Online applications, usually due in winter
-- **Timeline**: Awarded for following academic year
-- **Reality check**: Highly competitive but worth applying. Google Generation Scholarship, Google Lime Scholarship, others.
+At UofA, the main research awards go through one **URI streamlined application** in AwardsHub ([details](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/uri-streamlined-application-awardshub.html)). You write a research proposal and a personal statement, and your supervisor writes a mentorship plan. The 2026 deadline was **February 2, 2026**; the next one is listed as February 2027 with an info session in November 2026 ([URI funding page](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/index.html)). About 40% of applicants got an offer last cycle.
 
-### **Microsoft Scholarships**
-- **Amount**: Varies
-- **Criteria**: Academic achievement, leadership, interest in technology
-- **Application**: Online applications
-- **Reality check**: Less well-known than Google scholarships, potentially less competitive
+### NSERC Undergraduate Student Research Award (USRA)
+- **Amount**: $6,000 from NSERC for 16 weeks, plus a mandatory supervisor/department top-up of at least $2,400, so **at least $8,400** total ([UofA USRA page](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/usra.html))
+- **When**: can be held in Summer, Fall, or Winter
+- **Who**: Canadian citizens, permanent residents, or Protected Persons with a cumulative average of normally at least B-. You can hold at most three USRAs over your undergrad ([NSERC](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards))
+- **Needs**: a confirmed UofA faculty supervisor before you apply
+- **Reality check**: there is no published GPA cutoff beyond NSERC's floor; you're assessed on academic excellence, research potential, and the mentorship plan. Start talking to professors in the fall. See [Getting Into Research](../research/getting-into-research.md).
 
-### **Adobe Research Women-in-Technology Scholarship**
-- **Amount**: $10,000 USD
-- **Criteria**: Women studying CS/related fields, academic excellence, research interest
-- **Application**: Online application with research proposal
-- **Reality check**: Excellent if you meet criteria and are interested in research
+### URI Undergraduate Researcher Stipend
+- **Amount**: $7,500 stipend, paid in installments ([program guide](https://www.ualberta.ca/en/media-library/ualberta/students/uri/documents/uri-stipend/uri-stipend-program-guide.pdf))
+- **When**: 4-12 month projects, normally starting May 1, September 1, or January 1
+- **Who**: UofA undergrads in any year and any discipline, full-time or part-time, **domestic or international**
+- **Reality check**: it isn't adjudicated on GPA, which makes it the best option for international students and anyone whose grades don't tell the whole story.
 
-### **Society for Industrial and Applied Mathematics (SIAM) Student Travel Awards**
-- **Amount**: Up to $500 USD for conference travel
-- **Criteria**: Student presenting at SIAM conferences
-- **Application**: Conference-specific
-- **Reality check**: If you're doing research and presenting, these help cover conference costs
+### Alberta Innovates Summer Research Studentships
+- **Amount**: varies by institution; at UofA it's part of the streamlined application, where awards are up to $7,500 ([URI funding page](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/index.html), [Alberta Innovates](https://albertainnovates.ca/funding/summer-research-studentships/))
+- **When**: summer (May-August), up to four months
+- **Focus**: health research and innovation. Priority areas include digital health and data-driven health systems, which is where CS projects fit ([UofA listing](https://alberta.academicworks.ca/opportunities/26171))
 
 ---
 
-## Local Edmonton/Alberta Industry Scholarships
+## Graduate School Funding (Worth Knowing Early)
 
-### **TELUS Community Board Scholarship**
-- **Amount**: $1,000
-- **Criteria**: Community involvement, academic achievement
-- **Application**: Online application
-- **Reality check**: Focus on community service alongside academics
-
-### **ATB Financial Community Scholarship**
-- **Amount**: Varies
-- **Criteria**: Alberta residents, community involvement
-- **Application**: Online application
-- **Reality check**: Financial services company, good if you're interested in fintech
-
-### **Alberta Innovates Graduate Student Scholarship**
-- **Amount**: $21,000/year (for graduate study, but worth knowing about)
-- **Criteria**: Research potential, planning graduate studies in Alberta
-- **Application**: Through university graduate programs
-- **Reality check**: If you're considering grad school, this is significant funding
+If grad school is on your radar, the big national awards are now the Canada Graduate Research Scholarships: **CGRS-M** is $27,000 for 12 months ([NSERC](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-masters-program)) and **CGRS-D** is $40,000/year for 36 months ([NSERC](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program)). UofA also guarantees PhD students at least $100,000 over four years ([details](https://www.ualberta.ca/en/graduate-studies/fees-funding/scholarships-awards/minimum-guaranteed-funding-for-phd-students.html)). See [Grad School](../research/grad-school.md).
 
 ---
 
-## Application Strategy
+## Need-Based Aid
 
-### For Automatic Awards
-- **Focus on GPA**: Jason Lang, Louise McKinney, and Dean's Honor Roll are purely grade-based
-- **Consistency matters**: One bad semester can hurt your average significantly
-- **Credit load**: Some awards require full-time status (minimum 12 credits/semester)
-
-### For Competitive Awards
-- **Start relationships early**: Research awards require professor support
-- **Document everything**: Keep records of projects, leadership, volunteer work
-- **Tailor applications**: Don't use generic essays for multiple scholarships
-- **Apply broadly**: Don't put all eggs in one basket
-
-### For Industry Awards
-- **Build online presence**: GitHub profile, LinkedIn, personal projects
-- **Show genuine interest**: Research the company and align your application
-- **Highlight relevant projects**: Show practical application of your CS knowledge
+Student loans and grants come through [Alberta Student Aid](https://studentaid.alberta.ca/). One application covers provincial and federal funding, including Canada Student Grants, which don't need to be repaid. This is need-based, not merit-based, and stacks with the scholarships above.
 
 ---
 
-## Timeline and Deadlines
+## Application Tips
 
-### Fall Semester (September-December)
-- Jason Lang Scholarship consideration (automatic)
-- Research for spring application deadlines
-- Work on personal projects for industry scholarship applications
-
-### Winter Semester (January-April)
-- **February**: NSERC USRA applications due
-- **February/March**: Many university-specific scholarship applications due
-- **March/April**: Industry scholarship deadlines vary
-- Louise McKinney consideration (automatic)
-
-### Spring/Summer
-- NSERC USRA positions (May-August)
-- SURE program positions
-- Industry internships (many include scholarship components)
-
----
-
-## Less Obvious Opportunities
-
-### Conference Travel Grants
-- Many CS conferences offer student travel support
-- ACM, IEEE, and other professional societies have travel grants
-- University graduate students association often has conference funding
-
-### Hackathon Prizes
-- Major League Hacking (MLH) events often have cash prizes
-- Local Edmonton hackathons (HackED, others)
-- Corporate-sponsored hackathons
-
-### Open Source Contributions
-- Google Summer of Code ($3,000+ stipend)
-- Other tech companies sponsor open source work
-- GitHub sponsors program
-
-### Research Publication Rewards
-- Some departments give awards for undergraduate research publications
-- Conference presentation opportunities
-
----
-
-## Scholarship Application Tips
-
-### Academic Record
-- **GPA matters most**: Focus on grades first, activities second
-- **Course selection**: Taking challenging courses shows ambition
-- **Improvement trend**: Upward grade trajectory is valuable
-
-### Application Essays
-- **Be specific**: Generic essays are obvious and boring
-- **Show impact**: Quantify your achievements where possible
-- **Connect to goals**: Explain how the scholarship advances your career plans
-- **Get feedback**: Have professors or career services review your essays
-
-### Letters of Recommendation
-- **Give notice**: Ask recommenders at least 4 weeks in advance
-- **Provide context**: Give them your resume and scholarship details
-- **Follow up**: Send gentle reminders as deadlines approach
-- **Say thank you**: Always thank recommenders regardless of outcome
-
----
-
-## Financial Aid vs. Scholarships
-
-### Student Loans and Grants
-- Apply through Alberta Student Aid
-- Needs-based, not merit-based
-- Can be combined with merit scholarships
-- Grants don't need to be repaid
-
-### Work-Study Programs
-- On-campus employment with flexible schedules
-- Often available through financial aid office
-- Can complement scholarship funding
+- **Apply to Awards Hub every year.** It's the cheapest lottery ticket you'll ever buy.
+- **Keep your GPA at 3.5+ if you can.** It's the line for Jason Lang, Louise McKinney, and the Dean's Honor Roll.
+- **Start research conversations in the fall.** Every research award above needs a supervisor lined up before February.
+- **Give recommenders and supervisors notice.** Ask at least 4 weeks ahead, send them your resume and the award details, and thank them regardless of outcome.
+- **Be specific in essays.** Generic essays are obvious and boring. Show impact and connect the award to what you actually plan to do.
 
 ---
 
 ## The Reality Check
 
-### What Actually Matters
-Most scholarships are either automatic (based purely on grades) or highly competitive (requiring exceptional achievement). The middle ground is thin.
-
-**Focus on:**
-1. **Maintaining high GPA** for automatic awards
-2. **Building genuine research relationships** for research-based awards  
-3. **Developing real projects and leadership experience** for competitive awards
-
-**Don't:**
-- Rely on scholarships as your primary funding strategy
-- Sacrifice GPA for scholarship applications
-- Apply to scholarships where you clearly don't meet criteria
-
-### Expected Outcomes
-- Strong students (3.5+ GPA) typically receive $1,000-3,000/year in automatic awards
-- Research-active students can add $4,500-6,750 through USRA programs
-- Exceptional students might receive additional competitive awards
-
-The money helps, but it's not a full ride. Plan accordingly with student loans, part-time work, and family support as needed.
-
----
-
-## Long-Term Perspective
-
-Scholarships are nice, but they're not career-defining. The relationships you build applying for research awards, the projects you develop for applications, and the academic excellence required to be competitive will matter more for your career than the money itself.
-
-Focus on being the kind of student who deserves scholarships, and the scholarships will follow.
+Scholarships help, but they're not a full ride. Plan around student aid, part-time work, and family support as needed, and treat awards as a bonus. The research relationships and projects you build while chasing research awards will matter more for your career than the money itself.

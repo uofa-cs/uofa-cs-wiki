@@ -61,7 +61,7 @@ You're close to entering the industry. Your projects should be things you're com
 **Year 4 goals:**
 - Build something that solves a real problem, preferably one you or people around you actually have. The best projects come from genuine frustration with something that doesn't exist or doesn't work well.
 - Write a technical blog post about something you built or learned. This demonstrates communication skills, which engineering managers care about more than most students expect. dev.to and Medium are easy starting points.
-- Take your CMPUT 401 (Software Product Management) or CMPUT 404 capstone seriously. These courses are designed to produce portfolio pieces. Don't phone it in; treat it like a professional project.
+- Take your [CMPUT 401 (Software Process and Product Management)](https://apps.ualberta.ca/catalogue/course/cmput/401) group project seriously, and CMPUT 404 (Web Applications and Architecture) if you take it. These courses can produce portfolio pieces. Don't phone it in; treat it like a professional project.
 - If you have time, build something that uses a technically interesting approach: a distributed system, a compiler, a browser extension, a machine learning model in production, a blockchain application.
 
 ---
@@ -128,9 +128,9 @@ Hackathons are 24-48 hour events where you build something from scratch. They're
 
 **UofA-specific:**
 
-**HackED:** UofA's main hackathon, typically runs in January or February. Run by the Computing Science Club. A good first hackathon because it's local, friendly, and you'll know people there.
+**HackED:** UofA's main hackathon, typically runs in January or February. Run by the [Computer Engineering Club](https://hacked-2026.devpost.com/). A good first hackathon because it's local, friendly, and you'll know people there.
 
-**HackED Beta:** Smaller fall hackathon. Lower-stakes, good for first-timers.
+**HackED Beta:** Smaller 24-hour fall hackathon, also run by the Computer Engineering Club. Lower-stakes, good for first-timers.
 
 **MLH (Major League Hacking):** The national/international circuit of student hackathons. Dozens of events across North America each year, many virtual. Check mlh.io for the schedule. Winning or placing at an MLH event is a solid resume line.
 
@@ -166,7 +166,7 @@ A URL you can put at the top of your resume is worth more than the time you'll s
 
 ## Edmonton-Specific Opportunities
 
-**Startup Edmonton** runs events, workshops, and occasionally student project showcases. Worth checking their event calendar; going to a few events gets you in rooms with people who build things professionally and sometimes hire students.
+**[Edmonton Unlimited](https://edmontonunlimited.com/)** (which absorbed [Startup Edmonton](https://betakit.com/innovate-edmonton-rebrands-to-edmonton-unlimited/)) runs events, workshops, and occasionally student project showcases. Worth checking their event calendar; going to a few events gets you in rooms with people who build things professionally and sometimes hire students.
 
 **Amii (Alberta Machine Intelligence Institute)** has student programs and research opportunities. If your projects are ML-adjacent, connecting with Amii can open doors to research roles and industry connections in that space.
 

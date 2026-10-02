@@ -33,26 +33,26 @@ Don't wait until you feel "ready." You will never feel ready. Professors who tak
 
 NSERC (Natural Sciences and Engineering Research Council of Canada) runs the Undergraduate Student Research Awards (USRA) program. This is a paid, structured research position, one of the best programs available to undergrads.
 
-**What it is:**
-- ~$7,500 from NSERC for 16 weeks of full-time research (this is the federal portion)
-- Your supervising professor is required to top this up to at least $10,500 total; many go higher depending on their grants
-- So in practice you're looking at roughly $10,500-$14,000+ for a summer
+**What it is** ([UofA USRA page](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/usra.html)):
+- $6,000 from NSERC for 16 weeks (4 months) of full-time research
+- Your supervisor or department must add at least $2,400, so the minimum total is $8,400
+- At UofA, USRAs can be held in Summer, Fall, or Winter, not just summer
 - It's real work, not a coffee-fetching internship
 
 **Timeline:**
-- Positions are for May-August (summer term)
-- You need to have a professor agree to supervise you *before* you apply
-- Applications typically open in **February** and close in late February or early March; check the UofA NSERC USRA page each year for exact dates
+- You need a confirmed UofA faculty supervisor *before* you apply
+- At UofA you apply through the Undergraduate Research Initiative's streamlined AwardsHub application. The 2026 deadline was **Monday, February 2, 2026** (for projects in Summer 2026, Fall 2026, or Winter 2027), and the next one is listed as February 2027 ([URI funding page](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/index.html)). Check the page each year for the exact date.
 - Don't wait until February to find a professor. Start reaching out in October or November the previous fall.
 
-**Eligibility:**
-- Must be a Canadian citizen or permanent resident
-- Must be enrolled full-time at a Canadian university and returning to full-time studies after the award
-- GPA: NSERC requires a competitive average; in practice, 3.5+ (on a 4.0 scale) is where you want to be. 3.7+ makes you a strong candidate. Below 3.3 will be very difficult unless you have exceptional research experience already
-- You cannot have already completed a USRA at the same institution within the past two years
+**Eligibility** ([NSERC USRA page](https://nserc-crsng.canada.ca/en/funding-opportunity/undergraduate-student-research-awards)):
+- Must be a Canadian citizen, permanent resident, or Protected Person
+- NSERC's floor is a "satisfactory cumulative average (normally at least B-)"; there is no published UofA GPA cutoff. Selection weighs academic excellence, research potential, and the quality of the mentorship plan
+- You can hold at most three USRAs over your whole undergrad
+
+**International student?** The **URI Undergraduate Researcher Stipend** is open to domestic and international students in any year and any discipline. It's a $7,500 stipend for a 4-12 month mentored project, it isn't adjudicated on GPA, and it uses the same streamlined application and February deadline ([URI Stipend program guide](https://www.ualberta.ca/en/media-library/ualberta/students/uri/documents/uri-stipend/uri-stipend-program-guide.pdf), [streamlined application](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/uri-streamlined-application-awardshub.html)).
 
 **How competitive is it?**
-Competitive, but not impossible. UofA CS gets a certain number of awards each year. The professor you partner with submits the application alongside yours. A strong professor sponsor + solid GPA + genuine interest in their work = good odds. Start building relationships early so you're not a stranger when February rolls around.
+Competitive, but not impossible. URI reports that about 40% of applicants to its streamlined application received an offer in the last cycle ([source](https://www.ualberta.ca/en/current-students/undergraduate-research-initiative/funding/uri-streamlined-application-awardshub.html)). Your supervisor writes a mentorship plan that goes in alongside your proposal and personal statement. A strong professor sponsor + solid grades + genuine interest in their work = good odds. Start building relationships early so you're not a stranger when February rolls around.
 
 ---
 
@@ -115,17 +115,13 @@ The UofA CS department website lists faculty by research area. Spend an hour act
 Key groups to know:
 
 **AI and Machine Learning**
-- RLAI (Reinforcement Learning and Artificial Intelligence): Rich Sutton, Michael Bowling, Patrick Pilarski, Martha White, Adam White, Csaba Szepesvári (world-class group)
+- RLAI (Reinforcement Learning and Artificial Intelligence): Rich Sutton, Michael Bowling, Patrick Pilarski, Martha White, Adam White, Csaba Szepesvári (world-class group; Sutton shared the [2024 ACM Turing Award](https://awards.acm.org/xpages/turing/index) with Andrew Barto for the foundations of RL)
 - Amii (Alberta Machine Intelligence Institute): broader AI/ML, multiple professors involved, also has industry connections
 - Growing NLP group for students interested in language models
 
-**Databases and Data Systems**
-- M. Tamer Özsu is a global authority on distributed database systems
-- Relevant for students interested in data engineering, distributed systems, cloud infrastructure
-
-**Systems, Networks, and Compilers**
-- Multiple professors working on operating systems, networking protocols, compilers, and programming languages
-- Good fit for students coming out of CMPUT 379, 313, 415, 481
+**Systems, Networks, Databases, and Compilers**
+- Multiple professors working on operating systems, networking protocols, data systems, compilers, and programming languages
+- Good fit for students coming out of CMPUT 379, 313, 391, 415, 481
 
 **HCI and Interactive Systems**
 - Human-computer interaction research

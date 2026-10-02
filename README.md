@@ -14,17 +14,20 @@ This is not a replacement for the Academic Calendar or BearTracks. It's the guid
 
 This wiki is **community-maintained**. It reflects the lived experiences of UofA CS students, and it gets better when more people contribute. See the [Contributing](#contributing) section below.
 
+> **This wiki is being rebuilt.** The first version of this wiki was largely AI-generated, and an audit in October 2026 found outdated and incorrect information. We're rebuilding it page by page with sourced facts and first-hand student experience. Always confirm requirements against the [Academic Calendar](https://calendar.ualberta.ca/) and the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput). See the [Roadmap](https://github.com/uofa-cs/uofa-cs-wiki/blob/main/ROADMAP.md) for the plan, and help us by [reporting anything wrong](https://github.com/uofa-cs/uofa-cs-wiki/issues).
+
 ---
 
 ## Table of Contents
 
 ### Getting Started
-- [Program Overview](docs/getting-started/program-overview.md) — BSc CS General, Specialization, and Honors: what the differences actually mean and which to pick
+- [Program Overview](docs/getting-started/program-overview.md) — The BSc CS Major, Honors, and their AI and Software Practice options: what the differences mean and which to pick
 - [Degree Planning](docs/getting-started/degree-planning.md) — Semester-by-semester planning, how to use BearTracks, common pitfalls to avoid
-- [First Year Guide](docs/getting-started/first-year-guide.md) — Survival guide for CMPUT 174/175/274/275 and the math courses that trip everyone up
+- [First Year Guide](docs/getting-started/first-year-guide.md) — Choosing between 174/175 and 274/275, first-year math, and building good habits early
 
 ### Courses
 - [Course Guide](docs/courses/course-guide.md) — An opinionated walkthrough of every major CMPUT course: what you'll learn, how hard it is, and whether it's worth it
+- [Course Reviews](docs/courses/course-reviews.md) — Student experiences with individual CMPUT courses: workload, difficulty, and tips
 - [Elective Strategy](docs/courses/elective-strategy.md) — How to pick technical and non-technical electives strategically for your goals
 - [Hidden Gems](docs/courses/hidden-gems.md) — Underrated courses that more students should know about
 
@@ -46,10 +49,10 @@ This wiki is **community-maintained**. It reflects the lived experiences of UofA
 ### Research
 - [Getting into Research](docs/research/getting-into-research.md) — NSERC USRA, how to approach professors, what research actually looks like day-to-day
 - [Grad School](docs/research/grad-school.md) — MSc vs. PhD, whether it's worth it, and how to decide
-- [UAlberta Labs](docs/research/ualberta-labs.md) — RLAI, Amii, the database group, systems group, and other research groups worth knowing about
+- [UAlberta Labs](docs/research/ualberta-labs.md) — RLAI, Amii, and the other research groups worth knowing about
 
 ### Community
-- [Clubs and Organizations](docs/community/clubs-and-orgs.md) — The Computing Science Club, competitive programming, the AI club, hackathons, and how to get involved
+- [Clubs and Organizations](docs/community/clubs-and-orgs.md) — UACS, competitive programming, UAIS, HackED, and how to get involved
 - [Networking](docs/community/networking.md) — LinkedIn, Edmonton meetups, cold outreach that doesn't feel gross, and why it matters more than you think
 - [Online Presence](docs/community/online-presence.md) — GitHub, LinkedIn, personal websites, blogging, and building a presence that gets you noticed
 

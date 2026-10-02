@@ -8,15 +8,13 @@ Language debates online are mostly noise. But choosing what to invest your time 
 
 **Python** is the backbone of the first two years. CMPUT 174 and 175 use it. Most 300-level AI and ML courses use it. By the time you graduate, you'll be comfortable with Python whether you tried to be or not.
 
-**C** shows up in CMPUT 201 and runs through 229 (computer organization) and 379 (operating systems). The point isn't that you'll write C in industry; it's that C forces you to understand what's actually happening: pointers, memory allocation, the stack vs heap, undefined behavior. This understanding bleeds into every other language you use. Take it seriously.
+**C** shows up in CMPUT 201 and carries into 379 (operating systems). CMPUT 229 (computer organization) goes one level lower: you write [RISC-V assembly in the RARS simulator](https://cmput229.github.io/229-labs-RISCV/). The point isn't that you'll write C in industry; it's that C forces you to understand what's actually happening: pointers, memory allocation, the stack vs heap, undefined behavior. This understanding bleeds into every other language you use. Take it seriously.
 
 **C++** appears in some upper-year electives, particularly graphics and systems-adjacent courses. It's not heavily taught but it's available.
 
-**Java** comes up in a few 300-level courses. It's verbose, object-oriented to a fault, and not exciting. It's also used heavily in enterprise software, Android development, and many large-scale backend systems. Don't dismiss it because it's boring.
+**Java** is the language of CMPUT 301, where the team project is [a Java/Android app](https://ualberta-cmput301.github.io/general/outline.html). It's verbose, object-oriented to a fault, and not exciting. It's also used heavily in enterprise software, Android development, and many large-scale backend systems. Don't dismiss it because it's boring.
 
-**Haskell and Prolog** appear in CMPUT 325 (programming languages). These are mind-expanding, not career-defining. Haskell in particular will change how you think about functions, types, and immutability, which will make you better at Python, TypeScript, and everything else.
-
-**Racket** shows up in parts of 174/175 for functional programming concepts. Same story as Haskell: the value is conceptual, not practical.
+**Lisp and Prolog** appear in [CMPUT 325 (Non-Procedural Programming Languages)](https://www.ualberta.ca/en/computing-science/undergraduate-studies/course-directory/courses/non-procedural-programming-language.html). These are mind-expanding, not career-defining. Functional programming in particular will change how you think about functions, recursion, and immutability, which will make you better at Python, TypeScript, and everything else.
 
 ---
 
@@ -36,7 +34,7 @@ Python is the most employable language for ML/AI and a top choice for backend we
 
 ### C
 
-You learn enough C in 201 to survive 229 and 379. After that, most students don't touch it again. That's fine for most career paths, but if you go into systems programming, embedded, or security work, actually being proficient in C is a differentiator.
+You learn enough C in 201 to survive 379. After that, most students don't touch it again. That's fine for most career paths, but if you go into systems programming, embedded, or security work, actually being proficient in C is a differentiator.
 
 Understanding C (even if you never write it professionally) makes you a better developer everywhere. When you understand why a Python `list` is slower than a C array, or why copying strings naively causes bugs, or what a segfault actually means, you have an intuition that most developers lack.
 

@@ -16,7 +16,7 @@ The algorithm bible. Referenced constantly in CMPUT 204 and upper-year courses. 
 
 **Designing Data-Intensive Applications** by Martin Kleppmann
 
-The best book on modern backend engineering and distributed systems. Covers databases, replication, consistency models, stream processing, and more, with the practical nuance that textbooks miss. If you want to work in backend engineering, data engineering, or systems at any level of seriority, read this book. It's accessible without being shallow. One of the most important CS books of the last decade.
+The best book on modern backend engineering and distributed systems. Covers databases, replication, consistency models, stream processing, and more, with the practical nuance that textbooks miss. If you want to work in backend engineering, data engineering, or systems at any level of seniority, read this book. It's accessible without being shallow. One of the most important CS books of the last decade.
 
 **Operating Systems: Three Easy Pieces (OSTEP)** by Remzi & Andrea Arpaci-Dusseau
 
@@ -40,7 +40,7 @@ Free online. The classic MIT intro CS text, now used at far fewer universities t
 
 **Reinforcement Learning: An Introduction** by Sutton & Barto
 
-Free online at incompleteideas.net. If you're at UofA studying ML or AI, you are studying at one of the world's leading RL research institutions. Richard Sutton is faculty here. Read the textbook by your professor. This is one of the few situations where the definitive book on a subject is authored by someone down the hall from you.
+Free online at incompleteideas.net. If you're at UofA studying ML or AI, you are studying at one of the world's leading RL research institutions. Richard Sutton is faculty here, and he and Barto received the [2024 ACM Turing Award](https://awards.acm.org/xpages/turing/index) for this body of work. Read the textbook by your professor. This is one of the few situations where the definitive book on a subject is authored by someone down the hall from you.
 
 ---
 
@@ -50,14 +50,14 @@ Free online at incompleteideas.net. If you're at UofA studying ML or AI, you are
 
 Free courses from MIT with full lecture notes, problem sets, and exams. The standouts:
 - **6.006 Introduction to Algorithms:** excellent parallel to CMPUT 204, rigorous and well-taught
-- **6.824 Distributed Systems:** graduate-level, lab assignments build real distributed systems. Challenging but formative if you want systems work.
+- **6.5840 Distributed Systems** (formerly 6.824): graduate-level, with Go labs that build MapReduce, Raft, and a sharded key-value store. The [course site](https://pdos.csail.mit.edu/6.824/) posts lectures and labs. Challenging but formative if you want systems work.
 - **6.004 Computation Structures:** computer architecture from the ground up
 
 **Stanford CS Courses on YouTube**
 
 - **CS231n** (Convolutional Neural Networks / Computer Vision): lecture recordings available. Dense but thorough.
 - **CS224n** (NLP with Deep Learning): the best NLP course available online
-- **CS229** (Machine Learning by Andrew Ng): the foundational ML course that launched a thousand ML careers. More theoretical than Coursera's ML Specialization.
+- **CS229** (Machine Learning): Stanford's core ML course; the widely watched [Autumn 2018 lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) are taught by Andrew Ng (other instructors have taught it in other terms). More theoretical than Coursera's ML Specialization.
 
 **fast.ai**
 

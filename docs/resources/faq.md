@@ -14,14 +14,21 @@ The same questions come up every year in CS advising, Discord servers, and Reddi
 
 What matters more than school prestige is what you do while you're here: internships, projects, grades, networking. UofA gives you the platform. You have to build on it.
 
-### "Should I do General, Specialization, or Honors?"
+### "Should I do a Major, an Option, or Honors?"
+
+Since Fall 2024 the BSc CS program has been structured as a Major or Honors in Computing Science, each also offered with an **Artificial Intelligence Option** or a **Software Practice Option**, plus a Minor ([2026-27 calendar](https://calendar.ualberta.ca/preview_program.php?catoid=69&poid=110935)):
+- **Major in Computing Science** (54 units of CS subject requirements), or the **AI Option** (72) or **Software Practice Option** (78, which pulls in business courses)
+- **Honors in Computing Science** (72), or the Honors **AI Option** (90) or **Software Practice Option** (93)
+- **Minor in Computing Science** (24) for students majoring in something else
+
+If you started before Fall 2024, you may still be in the older General / Specialization / Honors programs; the [Faculty of Science regulations](https://calendar.ualberta.ca/content.php?catoid=69&navoid=20749) cover those "Pre-Fall 2024" programs.
 
 **For industry careers**:
-- **Specialization** is the sweet spot. More focused than General, less research-heavy than Honors.
-- **General** is fine if you want more electives or aren't sure about CS yet.
-- **Honors** only if you're seriously considering graduate school or want the intellectual challenge.
+- The **Major** is fine if you want more electives or aren't sure about CS yet.
+- An **Option** makes sense if you know you want AI/ML or software practice and want the structure.
+- **Honors** if you're seriously considering graduate school or want the intellectual challenge.
 
-**Reality check**: Most tech companies don't care about the distinction. Your projects, internships, and interview performance matter infinitely more than whether your degree says "Specialization" or "General."
+**Reality check**: Most tech companies don't care about the distinction. Your projects, internships, and interview performance matter infinitely more than what your degree's program name says.
 
 ### "Can I finish CS in 3 years?"
 
@@ -75,17 +82,18 @@ What matters more than school prestige is what you do while you're here: interns
 
 ### "Should I take CMPUT 174/175 or 274/275?"
 
-**174/175** (traditional intro sequence):
-- Standard programming fundamentals
-- Python and C focus
-- More traditional CS approach
-- Better if you have little programming experience
+These descriptions come from the [course catalogue](https://apps.ualberta.ca/catalogue/course/cmput).
 
-**274/275** (tangible computing):
-- Hardware interfacing, embedded systems
-- Arduino/Raspberry Pi projects
-- More hands-on, maker-oriented
-- Better if you like hardware and have some programming background
+**174/175** (Introduction to the Foundations of Computation I/II):
+- Problem-driven intro to state, control flow, data structures, recursion, and testing
+- No prior programming experience necessary
+- After 175 you take CMPUT 201 (C on Unix) as a separate course
+
+**274/275** (Accelerated Introduction to the Foundations of Computation I/II):
+- Intensive, studio-style: lectures and labs blended into 3-hour sessions twice a week, with limited enrollment
+- 274 uses Python on Linux; 275 adds object-oriented programming in C++ and more advanced algorithms (graphs, divide and conquer, dynamic programming)
+- Python or prior computing background is strongly recommended
+- 275 replaces CMPUT 201, so you can't take 201 for credit after it
 
 **For industry**: Either is fine. Choose based on your interests and background, not career optimization.
 
@@ -145,15 +153,13 @@ What matters more than school prestige is what you do while you're here: interns
 
 ### "Should I do a co-op program?"
 
-**UofA doesn't have formal co-op**: Unlike Waterloo or SFU, UofA CS doesn't have a structured co-op program.
+**UofA's version is the Science Internship Program (SIP)**: paid, full-time internships of 4, 8, 12, or 16 months, usually taken between third and fourth year. Computing Science students are the largest group in the program, and completing 8+ months earns a Science Internship designation on your transcript and parchment ([SIP](https://www.ualberta.ca/en/science/student-services/internship-careers/index.html), [experiential learning page](https://www.ualberta.ca/en/experiential-learning/opportunities/science-internship-program.html)). It's one longer block rather than Waterloo-style alternating terms.
 
-**What you can do instead**:
-- Apply for internships independently
+**Other options**:
+- Apply for summer internships independently
 - Use Career Centre resources
 - Network through professors and industry events
-- Consider research positions (NSERC USRA)
-
-**Advantage**: More flexibility in timing and choice. **Disadvantage**: Less structured support and guaranteed placements.
+- Consider paid research positions (NSERC USRA or the URI stipend; see [Scholarships](scholarships.md))
 
 ---
 
@@ -190,7 +196,7 @@ What matters more than school prestige is what you do while you're here: interns
 
 **Yes, but**: It's smaller than Toronto/Vancouver. More focused on enterprise software, fintech, and energy tech than consumer products.
 
-**Major employers**: Jobber, TELUS, ATB Financial, Benevity, AltaML, plus government and oil & gas tech roles.
+**Major employers**: Jobber, TELUS, ATB Financial, AltaML, plus government and oil & gas tech roles.
 
 **Advantages**: Lower cost of living, less competition, growing scene, remote work options.
 
@@ -229,12 +235,9 @@ What matters more than school prestige is what you do while you're here: interns
 
 ### "Is CS education worth the cost?"
 
-**UofA CS total cost** (Alberta resident, 4 years):
-- Tuition: ~$25,000
-- Living expenses: ~$60,000-80,000 (varies widely)
-- **Total**: ~$85,000-105,000
+**UofA CS tuition** (Canadian citizen or permanent resident): most undergrad courses have a fee index of 6, which is $729.36 per 3-unit course in 2026-27. A full 30-unit Fall/Winter load is about $7,300 in tuition, before mandatory non-instructional fees and future increases ([Registrar: 2026-27 tuition](https://www.ualberta.ca/en/registrar/costs-tuition-fees/undergraduate-tuition/fall-winter-tuition-for-canadian-citizens-and-permanent-residents.html)). Living expenses vary widely depending on whether you live at home.
 
-**Return on investment**: With typical starting salaries, you'll recover education costs within 2-3 years of graduation. Strong ROI compared to many other degrees.
+**Return on investment**: With typical starting salaries, most grads recover their education costs within a few years. Strong ROI compared to many other degrees.
 
 **Comparison**: Significantly cheaper than Ontario universities, comparable outcomes for industry careers.
 

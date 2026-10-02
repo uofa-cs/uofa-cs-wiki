@@ -76,7 +76,7 @@ Cache invalidation (knowing when to clear or update a cache) is famously one of 
 
 **Sharding** splits data across multiple databases by some key (e.g., user ID). It's complex and introduces new failure modes. Only shard when you've exhausted other options.
 
-CMPUT 291/391 (Databases) gives you the foundations here. The gap is learning how these concepts extend to distributed, high-traffic scenarios.
+CMPUT 291 (Introduction to File and Database Management) gives you the foundations here. Its follow-up, CMPUT 391 (Database Management Systems), covers distributed databases and NoSQL, but the catalogue lists [no offerings since Winter 2022](https://apps.ualberta.ca/catalogue/course/cmput/391). The gap is learning how these concepts extend to distributed, high-traffic scenarios.
 
 ### Message Queues
 
@@ -130,11 +130,13 @@ Which you choose depends on your use case. A bank should probably be CP. A socia
 | Course | System Design Relevance |
 |---|---|
 | CMPUT 313 - Computer Networks | Load balancing, CDNs, DNS, HTTP internals |
-| CMPUT 291/391 - Databases | Database design, indexing, transactions, replication |
-| CMPUT 379 - Operating Systems | Process management, memory, file systems, I/O |
-| CMPUT 481 - Distributed Systems | The most directly relevant course: Paxos, CAP theorem, distributed consensus |
+| CMPUT 291 - Introduction to File and Database Management | Database design, indexing, transactions |
+| CMPUT 379 - Operating System Concepts | Process management, memory, file systems, I/O |
+| [CMPUT 393 - Scalable Data-Intensive Analytics](https://apps.ualberta.ca/catalogue/course/cmput/393) | Scaling data processing and ML across multiple machines |
+| CMPUT 404 - Web Applications and Architecture | Web architecture, web services, data exchange |
+| [CMPUT 481 - Parallel and Distributed Systems](https://apps.ualberta.ca/catalogue/course/cmput/481) | Thread and data-parallel programming, clusters, performance evaluation |
 
-Take CMPUT 481 if you can. It's the closest thing UofA has to formal system design education, and it covers the theoretical foundations that explain why distributed systems behave the way they do.
+Take CMPUT 481 if it's offered (check the catalogue; it isn't always scheduled). It's about parallel programming and high-performance computing rather than consensus protocols, but it builds real intuition for how work gets split across threads and machines. For distributed systems theory (consensus, CAP, replication), Kleppmann's book below is the best substitute.
 
 ---
 
@@ -146,7 +148,7 @@ Take CMPUT 481 if you can. It's the closest thing UofA has to formal system desi
 
 **ByteByteGo:** Alex Xu's YouTube channel and newsletter. Visual, well-explained, covers specific systems (URL shortener, YouTube, etc.). The newsletter is free and worth subscribing to.
 
-**Grokking the System Design Interview (Educative):** Paid but often discounted. Good structured practice problems with worked solutions. Useful specifically for interview prep.
+**Grokking the System Design Interview ([DesignGurus](https://www.designgurus.io/course/grokking-the-system-design-interview)):** Paid but often discounted. The original authors moved it from Educative to DesignGurus. Good structured practice problems with worked solutions. Useful specifically for interview prep.
 
 ---
 

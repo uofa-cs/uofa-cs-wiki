@@ -47,7 +47,7 @@ No photo. No date of birth. No objective statement: it wastes valuable space and
 
 ### 2. Education
 
-**University of Alberta**, BSc Computing Science [Specialization if applicable], Expected Graduation: Month Year.
+**University of Alberta**, BSc Computing Science [Honors and/or option, if applicable], Expected Graduation: Month Year.
 
 Include GPA if it's 3.5 or above. Leave it off if it's below 3.2. The 3.2-3.5 range is your call: if the rest of your resume is strong, omit it; if you're thin on experience, it can help.
 
@@ -101,11 +101,11 @@ For each project:
 Where do metrics come from if your project doesn't have real users? Estimate reasonably, use benchmark results, describe scale of data processed, or describe technical complexity. Don't fabricate numbers, but don't undersell either.
 
 **UofA course projects that are legitimate to include:**
-- **CMPUT 401** (Software Process and Product): capstone project with real clients. This is real work and deserves real bullets.
+- **CMPUT 401** (Software Process and Product Management): capstone project with real clients. This is real work and deserves real bullets.
 - **CMPUT 301** (Introduction to Software Engineering): group project, Android app development. Legitimate.
 - **CMPUT 404** (Web Applications and Architecture): involves building actual web projects. List it with the stack and what you built.
-- **CMPUT 466** (Machine Learning) / **CMPUT 361** (Information Retrieval): if your project was interesting and had measurable results, include it.
-- **CMPUT 455** / **CMPUT 496** (Game/AI work): if you built something notable, include it.
+- **CMPUT 466** (Machine Learning Essentials) / **CMPUT 361** (Information Retrieval): if your project was interesting and had measurable results, include it.
+- **CMPUT 455** (Search, Knowledge and Simulation) / **CMPUT 496** (Topics in Computing Science): if you built something notable, include it.
 
 Don't include toy tutorial projects (the Django blog tutorial, the React to-do list). Only include projects where you made real decisions and built something non-trivial.
 

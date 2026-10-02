@@ -15,18 +15,18 @@ Backend engineers build and maintain the server-side systems that power applicat
 Designing RESTful or GraphQL APIs, writing and maintaining services, writing database queries and optimizing slow ones, debugging production issues, reviewing other engineers' code, writing tests, and occasionally staring at a distributed systems problem that shouldn't be this hard.
 
 ### Relevant UofA courses
-- **CMPUT 291** (Databases): directly applicable; SQL fluency is non-negotiable
+- **CMPUT 291** (Introduction to File and Database Management): directly applicable; SQL fluency is non-negotiable
 - **CMPUT 313** (Computer Networks): understanding HTTP, TCP, how the internet actually works
-- **CMPUT 379** (Operating Systems): processes, concurrency, the stuff that comes up in interviews
-- **CMPUT 404** (Web Applications): closest UofA gets to applied web backend work
-- **CMPUT 391** (Multimedia DB and Data Mining): useful if you work with complex data
-- **CMPUT 481** (Distributed Systems): essential for understanding modern backend architecture
+- **CMPUT 379** (Operating System Concepts): processes, concurrency, the stuff that comes up in interviews
+- **CMPUT 404** (Web Applications and Architecture): closest UofA gets to applied web backend work
+- **CMPUT 391** (Database Management Systems): how databases work under the hood
+- **CMPUT 481** (Parallel and Distributed Systems): essential for understanding modern backend architecture
 
 ### Skills to build independently
 Python, Go, or Java (Go is increasingly dominant for new backend work; Python is ubiquitous; Java/Kotlin is strong at enterprise companies). Docker and containerization. REST API design. SQL fluency (PostgreSQL in particular). Basic message queues (Kafka, RabbitMQ). HTTP fundamentals. Writing tests.
 
 ### Companies and market
-Every tech company has backend roles. This is the highest-demand path in software engineering; far more backend openings than any other specialty. Edmonton has solid backend opportunities at Jobber, ATB, TELUS, Benevity, and others. Entry-level to senior trajectory is well-defined and compensation is strong.
+Every tech company has backend roles. This is the highest-demand path in software engineering; far more backend openings than any other specialty. Edmonton has solid backend opportunities at Jobber, ATB, TELUS, and others. Entry-level to senior trajectory is well-defined and compensation is strong.
 
 ### Honest assessment
 Best risk-adjusted career path for most CS students. High demand, clear learning progression, widely applicable across industries. Not flashy, but the engineering is genuinely interesting when you're working on systems at scale. If you're not sure what you want to do, start here.
@@ -87,12 +87,12 @@ Designing system architecture, breaking ambiguous problems into concrete compone
 
 ### Relevant UofA courses
 - **CMPUT 201** (Practical Programming Methodology): useful for learning Unix tooling, introductory Git workflows, debugging, and other practical software engineering basics
-- **CMPUT 229** (Computer Organization): lower-level than most SWE work and mainly useful here because it leads into `CMPUT 379`; most software engineers will not touch this level much unless they want to go into embedded or systems work
+- **CMPUT 229** (Computer Organization and Architecture I): lower-level than most SWE work and mainly useful here because it leads into `CMPUT 379`; most software engineers will not touch this level much unless they want to go into embedded or systems work
 - **CMPUT 267** (Machine Learning I): mostly theory, but useful if you want to move toward the MLE side of software engineering; `CMPUT 469` is the more practical follow-up
 - **CMPUT 291** (Introduction to File and Database Management): databases are part of almost every serious software system
 - **CMPUT 301** (Introduction to Software Engineering): build an Android app in a team while learning requirements, revision control, Git conflicts, software architecture, testing, and basic product/project management
 - **CMPUT 313** (Computer Networks): useful when systems need to communicate reliably across services and environments
-- **CMPUT 379** (Operating Systems): important for understanding concurrency, processes, resource management, and runtime behavior
+- **CMPUT 379** (Operating System Concepts): important for understanding concurrency, processes, resource management, and runtime behavior
 - **CMPUT 401** (Software Process and Product Management): software development from a process perspective; useful for understanding how substantial systems are specified and shipped
 - **CMPUT 402** (Software Quality): testing, reviews, continuous integration, and quality tooling
 - **CMPUT 404** (Web Applications and Architecture): modern web architecture, web services, frameworks, and integration patterns
@@ -123,11 +123,11 @@ A field with two distinct sub-paths that get conflated:
 Research path: reading papers, designing experiments, implementing model architectures, running training jobs, analyzing results. Engineering path: building data pipelines, model serving infrastructure, monitoring dashboards, feature stores, A/B testing frameworks.
 
 ### Relevant UofA courses
-- **CMPUT 267** (Machine Learning): the core intro course
-- **CMPUT 365** (Reinforcement Learning): UofA has world-class RL researchers; this is a genuine differentiator
-- **CMPUT 466** (Machine Learning, grad-level intro)
-- **CMPUT 467** (Text Analytics)
-- **CMPUT 461** (Natural Language Processing)
+- **CMPUT 267** (Machine Learning I): the core intro course
+- **CMPUT 467** (Machine Learning II): the follow-up to 267
+- **CMPUT 466** (Machine Learning Essentials): an undergraduate one-course alternative to the 267 + 467 sequence (per the [CMPUT course catalogue](https://apps.ualberta.ca/catalogue/course/cmput))
+- **CMPUT 365** (Introduction to Reinforcement Learning): UofA has world-class RL researchers; this is a genuine differentiator
+- **CMPUT 461** (Introduction to Natural Language Processing)
 - **CMPUT 463** (Probabilistic Graphical Models)
 
 ### Skills to build independently
@@ -150,8 +150,8 @@ DevOps and infrastructure engineers build and maintain the systems that let othe
 Writing Terraform to provision cloud resources, configuring Kubernetes deployments, building CI/CD pipelines, debugging why a service is down at 2am, setting up monitoring and alerting, improving deployment speed and reliability, writing runbooks.
 
 ### Relevant UofA courses
-- **CMPUT 379** (Operating Systems): essential foundation
-- **CMPUT 481** (Distributed Systems): directly applicable
+- **CMPUT 379** (Operating System Concepts): essential foundation
+- **CMPUT 481** (Parallel and Distributed Systems): directly applicable
 - **CMPUT 313** (Computer Networks): networking fundamentals matter here
 - **CMPUT 402** (Software Quality): covers testing, reviews, continuous integration, and software quality tools, all of which map well to CI/CD and reliability work
 
@@ -175,11 +175,11 @@ Two main paths: **offensive security** (pen testing, red teaming, vulnerability 
 Offensive: running penetration tests against client systems, writing exploit code, documenting vulnerabilities, sometimes doing bug bounty hunting. Defensive: monitoring security alerts, incident response, building detection rules, security code review, vulnerability management.
 
 ### Relevant UofA courses
-- **CMPUT 331** (Cryptography): foundational for understanding security at a deep level
-- **CMPUT 333** (Computer Security): directly applicable
-- **CMPUT 229** (Computer Organization): understanding systems at a low level is crucial for real security work
+- **CMPUT 331** (Computational Cryptography): foundational for understanding security at a deep level
+- **CMPUT 333** (Security in a Networked World): directly applicable
+- **CMPUT 229** (Computer Organization and Architecture I): understanding systems at a low level is crucial for real security work
 - **CMPUT 313** (Computer Networks): network security requires solid networking knowledge
-- **CMPUT 379** (Operating Systems): OS internals are relevant for privilege escalation, kernel vulnerabilities
+- **CMPUT 379** (Operating System Concepts): OS internals are relevant for privilege escalation, kernel vulnerabilities
 
 ### Skills to build independently
 Networking fundamentals (TCP/IP, DNS, TLS: really understand them, not just name-drop them). Common vulnerabilities (OWASP Top 10 is the baseline). Tools: Burp Suite for web security, Nmap, Metasploit for pen testing. CTFs (Capture the Flag competitions) are the best practical training; HackTheBox and TryHackMe are good platforms. For cryptography: actually understanding RSA, AES, hash functions, not just knowing they exist.
@@ -202,10 +202,10 @@ Implementing gameplay mechanics, debugging physics interactions, writing shaders
 
 ### Relevant UofA courses
 - **CMPUT 250** (Computers and Games): intro course
-- **CMPUT 350** (Advanced Game Console Programming)
-- **CMPUT 411** (Computer Graphics)
-- **CMPUT 382** (GPU Computing)
-- **CMPUT 256** (Introduction to Computer Animation)
+- **CMPUT 350** (Advanced Games Programming)
+- **CMPUT 411** (Introduction to Computer Graphics)
+- **CMPUT 382** (Introduction to GPU Programming)
+- **CMPUT 256** (Game Artificial Intelligence)
 
 ### Skills to build independently
 C++ for Unreal Engine (the dominant AAA engine) or C# for Unity (dominant in indie and mid-size studios). Graphics APIs (OpenGL as a foundation, Vulkan or DirectX for serious work). Physics simulation. Data-oriented design for performance. Profiling and optimization; games are one of the most performance-constrained domains in software.
@@ -227,10 +227,10 @@ Software that runs close to hardware: firmware for microcontrollers, operating s
 Writing C or C++ for resource-constrained environments, debugging hardware/software interactions, writing and testing against real-time constraints, reading datasheets, using logic analyzers and oscilloscopes, dealing with hardware that doesn't behave the way the documentation says it does.
 
 ### Relevant UofA courses
-- **CMPUT 229** (Computer Organization): mandatory foundation
-- **CMPUT 274/275** (Intro to Tangible Computing): good practical introduction
-- **CMPUT 379** (Operating Systems): OS internals directly applicable
-- **CMPUT 329** (Fundamentals of Digital Logic and Design)
+- **CMPUT 229** (Computer Organization and Architecture I): mandatory foundation
+- **CMPUT 274/275** (Accelerated Introduction to the Foundations of Computation I/II): good practical introduction
+- **CMPUT 379** (Operating System Concepts): OS internals directly applicable
+- **CMPUT 329** (Computer Organization and Architecture II)
 - **CMPUT 415** (Compiler Design): valuable for understanding what your code actually does
 
 ### Skills to build independently

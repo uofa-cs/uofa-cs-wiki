@@ -42,21 +42,22 @@ If you approach networking with genuine curiosity rather than desperation, every
 ## Local Tech Events in Edmonton
 
 ### Regular Meetups
-- **DemoCamp Edmonton**: Monthly showcase of local startups and tech projects. Great for seeing what's happening locally.
-- **Edmonton.js**: JavaScript meetup. Active community, beginner-friendly.
-- **Python Edmonton**: Python user group. Regular talks and networking.
-- **Edmonton Machine Learning Meetup**: If you're into AI/ML.
-- **Alberta Women in Tech**: Welcoming community, not just for women.
+These were active as of 2025-2026. Community meetups come and go, so check the link before you show up.
+- **DemoCamp Edmonton**: Volunteer-run showcase of local startups and tech projects. It runs a few times a year rather than on a fixed schedule; DemoCamp 61 was October 1, 2025 at Amii ([Taproot](https://edmonton.taproot.news/briefs/2025/10/01/happenings-oct-1-2025)). Watch its [Eventbrite page](https://www.eventbrite.ca/o/democamp-edmonton-56126644423).
+- **Dev Edmonton JavaScript, Python & Ruby Meetup**: The YEG JavaScript, Python, and Ruby groups now meet together, hosted through [Edmonton Unlimited's Meetup group](https://www.meetup.com/edmontonunlimited/). [Dev Edmonton Society](https://github.com/devedmonton) also runs a community Slack. Beginner-friendly.
+- **Edmonton Women in Machine Learning & Data Science**: Local [WiMLDS chapter](https://www.meetup.com/edmonton-women-in-machine-learning-and-data-science/), welcoming to everyone interested in ML and data science.
+- **AI Tinkerers Edmonton**: Hands-on AI builder meetup with live demos ([edmonton.aitinkerers.org](https://edmonton.aitinkerers.org/)).
 
 ### Where to Find Events
 - **Meetup.com**: Most tech meetups are organized here
-- **Eventbrite**: Conferences and larger events
-- **StartupEdmonton**: Local startup ecosystem events
-- **TEC Edmonton**: Technology incubator events
+- **Eventbrite** and **Luma**: Conferences and larger events
+- **[Edmonton Unlimited](https://edmontonunlimited.com/about-us/)**: The city's innovation agency (Innovate Edmonton and its Startup Edmonton division [rebranded](https://betakit.com/innovate-edmonton-rebrands-to-edmonton-unlimited/) as Edmonton Unlimited); hosts startup ecosystem events
+- **[Taproot Edmonton's tech roundup](https://edmonton.taproot.news/roundups/tech/2026/03/03)**: Regular local tech news and event listings
 
 ### Conference Opportunities
-- **DemoCamp**: Free monthly event
-- **Startup Edmonton events**: Often free or cheap for students
+- **DemoCamp**: A few times a year
+- **Edmonton Unlimited events**: Often free or cheap for students
+- **[Upper Bound](https://www.amii.ca/events/upper-bound-2026)**: Amii's annual AI conference in Edmonton (May 19-22 in 2026); it sold out in 2026, so register early
 - **University guest lectures**: Pay attention to CS department speakers
 - **Industry conferences**: More expensive but worth it for serious networking
 
@@ -207,8 +208,7 @@ Thanks for your time,
 - Less competition for attention at events
 
 ### Key People and Organizations
-- **TEC Edmonton**: Technology incubator, great networking hub
-- **Startup Edmonton**: Central to the startup ecosystem
+- **Edmonton Unlimited**: The city's innovation agency and home of the former Startup Edmonton programs ([history](https://edmontonunlimited.com/about-us/history/)). (TEC Edmonton, the old UofA/city incubator, [ceased operations in June 2021](https://betakit.com/tec-edmonton-to-cease-operations-on-june-30/).)
 - **Alberta Innovates**: Provincial innovation agency
 - **Amii (Alberta Machine Intelligence Institute)**: AI/ML networking
 

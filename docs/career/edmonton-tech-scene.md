@@ -24,9 +24,6 @@ One of Edmonton's best tech employers, full stop. They build software for home s
 ### TELUS
 One of Canada's major telecoms, with substantial tech teams in Edmonton. The roles are more varied than you might expect; there's actual software development happening, not just IT operations. More corporate than a startup, which means more process and more stability. Salaries are competitive for Edmonton. Good for someone who wants stability with a large organization.
 
-### Benevity
-Social good tech company; they build corporate philanthropic giving and volunteering platforms. Downtown Edmonton office, good culture reputation, interesting problem domain if you care about the intersection of tech and social impact. Growing company, decent engineering practices.
-
 ### ATB Financial
 Alberta Treasury Branch, Alberta's provincial bank. Significant ongoing technology modernization effort. Interesting data and ML work given their transaction data scale. More corporate environment than a startup, but not without genuinely interesting engineering problems. Good stability and benefits. Worth considering if you like fintech or data problems.
 
@@ -45,21 +42,12 @@ Federal presence includes CRA (Canada Revenue Agency), ESDC (Employment and Soci
 ### AltaML
 Applied machine learning company; they work with organizations across industries (agriculture, oil and gas, healthcare) to build and deploy ML solutions. Good environment for students who want real-world ML engineering work and don't want to go into pure product software. Has historically been accessible to UofA students.
 
-### SkipTheDishes / Just Eat Takeaway
-Edmonton-founded food tech company, though now owned by Just Eat Takeaway (a European conglomerate). The Edmonton engineering presence continues. Interesting logistics and real-time system problems if food tech is interesting to you. The acquisition has changed the dynamics somewhat.
-
-### Granify
-E-commerce AI company, smaller and more startup-like. Builds AI-driven conversion optimization for retailers. Smaller team means more responsibility and more breadth. Worth knowing about for students interested in ML applications in commerce.
-
 ---
 
 ## Startups and Innovation Ecosystem
 
-### TEC Edmonton
-Joint venture between the University of Alberta and the City of Edmonton. Supports early-stage startups with space, programs, and resources. Lots of UofA spin-out companies come through here. Good place to find interesting startup opportunities and co-op placements that won't appear on LinkedIn. If entrepreneurship interests you, TEC Edmonton is worth knowing.
-
-### Startup Edmonton
-Co-working space and community for entrepreneurs and early-stage companies. Runs programs and events. Smaller and more informal than TEC Edmonton. The community is genuine; if you go to events here, you'll meet founders and early employees at Edmonton startups.
+### Edmonton Unlimited (formerly Startup Edmonton)
+The city's innovation agency. Startup Edmonton, Scaleup Edmonton, and Accelerate Edmonton were folded into what is now [Edmonton Unlimited](https://edmontonunlimited.com/about-us/history/). It runs programs and events for founders and early-stage companies. The community is genuine; if you go to events here, you'll meet founders and early employees at Edmonton startups. (TEC Edmonton, the old U of A/City incubator, [ceased operations in 2021](https://betakit.com/tec-edmonton-to-cease-operations-on-june-30/).)
 
 ### Amii (Alberta Machine Intelligence Institute)
 The most important piece of Edmonton's tech ecosystem to understand if you're in AI/ML. Amii connects UofA's world-class AI research with industry application. They run programs that place ML expertise into companies, fund applied research, and train talent. As a UofA student, Amii represents a real competitive advantage; you're at the institution that Amii is built around.
@@ -85,6 +73,8 @@ Edmonton tech salaries are lower in absolute terms than Toronto and Vancouver. T
 | Senior software engineer (5+ years) | $110,000 - $160,000 |
 | Staff/principal engineer | $150,000 - $200,000+ |
 
+*These figures are unverified estimates, pending a community pay survey. Treat them as rough guidance only.*
+
 The cost-of-living adjustment is significant. A one-bedroom apartment in a decent Edmonton neighbourhood runs $1,200-$1,600/month. The equivalent in Vancouver is $2,500-$3,000+. That delta is roughly $15,000-$20,000/year in after-tax purchasing power, meaning an $80,000 Edmonton salary goes roughly as far as $100,000-$110,000+ in Vancouver for most life expenses, and significantly further when it comes to housing.
 
 If you ever want to own property, Edmonton is one of the few major Canadian cities where that's realistically achievable on a software engineer's salary within a few years of graduating.
@@ -95,7 +85,7 @@ If you ever want to own property, Edmonton is one of the few major Canadian citi
 
 The most important trend for Edmonton-based tech workers over the past five years is the normalization of remote work. Many Edmonton developers now work for Toronto, Vancouver, or US companies while living in Edmonton. This combination (high-cost-of-living salary, low-cost-of-living location) is essentially the financial optimization strategy of choice for Edmonton engineers in the know.
 
-Companies with remote roles that hire in Edmonton include Shopify (fully remote), Clio (legal tech, distributed team), and a wide range of US companies that hire Canadian residents through Employer of Record arrangements. The number of US companies willing to hire Canadian remote workers has grown substantially.
+Companies with remote roles that hire in Edmonton include Shopify (fully remote), Clio (legal tech; [hybrid, with Canadian hubs in Burnaby, Calgary, and Toronto](https://www.clio.com/ca/about/careers/)), and a wide range of US companies that hire Canadian residents through Employer of Record arrangements. The number of US companies willing to hire Canadian remote workers has grown substantially.
 
 As a new grad, the calculus is a bit different; early in your career, the in-person mentorship and osmosis of being physically present with experienced engineers has real value. Remote from day one can slow your development if your company doesn't invest deliberately in remote onboarding. But as you develop experience, remote work from Edmonton is one of the better setups available to a Canadian software engineer.
 
@@ -105,7 +95,7 @@ If you're hired by a US company as a Canadian resident: you'll file and pay Cana
 
 ## Edmonton vs Calgary
 
-Both Alberta cities, both without Vancouver/Toronto housing prices, both with the same provincial tax structure (no provincial income tax in Alberta is a real benefit that people underestimate).
+Both Alberta cities, both without Vancouver/Toronto housing prices, both with the same provincial tax structure (no provincial sales tax in Alberta is a real benefit that people underestimate).
 
 Calgary's tech scene is more heavily influenced by the energy sector; oil and gas companies have significant software and data teams, and there's a cluster of instrumentation, IoT, and operational technology companies. If energy tech interests you, Calgary is worth looking at.
 
@@ -135,7 +125,7 @@ A few specific reasons that don't get enough attention:
 
 **River Valley and quality of life**: Edmonton's River Valley is the largest urban parkland in North America. Shorter commutes than major metros. Less traffic, generally. The winters are cold and that's real, but summers are excellent and the city knows how to operate in winter in a way that prevents it from being debilitating.
 
-**Tax advantages**: Alberta has no provincial income tax. This is worth thousands of dollars annually compared to BC or Ontario, easily $5,000-$8,000+ for a software engineer's salary range. No provincial sales tax either (GST only). This benefit is rarely factored into city comparisons and it should be.
+**Tax advantages**: Alberta has no provincial sales tax; you pay [5% GST only](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses/charge-collect-which-rate/calculator.html). Alberta does have [provincial income tax](https://www.alberta.ca/personal-income-tax), so compare actual take-home pay with a tax calculator rather than assuming a big income tax gap versus BC or Ontario.
 
 **Growing, not stagnating**: Edmonton's tech sector has been on a slow but genuine growth trajectory. More companies, more investment, more UofA spin-offs. It's not a hockey stick, but it's not a flat line.
 
@@ -145,12 +135,11 @@ A few specific reasons that don't get enough attention:
 
 Edmonton has a smaller but real tech community. The best way to meet people in the industry (especially for students) is to show up to these:
 
-- **Edmonton.js**: JavaScript/web development meetup. Active and accessible.
-- **Python Edmonton**: Python user group. Good mix of academics, data scientists, and web developers.
-- **AI Edmonton**: Machine learning and AI meetup. Directly connected to the Amii ecosystem.
-- **DemoCamp Edmonton**: Tech demos and startup showcase. Good for seeing what's being built locally.
-- **Startup Edmonton events**: Variety of programs, workshops, and networking events.
-- **Edmonton .NET User Group**: For those working in Microsoft's ecosystem.
+- **Dev Edmonton**: the local JavaScript, Python, and Ruby groups now run [combined meetups](https://www.meetup.com/edmontonunlimited/events/vgqtstyjcjbgb/) under the Dev Edmonton Society. Active and accessible.
+- **[AI Tinkerers Edmonton](https://edmonton.aitinkerers.org/)**: code-first meetup for people building with foundation models and generative AI (invite/application based).
+- **[Edmonton WiMLDS](https://www.meetup.com/Edmonton-Women-in-Machine-Learning-and-Data-Science/)**: Women in Machine Learning & Data Science; events open to everyone interested in ML and data science.
+- **Edmonton Unlimited events**: Variety of programs, workshops, and networking events.
+- **[Edmonton .NET User Group](https://www.meetup.com/edmonton-net-user-group/)**: For those working in Microsoft's ecosystem.
 
 These communities are small enough that you'll actually meet people and be remembered. In Toronto or Vancouver, you're one of hundreds at any given meetup. In Edmonton, you can actually build a network.
 
