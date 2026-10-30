@@ -57,7 +57,7 @@ The Academic Calendar tells you what's required. Reddit tells you what one perso
 - [Grad School](docs/research/grad-school.md): whether it's worth it and how funding works
 
 ### Community
-- [Clubs and Events](docs/community/clubs-and-orgs.md): UACS, UAPSPC, UAIS, and more, plus the yearly events calendar
+- [Clubs and Events](docs/community/clubs-and-orgs.md): UACS, UAPSPC, UAIS, UCSC, and more, plus the yearly events calendar
 - [Networking](docs/community/networking.md): Edmonton meetups and cold outreach that works
 
 ### Money
