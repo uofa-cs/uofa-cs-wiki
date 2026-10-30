@@ -41,7 +41,7 @@ Course links go to the wiki's course pages; check each one's prerequisites and r
 |---|---|
 | **Courses** | [333](../courses/cmput-333.md), [331](../courses/cmput-331.md), plus [229](../courses/cmput-229.md), [313](../courses/cmput-313.md) and [379](../courses/cmput-379.md) for the low-level background |
 | **Research** | [Privacy and security](../research/ualberta-labs.md#privacy-and-security) |
-| **Clubs** | CHADS: workshops, CTFs, and its own CTF, HTCOTB ([Clubs](../community/clubs-and-orgs.md)) |
+| **Clubs** | UCSC: workshops, CTFs, and its own CTF, HTCOTB ([Clubs](../community/clubs-and-orgs.md)) |
 | **Edmonton employers** | None verified with student security roles. Look at the banks, utilities and governments in the [directory](edmonton-tech-scene.md#finance-utilities-and-large-organizations), and federal roles through [FSWEP](https://www.canada.ca/en/public-service-commission/jobs/services/recruitment/students/federal-student-work-program.html). |
 
 ## Games
