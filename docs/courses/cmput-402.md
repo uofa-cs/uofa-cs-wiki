@@ -8,18 +8,18 @@ corequisites: ''
 exclusions: ''
 terms:
 - W27
-- F26
 - W26
 - F25
 - W25
 - W24
 - W23
 - W22
+- W21
 latest_term: W27
 catalogue: https://apps.ualberta.ca/catalogue/course/cmput/402
 difficulty: null
 workload: null
-last_verified: '2026-10-01'
+last_verified: '2026-11-09'
 ---
 
 # CMPUT 402: Software Quality

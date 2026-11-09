@@ -7,7 +7,6 @@ prerequisites: CMPUT 201 or 275, and 204, and any 300-level Computing Science co
 corequisites: ''
 exclusions: Credit cannot be obtained for both CMPUT 303 and CMPUT 403.
 terms:
-- F26
 - F25
 - F23
 - F22
@@ -15,13 +14,16 @@ terms:
 - W21
 - W20
 - W19
-latest_term: F26
+- W18
+latest_term: F25
 catalogue: https://apps.ualberta.ca/catalogue/course/cmput/403
 difficulty: Hard
 workload: Heavy
-languages: ["C++ (lectures)", "any Open Kattis language"]
-course_site: "https://friggstad.github.io/cmput403_info.html"
-last_verified: '2026-10-01'
+languages:
+- C++ (lectures)
+- any Open Kattis language
+course_site: https://friggstad.github.io/cmput403_info.html
+last_verified: '2026-11-09'
 ---
 
 # CMPUT 403: Algorithmics in Competitive Programming

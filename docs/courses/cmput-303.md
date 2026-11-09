@@ -7,16 +7,17 @@ prerequisites: CMPUT 201 or 275, and 204.
 corequisites: ''
 exclusions: Credit cannot be obtained for both CMPUT 303 and CMPUT 403.
 terms:
-- F26
 - F25
 - F23
-latest_term: F26
+latest_term: F25
 catalogue: https://apps.ualberta.ca/catalogue/course/cmput/303
 difficulty: null
 workload: null
-languages: ["C++ (lectures)", "any Open Kattis language"]
-course_site: "https://friggstad.github.io/cmput403_info.html"
-last_verified: '2026-10-01'
+languages:
+- C++ (lectures)
+- any Open Kattis language
+course_site: https://friggstad.github.io/cmput403_info.html
+last_verified: '2026-11-09'
 ---
 
 # CMPUT 303: Algorithmics in Practice
