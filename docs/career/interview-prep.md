@@ -37,6 +37,7 @@ The classic format (an algorithm problem on a video call) is under pressure from
 - **[Tech Interview Handbook](https://www.techinterviewhandbook.org/):** free, end-to-end guide to coding, system design, and behavioural rounds.
 - **[NeetCode](https://neetcode.io/):** problem lists grouped by pattern, with video solutions.
 - **[Kattis](https://open.kattis.com/):** the judge students in 303/403 practise on, good for contest-style problems.
+- **[Nyrion](https://nyrion.ai/):** practice for the AI-assisted round described above: you work in a multi-file codebase with an AI assistant in the editor, and an interviewer asks about the code you accepted. Freemium.
 
 ---
 
